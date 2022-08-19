@@ -1,8 +1,9 @@
 import requests
 import csv
+from secrets import credenciales
 #!/usr/bin/env python
 data = {
-    'token': 'BE6F7745D6368829E2804EC191EC6799',
+    'token': credenciales.get("SECRET_KEY"),
     'content': 'report',
     'format': 'csv',
     'report_id': '120',

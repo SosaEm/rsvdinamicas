@@ -12,3 +12,9 @@ FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'; 
 
 SHOW PROCESSLIST
+select @@max_allowed_packet;
+set global max_allowed_packet=10485760;
+
+SELECT * FROM rsvdinamicas
+
+SELECT COUNT(*) FROM rsvdinamicas

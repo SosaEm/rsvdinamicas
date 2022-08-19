@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 import json
 import requests
+from secrets import credenciales
 data = {
-    'token': 'BE6F7745D6368829E2804EC191EC6799',
+    'token': credenciales.get("SECRET_KEY"),
     'content': 'report',
     'format': 'json',
     'report_id': '114',
