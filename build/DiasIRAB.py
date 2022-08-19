@@ -1,4 +1,3 @@
-from getpass import getpass
 import MySQLdb as db
 import csv
 from secrets import credenciales
