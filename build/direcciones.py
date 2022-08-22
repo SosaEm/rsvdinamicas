@@ -29,6 +29,7 @@ def direcciones():
     json_str = json.dumps(data)
     resp = json.loads(json_str)
 
+
     with open('informes/personal.json', 'r', encoding='utf-8') as json_file:
         for x in resp:
             try:

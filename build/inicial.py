@@ -9,6 +9,7 @@ from EdadFDR import EdadFDR
 from NoHipox import NoHipox
 from RedCapFiliales import Filiales
 from TestVSR import VSR
+from CompletadoPor import CompletadoPor
 
 def inicial():
     VarTodos()
@@ -19,11 +20,12 @@ def reportes():
     importarbase()
     AreaProg()
     DiasIRAB()
-    #direcciones()
     DxRespiMVS()
     EdadFDR()
     NoHipox()
     VSR()
+    CompletadoPor()
+    #Direcciones()
 
 
 
