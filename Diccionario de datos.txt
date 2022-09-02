@@ -1,0 +1,34 @@
+hospital
+"1, Hospital Ludovica | 2, Hospital Militar | 3, Hospital El Cruce | 4, Hospital Pedro Elizalde | 5, Hospital Posadas"
+dispositivo_o2
+"1, Cánula nasal o máscara simple | 2, Máscara con reservorio | 3, Cánula de alto flujo | 4, VNI (BiPAP, CPAP) | 5, ARM | 6, NS/NC"
+sx_ingreso
+"0, Ninguno | 1, Tos | 2, Aleteo nasal | 3, Retracciones costales o subcostales | 4, Estridor | 5, Quejido | 6, Sibilancias o crepitantes | 7, Apnea o pausa respiratoria | 8, Fiebre (>37.8°C) | 9, No hay registro"
+dx_respi
+"1, Bronquiolitis | 2, Neumonía | 3, Supuración pleuropulmonar | 4, Apneas | 5, Sindrome coqueluchoide | 6, Sindrome broncoobstructivo | 7, Otro | 0, No hay registro (NS/NC)"
+complicaciones
+"0, Ninguna | 1, Neumotórax | 2, Derrame pleural | 3, Empiema | 4, Absceso pulmonar | 5, Enfisema subcutáneo | 6, Sepsis | 7, Convulsiones | 8, Apnea | 9, Insuficiencia cardíaca | 10, Bronquiolitis obliterante | 11, NS / NC"
+comorbilidades
+"0, Ninguna | 1, Desnutrición | 2, Enfermedad respiratoria crónica | 3, Sobrepeso/ obesidad | 4, Enfermedad neurológica | 5, Enfermedad cardiológica | 6, Síndrome de Down | 7, Inmunodeficiencia | 8, Enfermedad onco-hematológica | 9, Insuficiencia renal crónica | 10, Enfermedad hepática crónica | 11, Síndrome de intestino corto | 12, Trasplante de órgano sólido o precursores hematopoyéticos | 13, Otra | 14, NS/NC"
+resultado_vsr1
+"0, Negativo | 1, Positivo | 2, No concluyente"
+tecnica_vsr1
+"1, IFI | 2, RT-PCR | 3, FilmArray | 4, Test rápido de Antígenos | 5, LAMP | 6, NS/NC"
+tecnica_vsr2
+"1, IFI | 2, RT-PCR | 3, FilmArray | 4, Test rápido de Antígenos | 5, LAMP | 6, NS/NC"
+tecnica_vsr3
+"Técnica utilizada:","1, IFI | 2, RT-PCR | 3, FilmArray | 4, Test rápido de Antígenos | 5, LAMP | 6, NS/NC"
+tecnica_covid
+"Técnica utilizada:","1, RT-PCR | 2, Test rápido de Antígenos | 3, LAMP | 4, NS/NC"
+resultado_viro
+"0, Negativo | 1, Adenovirus | 2, Influenza | 3, Parainfluenza | 4, Metapneumovirus | 5, Rinovirus | 6, Otro"
+resultado_hmc
+"0, Negativo | 1, Staphylococus aureus | 2, Streptococo pneumoniae | 3, Streptococo pyogenes | 4, Haemophilus influenzae | 5, Escherichia coli | 6, Pseudomona aeruginosa | 7, Klebsiella pneumoniae | 8, Otro"
+resultado_liqpleural
+"0, Negativo | 1, Staphylococus aureus | 2, Streptococo pneumoniae | 3, Streptococo pyogenes | 4, Haemophilus influenzae | 5, Escherichia coli | 6, Pseudomona aeruginosa | 7, Klebsiella pneumoniae | 8, Otro"
+resultado_lcr
+"0, Negativo | 1, Herpes virus | 2, Enterovirus | 3, Sthapylococcus aureus | 4, Streptococcus aureus | 5, Escherichia coli | 6, Neisseria meningitidis | 7, Haemophilus influenzae | 8, Pseudomona aeruginosa | 9, Otro"
+resultado_at
+"0, Negativo | 1, Stahpylococcus aureus | 2, Streptococcus pneumoniae | 3, Klebsiella pneumoniae | 4, Pseudomona aeruginosa | 5, Escherichia coli | 6, Acinetobacter baumanii | 7, Proteus mirabilis | 8, VSR | 9, Influenza | 10, Parainfluenza | 11, Metapneumovirus | 12, Adenovirus | 13, Otro"
+dx_egreso
+"1, Alta a domicilio | 2, Alta de enfermedad respiratoria sin egreso hospitalario | 3, Traslado a otra institución | 4, Defunción"
