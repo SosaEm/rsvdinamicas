@@ -19,7 +19,7 @@ def importarbase():
                 row = [x.replace("'", "''") for x in row]
                 out = "'" + "', '".join(item for item in row) + "'"
                 out = out.replace("'NULL'", 'NULL')
-                query = "INSERT INTO " + tbl + " VALUES (" + out + ")" + " ON DUPLICATE KEY UPDATE record_id=record_id"
+                query = "REPLACE INTO " + tbl + " VALUES (" + out + ")"
                 cur.execute(query)
                 cnt = cnt + 1
                 if cnt % 10000 == 0:
