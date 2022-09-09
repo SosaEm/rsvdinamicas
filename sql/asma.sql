@@ -21,3 +21,20 @@ WHERE fecha = (
     FROM controles AS b
     WHERE a.codigo_id = b.codigo_id
 )
+
+
+select codigo_id,max(fecha) 
+from (select max(fecha) as fecha from epi
+union
+select max(fecha) as fecha from inter);
+
+select u.codigo_id
+     , greatest(u.fecha,max(s.fecha),max(d.fecha),max(e.fecha))
+  from epi u
+     , inter s
+     , clinica d
+     , controles e             
+ where s.codigo_id = u.codigo_id
+ group by u.codigo_id
+     , u.codigo_id
+     , u.fecha
