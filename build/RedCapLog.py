@@ -57,7 +57,7 @@ with db.connect(host="127.0.0.1",
                 query = "REPLACE INTO " + tbl + " VALUES (" + out + ")"
                 cur.execute(query)
                 cnt = cnt + 1
-                if cnt % 10000 == 0:
+                if cnt % 100000000 == 0:
                     cur.commit()
             conn.commit()
         print("Uploaded " + str(cnt) + " rows into table " + tbl + ".")
