@@ -1,4 +1,1 @@
-select usuario, @semana:=(week(tiempo)) from logs
-SELECT week(tiempo),usuario,count(week(tiempo)) from logs where usuario ="gsanluis" group by week(tiempo)
-
-SELECT week(tiempo),usuario,count(week(tiempo)) from logs group by week(tiempo),usuario order by usuario,week(tiempo)
+SELECT week(tiempo) as 'semana',usuario,count(week(tiempo)) as 'fichas cargadas' from logs group by week(tiempo),usuario order by usuario,week(tiempo)
