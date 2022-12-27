@@ -9,7 +9,7 @@ def NoHipox():
                     passwd=credenciales.get("DATABASE_PASSWORD"),
                     db="rsv dinamicas") as conn:
         cur = conn.cursor()
-        sql = "SELECT record_id,hospital,hipox_taquipn,dx_respi___1,dx_respi___2,dx_respi___3,dx_respi___4,dx_respi___5,dx_respi___6,dx_respi___7,otro_dx,dx_respi___0,comentarios FROM rsvdinamicas WHERE hipox_taquipn!=1"
+        sql = "SELECT record_id,hospital,hipox_taquipn,dx_respi___1,dx_respi___2,dx_respi___3,dx_respi___4,dx_respi___5,dx_respi___6,dx_respi___7,otro_dx,dx_respi___0,comentarios FROM rsvdinamicas WHERE hipox_taquipn!=1 AND dx_respi___5 !=1"
         cur.execute(sql)
         data = cur.fetchall()
         cur.close() #Ver si hace falta cerrar la conexion
