@@ -20,7 +20,7 @@ r = requests.post('https://redcap.infant.org.ar/es/api/',data=data)
 r.json()
 print('HTTP Status: ' + str(r.status_code))
 
-with open('informes/log.json', 'w') as json_file:
+with open('rsvdinamicas/informes/log.json', 'w') as json_file:
     json.dump(r.json(), json_file)  
 
 
@@ -30,11 +30,11 @@ json_str = json.dumps(data)
 resp = json.loads(json_str)
 
 
-with open('informes/log.json', 'r', encoding='utf-8') as json_file:
+with open('rsvdinamicas/informes/log.json', 'r', encoding='utf-8') as json_file:
     for x in resp:
         id=(x['timestamp'])
         user=(x['username'])
-        with open('informes/logs.csv', 'a', newline='') as csvfile:
+        with open('rsvdinamicas/informes/logs.csv', 'a', newline='') as csvfile:
             spamwriter = csv.writer(csvfile)
             spamwriter.writerow(["{};{}" .format(id,user)])
            
