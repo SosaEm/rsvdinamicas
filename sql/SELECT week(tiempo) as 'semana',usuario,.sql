@@ -1,0 +1,1 @@
+SELECT week(tiempo) as 'semana',usuario,count(week(tiempo)) as 'fichas cargadas' from logs group by week(tiempo),usuario order by usuario,week(tiempo)
