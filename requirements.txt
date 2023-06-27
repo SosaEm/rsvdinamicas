@@ -1,0 +1,10 @@
+jupyter
+jupyterlab
+matplotlib
+scikit-learn
+scipy
+seaborn
+fastapi
+flask
+numpy
+pandas
