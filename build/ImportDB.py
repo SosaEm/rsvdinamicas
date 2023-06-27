@@ -11,7 +11,7 @@ def importarbase():
         cur = conn.cursor()
         tbl = 'rsvdinamicas'.split('.')[0]
         cnt = 0
-        with open ('informes/TodosLosDatos.csv', 'r') as f:
+        with open ('informes/TodosLosDatos.csv', 'r', encoding="utf-8") as f:
             reader = csv.reader(f, delimiter=';')
             for row in reader:
                 #row.pop() # can be commented out

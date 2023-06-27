@@ -41,7 +41,7 @@ with open('informes/personal.json', 'r', encoding='utf-8') as json_file:
             lon=location.longitude
             with open('informes/direcciones.csv', 'a', newline='') as csvfile:
                 spamwriter = csv.writer(csvfile)
-                spamwriter.writerow(["{},{},{},{}" .format(id,dire,lati,lon)])
+                spamwriter.writerow(["{};{};{};{}" .format(id,dire,lati,lon)])
         except:
             NoneType    
 
