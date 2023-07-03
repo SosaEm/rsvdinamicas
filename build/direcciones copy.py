@@ -32,3 +32,5 @@ with open('informes\personal.json', 'r', encoding='utf-8') as json_file:
                 spamwriter.writerow(["{};{};{};{}" .format(x["record_id"],x["direccion"],x["altura"],x["localidad"])]) 
 
 print("--- %s seconds ---" % (time.time() - start_time))
+
+#30/06/23 (5888-2215) 161 mins.

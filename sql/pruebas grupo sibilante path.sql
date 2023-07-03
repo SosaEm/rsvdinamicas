@@ -27,4 +27,21 @@ ELSE sibilante=0 from path
 
 select codigo_id,count(codigo_id),@sibilante :=1 as sibilante from path group by codigo_id having count(codigo_id) >1
 
-DO SLEEP(5)
+
+SELECT codigo_id
+FROM path
+WHERE codigo_id IN (
+    SELECT codigo_id
+    FROM path
+    GROUP BY codigo_id
+    HAVING COUNT(distinct evento) > 1
+) group by codigo_id
+
+SELECT codigo_id
+FROM path
+WHERE codigo_id IN (
+    SELECT codigo_id
+    FROM path
+    GROUP BY codigo_id
+    HAVING COUNT(distinct evento) = 1
+) group by codigo_id
