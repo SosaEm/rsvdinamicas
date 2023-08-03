@@ -1,0 +1,3 @@
+from query import Query
+
+Query("rsv dinamicas", "SELECT record_id,hospital,hipox_taquipn,dx_respi___1,dx_respi___2,dx_respi___3,dx_respi___4,dx_respi___5,dx_respi___6,dx_respi___7,otro_dx,dx_respi___0,comentarios FROM rsvdinamicas WHERE hipox_taquipn!=1 AND dx_respi___5 !=1", "query", "Record_ID, hospital, hipox_taquipn, Bronquiolitis, Neumonia, Supuracion pleuropulmonar, Apneas, Sindrome Coqueluchoide, Sindrome broncoobstructivo, Otro, Otro diagnostico, Ns, Comentarios")
