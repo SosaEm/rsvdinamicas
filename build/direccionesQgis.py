@@ -25,12 +25,10 @@ with open('informes\personal.json', 'r', encoding='utf-8') as json_file:
             lon=location.longitude
             with open('informes/direcciones.csv', 'a', newline='') as csvfile:
                 spamwriter = csv.writer(csvfile)
-                spamwriter.writerow(["{};{};{};{}" .format(id,dire,lati,lon)])
+                spamwriter.writerow(["{};{};{};{};{};{};{};{}" .format(id,x["hospital"],x["fecha_ingreso"],dire,lati,lon,x["uti"],x["dx_egreso"])])
         except:
             with open('informes/direcciones2.csv', 'a', newline='') as csvfile:
                 spamwriter = csv.writer(csvfile)
-                spamwriter.writerow(["{};{};{};{}" .format(x["record_id"],x["direccion"],x["altura"],x["localidad"])]) 
+                spamwriter.writerow(["{};{};{};{};{}" .format(x["record_id"],x["hospital"],x["direccion"],x["altura"],x["localidad"])]) 
 
 print("--- %s seconds ---" % (time.time() - start_time))
-
-#30/06/23 (5888-2215) 161 mins.
