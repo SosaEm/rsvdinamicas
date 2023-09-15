@@ -113,7 +113,7 @@ with db.connect(host="127.0.0.1",
 with open('informes/AspTraqueal.csv', 'w', newline='') as f_handle:
     writer = csv.writer(f_handle)
     # Crear encabezado del csv
-    header = ['Record_ID', 'hospital', 'cultivo_at' 'resultado_at___0', 'resultado_at___1', 'resultado_at___2', 'resultado_at___3', 'resultado_at___4', 'resultado_at___5', 'resultado_at___6', 'resultado_at___7', 'resultado_at___8', 'resultado_at___9', 'resultado_at___10', 'resultado_at___11', 'resultado_at___12', 'resultado_at___13', 'Comentarios', 'Completado por']
+    header = ['Record_ID', 'hospital', 'cultivo_at', 'resultado_at___0', 'resultado_at___1', 'resultado_at___2', 'resultado_at___3', 'resultado_at___4', 'resultado_at___5', 'resultado_at___6', 'resultado_at___7', 'resultado_at___8', 'resultado_at___9', 'resultado_at___10', 'resultado_at___11', 'resultado_at___12', 'resultado_at___13', 'Comentarios', 'Completado por']
     writer.writerow(header)
     # Copiar `data`  y escribir en el csv
     for row in data:
@@ -295,7 +295,7 @@ with db.connect(host="127.0.0.1",
                 passwd=credenciales.get("DATABASE_PASSWORD"),
                 db="rsv dinamicas") as conn:
     cur = conn.cursor()
-    sql = "SELECT record_id,hospital,dispositivo_o2___1,dispositivo_o2___2,dispositivo_o2___3,dispositivo_o2___4,dispositivo_o2___5,dispositivo_o2___6,comentarios,formcomplete FROM rsvdinamicas WHERE dispositivo_o2___1 = 0 AND dispositivo_o2___2 = 0 AND dispositivo_o2___3 = 0 AND dispositivo_o2___4 = 0 AND dispositivo_o2___5 = 0 AND dispositivo_o2___6 = 0 AND hipox_taquipn=1;"
+    sql = "SELECT record_id,hospital,dispositivo_o2___1,dispositivo_o2___2,dispositivo_o2___3,dispositivo_o2___4,dispositivo_o2___5,dispositivo_o2___6,comentarios,formcomplete FROM rsvdinamicas WHERE dispositivo_o2___1 = 0 AND dispositivo_o2___2 = 0 AND dispositivo_o2___3 = 0 AND dispositivo_o2___4 = 0 AND dispositivo_o2___5 = 0 AND dispositivo_o2___6 = 0;"
     cur.execute(sql)
     data = cur.fetchall()
     cur.close() #Ver si hace falta cerrar la conexion

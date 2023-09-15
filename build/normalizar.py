@@ -28,7 +28,7 @@ def get_similar_bulk(direcciones):
 
     return parsed_results
 
-#direcciones = get_similar_bulk([{"direccion": "republica argentina 6105", "localidad": "burzaco", "departamento": "almirante brown"}])
+#direcciones = get_similar_bulk([{"direccion": "pueyrredon", "localidad": "gral rod", "departamento": "general rodriguez"}])
 #print(direcciones)
 
 f = open(r'C:\Users\esosa\Desktop\Nominatim\rsvdinamicas\informes\personal.json')
@@ -38,8 +38,10 @@ resp = json.loads(json_str)
 
 with open('informes\personal.json', 'r', encoding='utf-8') as json_file:
     for x in resp:
+        id=x['record_id']
         provincias = get_similar_bulk([{"direccion":x["direccion"] + " " + x["altura"], "departamento": x["partido"], "localidad": x["localidad"]}])
-        with open('informes/normalizar.csv', 'a', newline='') as csvfile:
-            spamwriter = csv.writer(csvfile)
-            spamwriter.writerow(["{};{};{};{};{};{}" .format(x['record_id'],x["hospital"],x["fecha_ingreso"],provincias,x["uti"],x["dx_egreso"])])
-
+        #with open('informes/normalizar.csv', 'a', newline='') as csvfile:
+            #spamwriter = csv.writer(csvfile)
+            #spamwriter.writerow(["{};{};{};{};{};{}" .format(x['record_id'],x["hospital"],x["fecha_ingreso"],provincias,x["uti"],x["dx_egreso"])])
+        with open('informes/normalizar.json', 'a') as json_file1:
+            json.dump(provincias, json_file1)
