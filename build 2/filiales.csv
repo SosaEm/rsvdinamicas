@@ -10,11 +10,11 @@ aaa-731-2019-00;1;2019-06-06;0;1;66;"altos de san lorenzo";28;;89;90;1901;mstefa
 aaa-942-2022-00;1;2022-04-15;0;1;66;"la plata";522;5528;;;1900;mstefano
 aaa-942-2022-01;1;2022-06-24;0;1;66;"melchor romero";522;2508;;;1903;mstefano
 aaa-xxx-2018-00;1;2018-07-02;0;1;66;"la plata";12;520;;;1900;mstefano
-aab-001-2019-00;1;2019-07-13;0;1;66;"la plata";"122 bis";410;;;1900;mstefano
-aab-001-2020-01;1;2020-06-02;0;1;66;ringuelet;"122 bis";210;;;1900;mstefano
-aab-001-2020-02;1;2020-06-28;1;1;66;ringuelet;"122 bis";210;;;1900;mstefano
+aab-001-2019-00;1;2019-07-13;0;1;66;ringuelet;122;210;;;1900;mstefano
+aab-001-2020-01;1;2020-06-02;0;1;66;ringuelet;122;210;;;1900;mstefano
+aab-001-2020-02;1;2020-06-28;1;1;66;ringuelet;122;210;;;1900;mstefano
 aab-225-2018-01;1;2018-06-02;0;1;66;tolosa;530;2291;;;1901;mstefano
-aab-261-2020-00;3;2020-12-18;0;1;74;lavallol;doctor_jorge_melber;1354;;;1836;agraziano
+aab-261-2020-00;3;2020-12-18;0;1;74;llavallol;doctor_jorge_melber;1354;;;1836;agraziano
 aab-352-2018-00;3;2018-10-22;1;1;40;ezeiza;larralde;1728;;;1804;jveslosada
 aab-527-2021-00;1;2021-10-03;0;1;66;"villa elvira";117;3404;;;1900;mstefano
 aab-527-2022-01;1;2022-08-13;0;1;66;"VILLA ELVIRA";117;2404;;;1900;mstefano
@@ -47,6 +47,7 @@ aag-408-2019-03;1;2019-07-04;0;1;66;abasto;516;;211;212;1903;mstefano
 aag-585-2019-00;1;2019-05-14;0;1;66;"villa elvira";121;;604;;1900;mstefano
 aag-640-2021-00;1;2021-06-09;0;1;66;"san carlos";50;;147;148;1901;mstefano
 aai-027-2021-00;1;2021-09-09;0;1;14;berisso;31;25;;;1923;mstefano
+aai-142-2023-00;4;2023-06-16;0;1;41;florencio_varela;402;57;;;1888;fossorio
 AAL-142-2023-00;5;2023-06-27;1;1;116;"bella vista";"La quiaca";5820;;;1661;mnieves
 aal-366-2019-00;3;2019-07-30;1;3;4;burzaco;republica_argentina;6155;;;1852;agraziano
 aal-619-2019-01;4;2019-09-05;0;1;135;caba;pestalozzi;3567;;;1431;gsanluis
@@ -62,6 +63,7 @@ aam-195-2018-01;5;2018-06-22;0;1;85;moreno;san_juan;344;;;1744;slugo
 aam-195-2021-00;5;2021-08-07;0;1;85;moreno;san_juan;344;;;1744;slugo
 aam-238-2022-00;5;2022-08-31;0;1;82;merlo;cassio;1165;;;1722;cgroppo
 aam-272-2022-00;1;2022-05-22;1;1;66;"arturo segui";417;0;;;1903;mstefano
+aam-294-2023-00;4;2023-06-25;0;1;4;long_champs;alfonsina_storni;170;;;1854;fossorio
 aam-375-2018-00;1;2018-02-01;0;1;6;avellaneda;"ayuntamiento del boiro";1290;;;1870;rmerlino
 aam-375-2020-03;4;2020-01-24;0;1;6;avellaneda;"ayuntamiento del boiro";1290;;;1870;gsanluis
 aam-412-2019-00;1;2019-07-18;0;1;66;"san carlos";132;743;;;1901;mstefano
@@ -76,6 +78,7 @@ aao-666-2022-00;1;2022-02-22;0;1;66;"la plata";177;8510;531;532;190;mstefano
 aap-209-2018-00;4;2018-06-23;0;1;4;"rafael calzada";chubut;2230;;;1847;gsanluis
 aap-239-2019-00;1;2019-05-19;0;1;14;berisso;11;2826;;;1923;mstefano
 AAP-262-2023-00;5;2023-06-01;0;1;82;Merlo;"Las gardenias";899;;;1722;mnieves
+aap-578-2023-00;3;2023-05-07;1;1;41;florencio_varela;rio_salado;2752;;;1888;agraziano
 aap-609-2021-00;4;2021-07-31;0;1;74;"lomas de zamora";mayor_olivero;2026;;;1832;asbruzzi
 aap-609-2021-01;4;2021-08-27;0;1;74;"lomas de zamora";mayor_olivero;2026;;;1832;asbruzzi
 aap-609-2021-02;4;2021-08-27;0;1;74;"lomas de zamora";mayor_olivero;2026;;;1832;asbruzzi
@@ -94,6 +97,7 @@ aas-360-2018-00;1;2018-07-11;0;1;66;"villa elvira";99;225;;121;1900;mstefano
 aas-360-2018-01;1;2018-09-05;0;1;66;"altos de san lorenzo";99;225;;;1901;mstefano
 aas-625-2018-00;4;2018-06-30;0;1;6;avellaneda;juan_b_justo;802;;;1870;gsanluis
 aas-770-2019-00;1;2019-02-08;0;1;81;mercedes;28;1117;;;6600;mstefano
+aas-827-2022-01;1;2022-09-07;0;1;66;"la plata";35;0;;;1900;mstefano
 aat-000-2019-00;5;2019-07-22;0;1;82;merlo;garmendia;4406;;;1722;cgroppo
 aat-000-2019-01;5;2019-12-17;0;1;82;merlo;"garmendia ";4406;;;1722;cgroppo
 aau-091-2022-00;1;2022-06-03;0;1;19;"maximo paz";azara;888;;;;mstefano
@@ -120,6 +124,7 @@ abc-067-2022-01;4;2022-07-07;0;1;6;avellaneda;campana;1250;;;1870;gsanluis
 abc-166-2021-00;1;2021-12-01;0;1;66;"villa elvira";90;128;;;1900;mstefano
 abc-356-2022-00;1;2022-03-02;0;1;66;"los hornos";68;3060;;;1900;mstefano
 ABC-356-2022-01;1;2022-08-07;0;1;66;"LOS HORNOS";68;3060;;;1900;mstefano
+abd-433-2023-00;4;2023-06-21;0;1;135;constitucion;constitucion;1552;;;1151;fossorio
 abf-161-2019-00;1;2019-07-30;0;1;66;abasto;32;;196;;1903;mstefano
 abg-080-2021-00;5;2021-10-16;0;1;62;ituzaingo;fitz_roy;4178;;;1714;cgroppo
 abg-291-2019-00;4;2019-11-23;0;1;67;lanus;olazabal;4675;;;1824;gsanluis
@@ -182,7 +187,7 @@ adc-740-2019-00;5;2019-10-02;0;1;82;merlo;marcos_sastre;753;;;1722;slugo
 adc-848-2018-00;4;2018-06-05;0;1;41;"florencio varela";juarez_celman;934;;;1888;gsanluis
 adf-492-2019-03;4;2019-09-22;0;1;101;quilmes;835;2061;;;1878;gsanluis
 adf-492-2019-04;4;2019-10-09;0;1;101;quilmes;835;2061;;;1878;gsanluis
-adf-513-2022-00;1;2022-06-27;0;1;66;"altos de san lorenzo";94;1192;;;191;mstefano
+adf-513-2022-00;1;2022-06-27;0;1;66;"altos de san lorenzo";94;3052;;;1901;mstefano
 adf-906-2018-00;1;2018-09-15;0;1;66;abasto;420;;"ruta 2";;1903;mstefano
 adf-947-2022-00;1;2022-07-15;0;1;41;bosque;"937 a ";3772;;;1888;mstefano
 adg-003-2022-00;5;2022-06-03;0;1;65;"san justo";Rivera_indarte;2851;;;1754;cgroppo
@@ -250,6 +255,7 @@ aer-567-2021-01;5;2021-10-23;0;1;80;"marcos paz";garay;1070;;;1727;cgroppo
 aer-597-2019-00;3;2019-07-13;1;1;41;"florencio varela";18B;608;;;1888;agraziano
 aer-749-2021-00;4;2021-09-08;0;1;74;"lomas de zamora";marsella;761;;;1832;asbruzzi
 AER-802-2022-00;5;2022-08-14;1;1;86;"el palomar";damico;1893;;;1685;cgroppo
+aer-805-2022-00;4;2022-12-17;1;1;41;bosques;san_geronimo;987;;;1888;gsanluis
 aer-974-2018-00;5;2018-07-28;0;1;85;moreno;iguazu;2377;;;1744;slugo
 aes-110-2018-00;1;2018-08-06;0;1;66;"villa elvira";94;;116;117;1900;mstefano
 aes-279-2019-00;1;2019-05-09;0;1;98;guernica;133;652;;;1858;mstefano
@@ -257,6 +263,7 @@ aes-454-2018-00;1;2018-01-25;0;1;66;gonnet;30;;495;496;1897;rmerlino
 aev-159-2019-00;1;2019-05-16;1;1;66;"los hornos";151;;72;;1900;mstefano
 aev-206-2022-00;1;2022-05-15;0;1;;;135;;;;1901;mstefano
 aev-251-2019-00;1;2019-05-23;0;1;14;berisso;16;;montevideo;;1923;mstefano
+aev-709-2022-00;4;2022-12-15;0;1;6;wilde;lynch;456;;;1875;gsanluis
 aey-144-2022-00;1;2022-05-05;0;1;;;;;;;;mstefano
 aey-xxx-2021-00;1;2021-09-12;0;1;66;"los hornos";52;;151;152;1900;mstefano
 afa-617-2018-00;1;2018-07-02;0;1;66;"san carlos";148;96;"33bis ";y24;1901;mstefano
@@ -265,6 +272,7 @@ afc-850-2021-00;1;2021-08-30;0;1;66;"los hornos";76;;140;141;1900;mstefano
 afe-253-2022-00;4;2022-06-30;0;1;101;solano;891;4718;;;1881;gsanluis
 aff-873-2022-00;4;2022-07-21;0;1;67;"monte chingolo";sitio_de_montevideo;3729;;;1825;gsanluis
 AFG-260-2022-00;1;2022-06-26;0;1;66;ABASTO;218;0;45;46;1903;mstefano
+afg-437-2023-00;3;2023-05-03;1;3;98;guernica;100;30;;;1862;agraziano
 afk-440-2021-00;1;2021-09-26;0;1;66;"la plata";28;;;;1900;mstefano
 afl-026-2019-01;4;2019-11-17;0;1;135;"barrio 15";zuviria;6000;;;1439;gsanluis
 afl-026-2019-02;4;2019-12-01;0;1;135;"barrio 15";zuviria;6000;;;1439;gsanluis
@@ -279,6 +287,7 @@ AFP-297-2019-00;1;2019-07-18;1;1;41;bosques;"la rosas";1052;;;1888;mstefano
 afp-622-2022-00;3;2022-10-06;1;1;4;"rafael calzada";el_crespin;5753;;;1847;agraziano
 afr-695-2021-00;5;2021-11-24;0;1;85;"paso del rey";corrientes;2310;;;1742;galfiero
 afr-804-2018-00;5;2018-06-05;0;1;63;"jose c paz";conti;720;;;1660;slugo
+afr-898-2022-00;1;2022-09-25;0;1;66;abasto;"ruta 36";0;448;;1903;mstefano
 afr-978-2019-00;1;2019-06-19;0;1;66;"lisandro olmos";200;;53;;1903;mstefano
 afs-188-2021-00;1;2021-08-27;0;1;66;"los hornos";149;1241;;;1900;mstefano
 AFV-046-2022-00;1;2022-08-24;1;1;66;"ALTOS DE SAN LORENZO";28;0;90;91;1901;mstefano
@@ -381,6 +390,7 @@ AIR-090-2023-00;5;2023-05-16;0;1;116;"San miguel";"La pinta";2472;;;1663;mnieves
 air-195-2018-04;4;2018-06-18;0;1;65;"rafael castillo";andrade;1848;;;1755;gsanluis
 air-593-2018-00;4;2018-07-03;0;1;101;quilmes;chile;1075;tucuman;;1878;gsanluis
 AIT-579-2023-00;5;2023-07-16;0;1;61;hurlingham;"Alejandro malaspina";2180;;;1686;mnieves
+ait362-2022-00;1;2022-09-16;0;1;66;"los hornos";159;2074;;;1900;mstefano
 aiv-220-2021-00;1;2021-03-18;1;1;66;"villa elisa";419;;;;1902;mstefano
 aiv-266-2019-00;1;2019-04-09;0;1;36;ensenada;"25 de mayo";434;124;;1925;mstefano
 aiv-360-2018-00;1;2018-02-04;1;1;13;"el pato";614;;0000;0000;1893;rmerlino
@@ -430,6 +440,8 @@ ajs-709-2018-00;1;2018-07-04;0;1;66;"los hornos";140;;;74;1900;mstefano
 ajs-709-2018-01;1;2018-08-22;0;1;66;"los hornos";140;;74;;1900;mstefano
 ajs-xxx-2022-00;3;2022-10-08;1;4;4;"rafael calzada";catamarca;2593;;;1847;agraziano
 ajv-405-2022-01;4;2022-07-02;0;1;101;bernal;chaco;717;;;1876;gsanluis
+ajv-464-2019-00;5;2019-07-04;0;1;61;"hurlingham ";amoroso;17;;;1686;cgroppo
+ajz-345-2022-00;1;2022-09-23;0;1;13;hudson;134;0;47;48;1884;mstefano
 ajz-619-2019-00;1;2019-09-25;0;1;14;berisso;albania;2900;;;1923;mstefano
 AKB-729-2022-00;1;2022-05-27;0;1;66;GONNET;451;0;;;1903;mstefano
 akc-862-2018-00;3;2018-12-01;1;1;4;claypole;vilcapugio;353;;;1849;jveslosada
@@ -518,8 +530,10 @@ AMD-173-2021-00;5;2021-09-22;0;1;61;"William morris";"calle huemul";3724;;;1686;
 amd-807-2018-00;4;2018-07-10;0;1;6;"dock sud";montaña;479;;;1871;gsanluis
 amd-815-2021-01;1;2021-02-25;0;1;66;"los hornos";55;1246;;;1900;mstefano
 amd-993-2019-01;4;2019-10-03;1;2;65;"gonzalez catan";lavalle;930;;;1759;gsanluis
+amf-026-2023-01;4;2023-06-27;0;1;119;alejandro_korn;gonnet;2944;;;1864;fossorio
 amf-035-2019-00;1;2019-10-14;0;1;66;"melchor romero";34;;163;;1903;mstefano
 amf-071-2022-00;4;2022-08-17;1;1;74;"lomas de zamora";fallares;1636;;;1832;gsanluis
+amf-134-2022-00;1;2022-10-14;0;1;35;dolores;salta;684;;;0;mstefano
 amf-221-2021-00;4;2021-07-20;0;1;6;"villa dominico";bolivar;4707;;;1874;asbruzzi
 amf-221-2022-00;4;2022-05-03;0;1;6;"villa dominico";bolivar;4707;;;1874;asbruzzi
 amf-696-2018-00;1;2018-05-06;0;1;66;"los hornos";60;3628;;;1900;mstefano
@@ -672,6 +686,7 @@ apa-482-2019-00;1;2019-01-15;0;1;14;berisso;"barrio obrero  manzana ";19;;;1923;
 apc-202-2019-00;1;2019-06-17;0;1;66;"villa elisa";53;235;;;1902;mstefano
 apc-294-2018-00;5;2018-06-28;0;1;82;"san antonio de padua";sullivan;1200;;;1718;slugo
 apc-294-2018-01;5;2018-10-03;0;1;82;"san antonio de padua";sullivan;1200;;;1718;slugo
+apc-538-2022-00;1;2022-10-17;0;1;66;"san carlos";34;2168;;;1901;mstefano
 apc-580-2019-00;5;2019-08-23;0;1;62;ituzaingo;bagnat;1309;;;1714;slugo
 apc-580-2020-00;5;2020-03-07;0;1;62;ituzaingo;bagnat;1309;;;1714;slugo
 apc-580-2021-00;5;2021-07-23;0;1;62;Ituzaingo;Profesor_juan_carril_bagnat;1309;;;1714;galfiero
@@ -841,11 +856,14 @@ avn-452-2018-00;1;2018-10-09;0;1;14;berisso;"162 sur";1746;;;1923;mstefano
 avp-112-2018-00;4;2018-06-28;0;1;67;lanus;rivadavia;4029;;;1824;gsanluis
 avr-579-2022-00;1;2022-02-14;0;1;17;brandsen;16;8010;;;1680;mstefano
 avr-798-2021-00;4;2021-07-25;0;1;41;"florencio varela";"cacheuta ";1353;;;1888;asbruzzi
+avs-795-2023-00;4;2023-05-05;0;1;38;"Monte grande";Juarez;3281;;;1842;tsouto
+avs-804-2023-00;4;2023-04-29;0;1;38;"esteban echeverria ";4;14;;;1842;tsouto
 avv-317-2018-00;3;2018-07-25;1;1;56;"remedios de escalada";avellaneda;1871;;;1414;jveslosada
 avv-675-2021-00;1;2021-10-11;0;1;66;abasto;424;;224;;1903;mstefano
 avz-928-2022-00;5;2022-10-22;0;1;82;Pontevedra;"Senillosa ";6035;;;1761;mnieves
 AVZ-928-2023-00;5;2023-05-13;0;1;82;Pontevedra;Senillosa;6035;;;1761;mnieves
 axa-040-2023-00;5;2023-04-22;0;1;82;merlo;morce;3130;;;1722;cgroppo
+axa-156-2022-00;1;2022-10-23;0;1;36;"punta lara";130;374;;;1925;mstefano
 axa-185-2018-00;3;2018-06-11;1;3;74;banfield;montiel;37;;;1832;jveslosada
 axa-185-2018-01;3;2018-06-26;1;3;74;temperley;"el cardenal";3685;;;1834;jveslosada
 axa-185-2018-02;3;2018-08-04;1;3;74;temperley;"el cardenal";3685;;;1834;jveslosada
@@ -862,6 +880,7 @@ axa-370-2022-00;1;2022-09-29;0;1;14;"villa arguello";10;79;;;1923;mstefano
 axa-472-2022-00;1;2022-07-07;0;1;66;"villa elvira";78;872;;;1900;mstefano
 axa-477-2020-00;1;2020-04-11;0;1;66;gonnet;508;;9;10;1900;mstefano
 axa-504-2022-00;4;2022-09-01;0;1;41;"florencio varela";1137;2532;;;1888;gsanluis
+AXA-694-2022-00;1;2022-10-15;0;1;66;OLMOS;"RUTA 36";0;90;;1903;mstefano
 axa-710-2022-00;4;2022-10-16;0;1;101;bernal;pilcomayo;5031;;;1876;gsanluis
 AXA-784-2023-00;5;2023-04-21;0;1;82;"Mariano acosta";"Canada ";2251;;;1723;mnieves
 axa-855-2019-00;1;2019-05-04;0;1;36;"punta lara";132;;11;13;1925;mstefano
@@ -929,6 +948,7 @@ axe-363-2019-01;1;2019-09-19;0;1;66;"melchor romero";518;9100;185;186;1903;mstef
 axe-555-2019-00;1;2019-08-31;0;1;66;"villa elvira";87;;8bis;;1900;mstefano
 axe-636-2020-01;1;2020-11-28;0;1;66;"los hornos";70;2716;;;1900;mstefano
 axe-640-2022-00;1;2022-09-28;0;1;13;berazategui;615;1445;;;1884;mstefano
+axe-852-2022-00;1;2022-10-17;0;1;66;"los hornos";70;2540;;;1900;mstefano
 axf-175-2021-00;1;2021-09-01;0;1;;;;;;;;mstefano
 axf-309-2021-00;1;2021-10-13;0;1;66;tolosa;525;;121;;1900;mstefano
 axf-321-2021-00;5;2021-07-12;0;1;82;merlo;balcarce;1073;;;1722;cgroppo
@@ -938,6 +958,7 @@ AXF-580-2022-00;1;2022-04-07;0;1;66;"ALTOS DE SAN LORENZO";78;1616;;;1901;mstefa
 axf-640-2021-00;5;2021-02-27;1;1;116;"bella vista";rio_atuel;219;;;1663;cgroppo
 axf-640-2021-01;5;2021-06-11;0;1;116;"bella vista";rio_atuel;219;;;1663;cgroppo
 axf-668-2022-00;5;2022-09-21;0;1;63;"jose clemente paz";salvador_del_carril;2758;;;1660;cgroppo
+axg-062-2019-00;5;2019-07-11;0;1;82;merlo;saavedra_lamas;2321;;;1722;cgroppo
 axg-093-2019-00;5;2019-07-29;1;1;65;"rafael castillo";eufrales;286;;;1755;cgroppo
 axg-093-2019-01;5;2019-09-09;0;1;65;"rafael castillo";eufrales;286;;;1755;cgroppo
 axg-123-2018-00;5;2018-08-18;0;1;55;"general rodriguez";el_chasqui_lote;24;;;1749;jgarcia
@@ -1046,6 +1067,7 @@ axr-030-2021-00;3;2021-08-18;1;3;40;"carlos spegazzini";o'higgins;435;;;1812;agr
 AXR-040-2023-00;5;2023-06-09;0;1;61;hurlingham;"Hernando de lerma";287;;;1686;mnieves
 axr-166-2021-00;5;2021-07-15;0;1;61;hurlingham;intendente_mustoni;2156;;;1686;cgroppo
 axr-168-2022-01;5;2022-10-08;0;1;86;"el palomar";manuel_fluguerto;1708;;;1685;cgroppo
+axr-191-2022-00;1;2022-09-06;0;1;66;"el carmen ";127;0;601;;1900;mstefano
 axr-428-2021-00;5;2021-08-17;0;1;86;castelar;alberto_casares;2945;;;1712;galfiero
 AXR-542-2022-00;1;2022-05-22;1;4;66;"lisandro olmos";"RUTA 36";0;125;0;1903;mstefano
 axr-632-2021-00;5;2021-09-08;0;1;82;pontevedra;laplace;289;;;1722;cgroppo
@@ -1060,10 +1082,12 @@ axr-820-2018-00;1;2018-08-15;0;1;66;"la plata";25;1159;;;1900;mstefano
 axr-866-2022-00;1;2022-03-28;;;119;"san vicente";"cordoba ";519;;;1865;mstefano
 axr-880-2020-00;3;2020-08-26;1;4;67;"monte chingolo";pichincha;5444;;;1825;agraziano
 axr-973-2019-00;1;2019-06-18;0;1;66;tolosa;122;;516;;1900;mstefano
+axr-xxx-2022-00;1;2022-09-16;0;1;66;"la plata";151;0;;;1900;mstefano
 axs-011-2022-00;5;2022-08-21;0;1;128;caseros;cafaleta;8983;;;1678;cgroppo
 axs-039-2018-00;4;2018-07-08;0;1;40;ezeiza;los_juncos;1029;;;1804;gsanluis
 AXS-088-2021-00;1;2021-11-21;0;1;66;"los hornos";154;1554;;;1900;mstefano
 axs-088-2022-01;1;2022-04-11;0;1;66;"los hornos";154;1790;;;1900;mstefano
+axs-128-2022-00;1;2022-09-12;0;1;13;berazategui;462;2060;;;1884;mstefano
 axs-152-2021-00;1;2021-08-12;0;1;66;"san carlos";156;;531;;1901;mstefano
 axs-230-2018-00;5;2018-08-02;0;1;61;"Villa tesei";Ordoñez;784;;;1686;jgarcia
 axs-230-2019-00;5;2019-03-11;0;1;61;"Villa tesei";Ordoñez;784;;;1686;jgarcia
@@ -1082,6 +1106,7 @@ AXS-819-2019-01;5;2019-08-31;0;1;85;moreno;"shakespeare ";2137;;;1744;fcohen
 AXS-819-2019-02;5;2019-09-29;0;1;85;moreno;shakespeare;2137;;;1744;fcohen
 AXS-819-2019-03;5;2019-11-04;0;1;85;moreno;"shakespeare ";2137;;;1744;fcohen
 AXS-819-2021-00;5;2021-07-06;0;1;85;moreno;shakespeare;2137;;;1744;fcohen
+axs-995-2022-00;1;2022-09-25;0;1;66;"villa elvira";3;3366;;;1900;mstefano
 axt-208-2022-00;4;2022-07-20;0;1;65;"san justo";jose_indart;1931;;;1754;gsanluis
 axt-239-2022-00;3;2022-06-28;1;1;41;"florencio varela";martinez;974;;;1888;jveslosada
 axt-440-2018-00;1;2018-04-24;0;1;66;"san carlos";515;;142;143;1901;mstefano
@@ -1089,6 +1114,7 @@ axt-632-2020-00;3;2020-04-11;1;4;;;;;;;;agraziano
 axt-771-2018-00;1;2018-10-19;0;1;66;"la plata";50;1028;;;1900;mstefano
 axv-141-2019-01;1;2019-09-14;0;1;66;"los hornos";62;1954;;;1900;mstefano
 axv-475-2018-00;4;2018-08-21;1;2;67;"remedios de escalada";ruiz_de_ocaña;3612;;;1826;gsanluis
+axv-627-2022-00;1;2022-09-25;0;1;66;tolosa;524;2781;;;1900;mstefano
 axv-664-2019-00;3;2019-05-21;1;1;41;"florencio varela";buenos_aires;1648;;;1888;agraziano
 AXV-687-2023-00;5;2023-06-07;1;2;85;"La reja";Ibera;2183;;;1744;mnieves
 axv-787-2022-00;5;2022-03-24;0;1;85;moreno;felix_de_azara;9315;;;1744;slugo
@@ -1159,7 +1185,7 @@ ban-916-2018-00;1;2018-01-30;1;1;130;"veinticinco de mayo";39;;11;12;6660;rmerli
 bao-497-2021-00;1;2021-09-17;0;1;66;"altos de san lorenzo";22;;;;1901;mstefano
 bao-965-2018-00;5;2018-07-07;0;1;61;hurlingham;el_jaguel;3532;;;1686;slugo
 bap-232-2018-00;4;2018-07-23;0;1;40;"monte grande";las_calas;236;;;1842;gsanluis
-bap-570-2022-00;1;2022-08-27;0;1;66;altos;"23 bis ";2540;;;1901;mstefano
+bap-570-2022-00;1;2022-08-27;0;1;66;"altos de san lorenzo";"23 bis ";2540;;;1901;mstefano
 bap-783-2018-00;4;2018-05-23;0;1;67;"valentin alsina";otamendi;1461;;;1822;gsanluis
 bap-993-2020-00;1;2020-11-02;0;1;66;"los hornos";132;2463;;;1900;mstefano
 bar-078-2019-01;1;2019-12-03;0;1;66;etcheverry;253;;49;50;1903;mstefano
@@ -1238,6 +1264,7 @@ bdb-807-2022-00;5;2022-05-12;0;1;61;hurlingham;fitz_roy;945;;;1688;cgroppo
 bdc-317-2019-00;4;2019-11-17;0;1;101;"san francisco solano";802;1235;;;1881;gsanluis
 bdc-318-2019-00;4;2019-11-12;0;1;101;"san francisco solano";802;1235;;;1881;gsanluis
 bdc-318-2020-01;4;2020-02-08;0;1;101;solano;802;1235;;;1881;gsanluis
+bdc-658-2023-00;4;2023-06-20;0;1;135;boedo;humberto_primo;6261;;;1231;fossorio
 bdc-770-2022-00;4;2022-07-19;1;1;98;guernica;j_b_cabral;161;;;1862;gsanluis
 bdc-770-2022-03;4;2022-12-04;0;1;98;guernica;cabral;161;;;1862;gsanluis
 bdf-729-2019-00;1;2019-01-19;1;1;66;"lisandro olmos";90;;207;;1903;mstefano
@@ -1260,6 +1287,7 @@ bea-714-2019-03;4;2019-05-05;1;2;67;lanus;habana;900;;;1824;gsanluis
 bea-714-2021-00;4;2021-04-13;0;1;67;lanus;habana;900;;;1824;asbruzzi
 bea-714-2021-01;4;2021-07-10;0;1;67;lanus;habana;900;;;1824;asbruzzi
 bea-714-2021-02;4;2021-10-02;0;1;67;lanus;habana;900;;;1824;asbruzzi
+beb-855-2022-01;1;2022-10-27;0;1;66;"villa elvira";"8 bis";211;83;84;1900;mstefano
 bec-262-2019-00;1;2019-09-18;0;1;66;"altos de san lorenzo";"28 bis";;78;79;1901;mstefano
 bec-329-2018-00;5;2018-06-15;0;1;82;libertad;sinclair;1741;;;1716;slugo
 bec-342-2018-00;1;2018-07-26;0;1;26;chascomus;"libre del sur";232;;;7130;mstefano
@@ -1303,6 +1331,7 @@ beq-590-2018-00;5;2018-07-13;0;1;128;caseros;trenque_lauquen;4130;;;1678;slugo
 ber-172-2019-00;3;2019-04-05;1;3;4;claypole;rotonda_de_monteagudo;110;;;1849;agraziano
 ber-172-2019-01;1;2019-08-15;0;1;66;"city bell";26;5314;;;1902;mstefano
 ber-344-2022-00;4;2022-04-29;0;1;101;quilmes;avenida_italia;1502;;;1878;asbruzzi
+ber-637-2023-00;4;2023-05-06;0;1;101;"san francisco solano ";882;3564;;;1878;tsouto
 bes-335-2019-00;4;2019-12-08;0;1;119;"san vicente";solis;93;;;1865;gsanluis
 BES-547-2021-00;5;2021-11-07;0;1;85;Moreno;"Carlos heber";1065;;;1744;mnieves
 BES-547-2022-00;5;2022-12-06;0;1;85;Moreno;"Carlos heber";1065;;;1744;mnieves
@@ -1322,6 +1351,7 @@ bfn-530-2020-00;5;2020-03-10;0;1;85;moreno;plutarco;7507;;;1744;slugo
 bfv-212-2022-00;5;2022-05-07;0;1;116;"san miguel";jose_paz;2962;;;1663;cgroppo
 bfz-778-2019-00;1;2019-06-05;0;1;66;"city bell";456;;27;;1902;mstefano
 bga-137-2018-00;1;2018-06-03;0;1;66;"villa elvira";80;800;10;11;1900;mstefano
+bga-171-2023-00;4;2023-05-01;0;1;96;"del viso ";"Amadeo Jaques";1430;;;1669;tsouto
 bga-961-2019-00;1;2019-07-12;1;1;66;tolosa;524;3694;;;1900;mstefano
 BGB-534-2023-00;5;2023-07-02;1;2;82;Merlo;Azara;614;;;1722;mnieves
 bge-439-2022-00;1;2022-06-17;0;1;41;"florencio varela";28;0;;;188;mstefano
@@ -1386,6 +1416,7 @@ big-661-2021-00;1;2021-07-21;0;1;13;berazategui;128;2630;;;1884;mstefano
 big-800-2022-00;1;2022-09-27;0;1;66;tolosa;524;2760;;;1900;mstefano
 bii-619-2018-00;4;2018-05-19;0;1;135;caba;peru;842;;;1068;gsanluis
 bim-030-2019-00;1;2019-06-04;0;1;66;"melchor romero";156;;515;;1903;mstefano
+bim-043-2023-00;4;2023-06-27;0;1;41;florencio-varela;congreso-de-tucuman;1343;;;1888;fossorio
 bim-220-2022-00;3;2022-08-11;1;3;4;adrogue;santiago_bradlley;93;;;1846;agraziano
 bim-614-2019-00;1;2018-12-30;0;1;66;"melchor romero";514;;152;;1903;mstefano
 bin-910-2018-00;5;2018-07-20;1;1;128;"pablo podesta";Francisco_sierra_casa3_manzana8;3.8;;;1657;slugo
@@ -1404,7 +1435,7 @@ bjc-791-2021-00;1;2021-08-21;0;1;66;"san carlos";"36 bis ";;151;;1901;mstefano
 bjc-881-2021-00;3;2021-12-08;1;3;67;"lanus este";chilavert;1131;;;1824;agraziano
 bjc-971-2018-00;1;2018-09-19;0;1;66;"los hornos";72;;143;144;1900;mstefano
 BJC-985-2022-00;1;2022-05-24;1;1;66;"LA PLATA";8;32;;;1900;mstefano
-BJC-985-2022-01;1;2022-09-03;0;1;66;"L APLATA";0;;;;1900;mstefano
+BJC-985-2022-01;1;2022-09-03;0;1;66;"LA PLATA";0;;;;1900;mstefano
 bjd-141-2018-00;1;2018-07-14;0;1;25;chacabuco;zaavedra;345;;;6740;mstefano
 bjf-109-2018-00;4;2018-05-27;0;1;101;ezpeleta;venezuela;;posadas;;1882;gsanluis
 bjf-187-2019-00;1;2019-06-15;0;1;66;"villa elvira";125;;614;615;1900;mstefano
@@ -1441,6 +1472,7 @@ bkc-550-2021-00;1;2021-11-02;0;1;66;"los hornos";176;;48;;1900;mstefano
 bla-126-2019-00;1;2019-06-07;0;1;66;"villa elvira";1;3217;;;1900;mstefano
 bla-126-2019-02;1;2019-09-19;0;1;66;"villa elvira";1;3217;;;1900;mstefano
 bla-572-2022-00;5;2022-09-22;0;1;78;"GRAND BOURG";Navier;3236;;;1615;mnieves
+bla-834-2023-00;4;2023-06-22;0;1;67;lanus;pasaje_san_jose;113;;;1824;fossorio
 bla-882-2019-00;4;2019-09-11;0;1;101;quilmes;la_rioja;1798;;;1874;gsanluis
 blb-666-2018-00;1;2018-06-21;0;1;66;"los hornos";141;1224;57;58;1900;mstefano
 blc-067-2018-00;3;2018-08-23;1;1;41;"Florencio varela";San_pedro;1336;;;1888;jveslosada
@@ -1472,6 +1504,7 @@ blr-464-2022-00;5;2022-05-28;0;1;61;"villa tesei";ernesto_plass;4420;;;1688;cgro
 blr-487-2021-00;1;2021-04-13;0;1;66;"villa elvira";124;;613;614;1900;mstefano
 blr-487-2021-01;1;2021-06-16;0;1;66;"villa elvira";124;;613;614;1900;mstefano
 bls-144-2019-00;4;2019-11-08;0;1;6;wilde;cotagaita;1726;;;1875;gsanluis
+bls-322-2023-00;4;2023-05-06;0;1;41;"florencio varela";"Luis Santiago Genoud";2176;;;1888;tsouto
 blt-056-2019-00;5;2019-07-10;0;1;82;merlo;magallanes;1328;;;1722;cgroppo
 blu-858-2018-00;5;2018-07-10;0;1;56;"villa maipu";alvear;2382;;;1650;slugo
 blv-314-2018-00;1;2018-11-03;0;1;66;abasto;"ruta 36";49;420;;1903;mstefano
@@ -1508,6 +1541,7 @@ BMP-410-2021-00;5;2021-07-14;0;1;61;"villa tesei";"madame curie";517;;;1688;fcoh
 bmq-953-2021-00;5;2021-04-12;0;1;61;"hurlingham ";isabel_del_maestro;1690;;;1686;slugo
 bmq-953-2022-00;5;2022-08-01;1;4;61;"hurlingham ";"isabel_del_maestro ";1690;;;1686;slugo
 bmr-279-2021-00;1;2021-10-29;0;1;66;"la plata";115;;;;1900;mstefano
+bmr-440-2023-00;4;2023-06-28;1;1;135;caba;olavarria;906;;;1162;gsanluis
 bmr-466-2018-02;1;2018-11-29;0;1;66;etcheverry;39;;235;;1903;mstefano
 bms-539-2019-02;4;2019-09-08;1;2;101;"quilmes oeste";lora;1460;;;;gsanluis
 bms-554-2019-03;4;2019-10-08;0;1;101;"quilmes oeste";lora;1460;;;1878;gsanluis
@@ -1592,6 +1626,7 @@ brm-386-2021-00;3;2021-08-11;1;1;41;"florencio varela";luis_villar;187;;;1888;ag
 brp-454-2022-00;5;2022-09-08;0;1;62;ituzaingo;portugal;2653;;;1714;cgroppo
 BRP-505-2023-00;5;2023-06-24;0;1;128;"Loma hermosa";"Rio limay";930;;;1657;mnieves
 brr-122-2019-00;1;2019-05-15;1;1;41;"ingeniero juan allan";1138;2106;;;1888;mstefano
+brr-965-2022-00;1;2022-09-27;0;1;14;berisso;64;0;127;;1923;mstefano
 brz-495-2022-00;4;2022-04-24;0;1;135;caba;brandsen;1744;;;1287;asbruzzi
 bsa-221-2019-00;3;2019-01-25;1;3;67;"lanus este";bouchart;4197;;;1824;agraziano
 bsa-221-2019-01;3;2019-05-03;1;1;67;"lanus este";bourchart;4197;;;1824;agraziano
@@ -1665,6 +1700,7 @@ bts-577-2021-00;4;2021-09-12;0;1;4;claypole;maturana;929;;;1849;asbruzzi
 bts-600-2018-01;4;2018-06-14;0;1;101;quilmes;808;2861;;;1878;gsanluis
 btv-519-2019-00;1;2019-04-16;0;1;66;"villa elvira";99;404;124;;1900;mstefano
 btv-519-2021-01;1;2021-02-22;0;1;66;"villa elvira";99;404;;;1900;mstefano
+btv-608-2023-00;4;2023-05-06;1;1;135;caba;"Humberto 1°";3076;;;1221;tsouto
 bua-210-2018-00;1;2018-08-10;0;1;4;"almirante brown";"canalejas maz79";30;;;1846;mstefano
 bua-300-2018-00;4;2018-06-30;0;1;13;berazategui;504;1360;;;1884;gsanluis
 bug-259-2021-00;4;2021-08-18;0;1;41;"florencio varela";441;575;;;1888;asbruzzi
@@ -1673,6 +1709,7 @@ bui-046-2018-00;5;2018-06-11;0;1;61;hurlingham;barrio_stefano_casa_35;35;;;1686;
 buq-772-2021-00;5;2021-10-31;0;1;61;hurlingham;Schumann;2126;;;1686;galfiero
 but-406-2019-00;1;2019-07-31;0;1;66;"altos de san lorenzo";17;;89;90;1901;mstefano
 but-406-2021-01;1;2021-12-24;0;1;66;"altos de san lorenzo";17;0;89;90;1901;mstefano
+but-406-2022-02;1;2022-09-25;0;1;66;"altos de san lorenzo";17;0;99;90;1901;mstefano
 bvb-705-2019-00;3;2019-05-09;1;1;4;longchamps;republica_argentina;6158;;;1854;agraziano
 bvb-705-2019-01;3;2019-06-14;1;1;4;longchamps;republica_argentina;6158;;;1854;agraziano
 bvb-705-2020-00;3;2020-03-13;1;1;4;longchamps;repubica_argentina;6158;;;1854;agraziano
@@ -1771,10 +1808,12 @@ bxg-639-2018-00;1;2018-07-22;0;1;66;tolosa;528;;18;19;1900;mstefano
 bxg-639-2018-01;1;2018-07-29;0;1;66;tolosa;528;;18;19;1900;mstefano
 bxg-639-2019-02;1;2019-05-05;0;1;66;tolosa;528;;18;19;1900;mstefano
 bxg-639-2022-03;1;2022-08-30;0;1;66;"TOLOSA MONOBLOCK 10";508;0;;;1900;mstefano
+bxg-652-2022-00;4;2022-11-11;0;1;135;caba;adolfo_alsina;1660;;;1088;gsanluis
 bxg-899-2019-00;1;2019-10-14;0;1;66;"los hornos";"81 bis";;140;;1900;mstefano
 bxg-xxx-2021-00;4;2021-08-22;0;1;4;"rafael calzada";rivadavia;5378;;;1847;asbruzzi
 bxh-396-2019-00;1;2019-09-10;0;1;14;berisso;35;1847;;;1923;mstefano
 bxh-396-2019-01;1;2019-10-30;0;1;14;berisso;35;4597;;;1923;mstefano
+bxi-571-2022-00;1;2022-10-28;1;1;52;ranchos;46;0;ameghino;;0;mstefano
 bxi-599-2018-00;1;2018-07-24;0;1;66;"city bell";12a;7336;461c;461d;1896;mstefano
 bxj-321-2018-00;1;2018-07-16;0;1;66;"melchor romero";185;;518;519;1903;mstefano
 bxj-589-2022-00;1;2022-09-09;0;1;14;berisso;8;1534;;;1923;mstefano
@@ -1854,11 +1893,13 @@ bxr-827-2018-00;5;2018-06-06;0;1;62;ituzaingo;bagnat;3729;;;1714;slugo
 BXR-996-2023-00;5;2023-06-04;0;;85;Moreno;"San pablo";1212;;;1744;mnieves
 bxr-xxx-2018-00;1;2018-08-03;0;1;66;"altos de san lorenzo";"16 bis";2130;;;1901;mstefano
 bxs-016-2022-00;4;2022-08-23;0;1;74;"lomas de zamora";1246;;;;1832;gsanluis
+bxs-039-2022-00;1;2022-09-16;0;1;14;berisso;5;1897;;;1923;mstefano
 bxs-081-2018-00;5;2018-05-23;0;1;62;ituzaingo;austria;3043;;;1714;slugo
 bxs-081-2018-01;5;2018-08-08;0;1;62;ituzaingo;austria;3043;;;1714;slugo
 bxs-081-2018-02;5;2018-08-27;0;1;62;ituzaingo;austria;3043;;;1714;slugo
 bxs-082-2022-00;5;2022-08-17;0;1;85;moreno;lopez_y_planes;7301;;;1744;cgroppo
 bxs-217-2021-00;3;2021-12-09;1;1;41;"florencio varela";l.lautaro_y_hudson;26;;;1888;agraziano
+bxs-282-2019-00;5;2019-07-01;0;1;63;jose_clemente_paz;ugarteche;5861;;;1665;cgroppo
 bxs-350-2021-00;5;2021-11-08;0;1;128;"el libertador";salguero;861;;;1692;galfiero
 bxs-358-2018-00;3;2018-02-09;1;4;6;avellaneda;paso;47;;;1870;jveslosada
 bxs-395-2019-00;5;2019-08-08;1;1;85;moreno;gervacio_mendez;5851;;;1744;cgroppo
@@ -1873,6 +1914,7 @@ bxt-354-2019-00;1;2019-05-15;0;1;66;"san carlos";49;;140;141;1901;mstefano
 bxt-621-2022-00;5;2022-07-14;0;1;61;hurlingham;marquez_de_aviles;1591;;;1686;cgroppo
 bxt-768-2018-00;1;2018-03-31;0;1;66;"los hornos";65;12;;;1900;rmerlino
 bxu-370-2019-00;1;2019-05-14;0;1;66;"altos de san lorenzo";28;;85;;1901;mstefano
+bxu-975-2022-00;1;2022-09-20;0;1;66;"san carlos";133;220;;;1901;mstefano
 bxv-085-2019-00;1;2019-04-01;0;1;66;"melchor romero";523;7497;;;1903;mstefano
 bxv-278-2018-00;4;2018-07-09;0;1;101;quilmes;cerier;307;;;1878;gsanluis
 bxv-480-2021-00;1;2021-08-11;0;1;66;"la plata";14;1122;;;1900;mstefano
@@ -1969,6 +2011,7 @@ cem-796-2019-02;1;2019-07-11;0;1;41;bosques;"las rosas";1155;;;1888;mstefano
 cem-796-2019-03;1;2019-07-26;0;1;41;bosques;"las rosas";1155;;;1888;mstefano
 cem-799-2021-00;4;2021-08-30;0;1;135;caba;manzana_1_casa;115;;;1407;asbruzzi
 cen-272-2021-00;1;2021-08-25;0;1;66;"villa elvira";121;;82;;1900;mstefano
+cer-543-2022-00;1;2022-09-17;0;1;66;romero;523;27;;;1900;mstefano
 cer-875-2018-00;5;2018-07-14;0;1;82;"mariano acosta";robdeau;730;;;1723;slugo
 ces-802-2022-00;3;2022-06-01;1;3;6;"villa dominico";centenario_uruguayo;1600;;;1874;agraziano
 cev-082-2018-00;1;2018-06-07;0;1;66;"villa elvira";4;3482;602;;1900;mstefano
@@ -2072,6 +2115,7 @@ CMA-986-2021-02;1;2021-02-05;0;1;66;"los hornos";75;2937;;;1900;mstefano
 cma-986-2021-03;1;2021-09-07;1;1;66;"los hornos";75;2677;;;1900;mstefano
 cma-986-2021-04;1;2021-11-17;0;1;66;"altos de san lorenzo";75;2937;;;1901;mstefano
 cmb-108-2019-00;3;2019-05-26;1;1;66;gonnet;5;;493;;1897;agraziano
+cmb-347-2023-00;4;2023-06-24;0;1;135;caballito;campichuelo;133;;;1405;fossorio
 cmb-xxx-2018-00;3;2018-07-14;1;3;41;bosques;1_de_mayo;554;;;1889;jveslosada
 cmb-xxx-2019-00;3;2019-09-19;1;1;41;bosques;1_de_mayo;554;;;1888;agraziano
 cmd-809-2022-01;5;2022-05-21;0;1;82;merlo;matanza;1045;;;1722;cgroppo
@@ -2128,6 +2172,7 @@ com-231-2019-00;5;2019-06-02;1;1;62;ituzaingo;aguaribay;2039;;;1714;cgroppo
 com-231-2019-01;5;2019-07-08;0;1;62;Ituzaingo;aguaribay;2039;;;1714;cgroppo
 com-231-2021-00;1;2021-11-28;0;1;66;"melchor romero";525;7335;;;1903;mstefano
 cps-038-2022-00;4;2022-05-02;0;1;67;"monte chingolo";cotagaita;2825;;;1824;asbruzzi
+cra-521-2023-00;3;2023-05-09;1;1;4;burzaco;juan_larrea;2315;;;1852;agraziano
 crb-880-2018-00;1;2018-01-03;0;1;66;tolosa;525;;20;21;1900;rmerlino
 CRC-407-2022-00;1;2022-09-19;1;1;66;"MELCHOR ROMERO";517;8731;;;1903;mstefano
 crf-075-2018-00;1;2018-07-14;0;1;101;quilmes;montevideo;705;;;1878;mstefano
@@ -2195,6 +2240,7 @@ cxa-218-2021-00;5;2021-11-19;0;1;65;laferrere;ushuaia;953;;;1757;cgroppo
 cxa-218-2021-01;5;2021-12-11;0;1;65;laferrere;ushuaia;953;;;1757;cgroppo
 cxa-323-2021-00;5;2021-08-31;1;1;82;merlo;elizalde;280;;;1722;cgroppo
 cxa-405-2019-00;1;2019-05-07;0;1;66;"melchor romero";530;4430;;;1903;mstefano
+CXA-549-2022-0;1;2022-10-12;0;1;66;"ALTOS DE SAN LORENZO";81;935;;;1901;mstefano
 cxa-694-2020-00;5;2020-12-28;0;1;61;"william morris";angel_echeverry;2537;;;1713;slugo
 cxa-738-2019-00;1;2019-05-29;0;1;66;"altos de san lorenzo";77;1850;;;1901;mstefano
 cxa-xxx-2021-00;1;2021-08-11;0;1;66;abasto;208;;523;;1903;mstefano
@@ -2209,6 +2255,7 @@ cxb-553-2022-00;5;2022-04-24;0;1;65;"la matanza";rondeaux;1056;;;1704;cgroppo
 cxb-620-2022-00;5;2022-06-07;1;1;61;hurlingham;alvarez_rodriguez;542;;;1763;cgroppo
 cxb-840-2021-00;4;2021-08-17;0;1;6;avellaneda;pinzon;1709;;;1870;asbruzzi
 cxb-xxx-2021-00;3;2021-09-30;1;1;4;"jose marmol";corrientes;248;;;1846;agraziano
+cxc-107-2022-00;1;2022-10-27;0;1;100;veronica;32;0;"circunvaricion 4º";31;11917;mstefano
 CXC-120-2021-00;1;2021-10-30;1;1;66;"villa elvira";608;362;;;1900;mstefano
 CXC-128-2023-00;5;2023-05-16;0;1;82;"Parque san martin";"Pedro flores";0;;;1722;mnieves
 CXC-143-2022-00;1;2022-08-24;0;1;14;BERISSO;605;850;;;1923;mstefano
@@ -2234,6 +2281,7 @@ CXG-105-2022-00;1;2022-08-21;0;1;66;"VILLA ELVIRA";86;172;;;1900;mstefano
 cxg-152-2018-00;1;2018-06-28;0;1;66;"altos de san lorenzo";71;1590;;;1901;mstefano
 cxg-312-2018-00;5;2018-07-28;0;1;85;moreno;santa_cruz;4477;;;1744;slugo
 cxg-361-2022-00;5;2022-07-26;0;1;62;ituzaingo;herrera;2580;;;1714;cgroppo
+cxg-473-2022-00;1;2022-10-28;0;1;66;arana;132;0;637;;1907;mstefano
 cxg-516-2022-00;1;2022-07-19;0;1;;;;;;;;mstefano
 cxg-569-2022-00;1;2022-05-30;0;1;66;gonnet;5;943;497;;1902;mstefano
 cxg-569-2022-01;1;2022-07-28;0;1;66;gonnet;497;993;5;;1892;mstefano
@@ -2252,6 +2300,7 @@ cxl-876-2022-00;5;2022-11-15;1;2;65;"Rafael castillo";"Roque perez";275;;;1755;m
 cxm-015-2021-00;3;2021-07-30;1;3;6;avellaneda;campana;1245;;;1870;agraziano
 cxm-183-2022-00;5;2022-05-12;0;1;61;hurlingham;williams;2874;;;1686;cgroppo
 cxm-220-2022-00;3;2022-07-04;1;3;4;claypole;calendula;5531;;;1849;agraziano
+cxm-220-2023-00;3;2023-04-28;1;1;4;claypole;calendula;5135;;;1849;agraziano
 cxm-231-2019-00;5;2019-06-08;1;1;62;"ituzaingo ";"aguaribay ";2039;;;1714;cgroppo
 cxm-231-2019-01;5;2019-07-08;0;1;62;"ituzaingo ";"aguaribay ";2039;;;1714;cgroppo
 cxm-346-2020-00;3;2020-10-14;1;1;41;"florencio varela";las_lengas;532;;;1888;agraziano
@@ -2293,6 +2342,7 @@ cxs-290-2019-00;1;2019-07-22;0;1;66;"altos de san lorenzo";27;1606;;;1901;mstefa
 cxs-292-2021-00;4;2021-02-16;0;1;13;"berazategui oeste";2;2061;;;1884;asbruzzi
 cxs-292-2021-01;4;2021-06-19;0;1;13;"berazategui oeste";2;2061;;;1884;asbruzzi
 cxs-292-2021-02;4;2021-11-13;0;1;13;"berazategui oeste";2;2061;;;1884;asbruzzi
+cxs-292-2023-00;4;2023-05-08;0;1;13;berazategui;2;2061;;;1884;tsouto
 cxs-355-2021-00;5;2021-09-07;0;1;116;"bella vista";rio_iguazu;1814;;;1663;cgroppo
 cxs-362-2021-00;1;2021-11-22;0;1;66;"altos de san lorenzo";17;2961;;;1901;mstefano
 cxs-392-2019-00;4;2019-10-09;0;1;101;quilmes;jorge_newbery;74;;;1878;gsanluis
@@ -2364,6 +2414,7 @@ das-425-2023;3;2023-04-06;1;3;74;"lomas de zamora";islandia;1220;;;1832;agrazian
 das-425-2023-00;3;2023-04-06;1;3;74;"lomas de zamora";islandia;1220;;;1832;agraziano
 das-766-2021-00;3;2021-10-10;1;1;38;"9 de abril";el_gaucho;6048;;;1776;agraziano
 das-766-2022-00;3;2022-01-10;1;3;38;"9 de abril";el_gaucho;6048;;;1776;agraziano
+das-766-2022-02;1;2022-09-26;1;1;38;"monte grande";"pasaje el gaucho";6048;;;1842;mstefano
 das-787-2019-00;1;2019-12-06;0;1;130;"25 de mayo";7;612;;;6660;mstefano
 dat-xxx-2018-00;1;2018-11-25;0;1;14;berisso;118;;603;;1923;mstefano
 dav-062-2022-01;5;2022-08-27;0;1;85;moreno;bouchard;7267;;;1744;cgroppo
@@ -2539,11 +2590,13 @@ DLE-423-2023-01;5;2023-07-28;1;1;62;Ituzaingo;"Tel aviv";3599;;;1714;mnieves
 dlg-315-2018-00;4;2018-07-16;0;1;101;solano;"san martin";884;;;1878;gsanluis
 dlg-354-2018-00;5;2018-06-22;1;1;82;merlo;villafañe;363;;;1722;slugo
 dll-423-2021-00;4;2021-11-19;0;1;98;guernica;126;266;;;1862;asbruzzi
+dlm-944-2023-00;4;2023-05-04;0;1;135;"Barrio Padre Ricciardelli (Ex 1-11-14)";1;28;;;1406;tsouto
 DLN-279-2023-00;5;2023-06-21;0;1;116;"San miguel";"Las delicias";3865;;;1663;mnieves
 dlp-164-2018-01;1;2018-07-28;0;1;66;"villa elvira";601;494;125;;1900;mstefano
 dlp-440-2019-00;5;2019-06-16;1;1;63;"jose c paz";bustamante;1344;;;1660;slugo
 dlp-440-2019-01;5;2019-08-24;0;1;63;"jose c paz";bustamante;1344;;;1660;slugo
 dlp-440-2019-02;5;2019-12-09;0;3;63;"jose c paz";"bustamante ";1344;;;1660;slugo
+dlp-665-2019-00;5;2019-07-02;0;1;128;tres_de_febrero;paunero;3669;;;1678;cgroppo
 dls-298-2021-00;3;2021-08-01;1;3;40;"jose maria ezeiza";los_aromos;1961;;;1804;agraziano
 dls-920-2022-00;4;2022-08-06;0;1;67;lanus;camino_general_belgrano;2369;;;1824;gsanluis
 dly-270-2022-00;4;2022-07-31;0;1;4;"almirante brown";general_hornos;931;;;1846;gsanluis
@@ -2584,6 +2637,7 @@ dnm-369-2021-00;1;2021-09-15;0;1;66;arana;137;642;;;1909;mstefano
 dnn-792-2023-00;3;2023-03-30;1;1;13;berazategui;touring_club;1432;;;1884;agraziano
 dns-328-2018-00;1;2018-07-15;0;1;66;"villa elvira";121;980;;;1900;mstefano
 dnv-644-2018-00;4;2018-06-13;0;1;74;"lomas de zamora";necochea;1284;;;1832;gsanluis
+dnz-013-2023-00;4;2023-05-02;0;2;6;sarandi;Agrelo;373;;;1870;tsouto
 doc-117-2019-00;1;2019-01-15;1;1;66;"villa elvira";118;;612;;1900;mstefano
 dpa-829-2019-01;1;2019-03-29;0;1;;;;;;;;mstefano
 dpb-194-2018-00;1;2018-07-24;0;1;14;"villa arguello";66;;130;131;1923;mstefano
@@ -2658,11 +2712,13 @@ dub-746-2018-00;1;2018-05-26;0;1;66;"san carlos";150;128;;;1901;mstefano
 DUC-496-2018-00;1;2018-06-19;0;1;41;"la carolina";1136;2421;;;1888;mstefano
 duc-889-2022-01;5;2022-09-03;0;1;86;moron;avenida_eva_peron;2374;;;1708;galfiero
 dug-945-2018-00;4;2018-07-23;0;1;6;wilde;bahia_blanca;1732;;;1870;gsanluis
+dur-325-2022-00;1;2022-09-14;0;1;41;"florencio varela";pecheuta;3547;;;1888;mstefano
 dus-561-2021-00;1;2021-08-20;0;1;66;"melchor romero";163;;529;530;1903;mstefano
 dva-283-2019-02;4;2019-09-11;0;1;101;"bernal oeste";179;2566;;;1879;gsanluis
 dva-306-2021-00;1;2021-12-08;0;1;66;abasto;516;;510;;1903;mstefano
 dva-774-2021-00;4;2021-02-28;1;1;41;"florencio varela";560;1531;;;1888;asbruzzi
 DVA-854-2019-00;5;2019-09-19;1;1;40;Ezeiza;Barbarena;04;;;1804;mnieves
+dvb-424-2023-02;4;2023-06-22;0;1;41;san_francisco_solano;865;2517;;;1888;fossorio
 dvc-698-2018-00;1;2018-11-23;0;1;66;"los hornos";67;2059;;;1900;mstefano
 DVF-336-2023-00;5;2023-06-16;1;2;85;Moreno;"Juan de la cierva";39;"Manzana 39 b";;1744;mnieves
 dvg-389-2019-02;4;2019-09-22;0;1;13;berazategui;127;1332;;;1884;gsanluis
@@ -2691,7 +2747,7 @@ dxc-566-2018-00;5;2018-06-07;0;1;85;moreno;dean_funes;4592;;;1744;slugo
 dxc-701-2022-01;5;2022-09-29;0;1;61;hurlingham;GRANADA;3250;;;1686;mnieves
 dxc-712-2022-00;5;2022-06-29;0;1;61;hurlingham;miramar;138;;;1686;cgroppo
 dxc-712-2022-01;5;2022-09-22;0;1;61;"villa tesei";miramar;138;;;1761;cgroppo
-DXC-712-2023-00;5;2023-05-18;1;1;61;Hurligahm;Carvajal;175;;;1686;mnieves
+DXC-712-2023-00;5;2023-05-18;1;1;61;Hurligham;Carvajal;175;;;1686;mnieves
 dxd-260-2022-00;1;2022-07-27;0;1;66;"villa elvira";601;1161;;;1900;mstefano
 dxd-408-2020-00;1;2020-02-29;0;1;66;"melchor romero";165;205;;;1903;mstefano
 dxd-408-2022-02;1;2022-01-10;0;1;66;"villa elvira";605;678;;;1900;mstefano
@@ -2705,6 +2761,7 @@ dxg-627-2018-00;1;2018-06-11;0;1;66;"los hornos";73;;144;145;1900;mstefano
 dxg-708-2020-00;1;2020-08-28;0;1;66;"san carlos";154;;;;1901;mstefano
 dxi-149-2022-00;4;2022-01-20;0;1;74;"barrio obrero";10;104;;;1832;asbruzzi
 dxj-029-2018-00;5;2018-06-20;0;1;85;moreno;bernard_shaw;1275;;;1743;slugo
+dxj-277-2022-00;1;;0;1;66;ROMERO;161;1559;528;529;1903;mstefano
 dxl-058-2022-00;5;2022-08-31;0;1;116;"san miguel";alberdi;3901;;;1663;cgroppo
 dxl-060-2022-00;1;2022-06-13;1;1;21;"carlos casares";"ruta 5";5;"ruta 50";;6530;mstefano
 dxl-185-2019-01;4;2019-09-01;0;1;4;glew;v_de_la_plaza;340;;;1856;gsanluis
@@ -2735,6 +2792,7 @@ dxp-543-2021-00;1;2021-11-17;0;1;66;"arturo segui";153;;;;1903;mstefano
 DXP-837-2022-00;1;2022-05-23;0;1;66;"VILLA ELVIRA";87;210;;;1901;mstefano
 DXP-901-2023-00;5;2023-05-29;0;1;62;Ituzaingo;Chimbona;4150;;;1714;mnieves
 dxr-264-2019-00;1;2019-10-13;0;1;14;berisso;32;;165;166;1923;mstefano
+dxr-375-2023-00;4;2023-06-13;0;1;38;monte_grande;tres_arroyos;1205;;;1842;fossorio
 dxr-409-2021-00;1;2021-10-24;0;1;66;gorina;26;;478;;1903;mstefano
 dxr-802-2020-00;1;2020-10-25;0;1;66;"altos de san lorenzo";29;2593;;;1901;mstefano
 dxr-975-2022-00;1;2022-03-28;0;1;66;"los hornos";62;3086;;;1900;mstefano
@@ -2762,6 +2820,7 @@ eaa-022-2018-01;1;2018-10-17;0;1;66;"san carlos";523;;124;155;1901;mstefano
 eaa-022-2019-02;1;2019-06-08;0;1;66;"san carlos";523;;154;155;1900;mstefano
 eaa-038-2022-00;5;2022-11-02;0;1;86;moron;perdriel;609;;;1685;cgroppo
 eaa-084-2018-00;1;2018-04-15;0;1;66;"san carlos";144;;0000;0000;1900;rmerlino
+eaa-110-2019-00;5;2019-07-08;0;1;80;marcos_paz;valentin_gomez;353;;;1727;cgroppo
 eaa-368-2022-00;5;2022-06-02;0;1;61;hurlingham;vigo;3780;;;1686;cgroppo
 eaa-467-2021-00;3;2021-04-07;1;1;74;lavallol;monoblock_17_escalera_1_PB;;;;1839;agraziano
 eaa-682-2022-00;1;2022-07-27;0;1;66;ringuelet;21;0;"518 bis";519;1900;mstefano
@@ -2815,6 +2874,7 @@ ear-912-2021-01;4;2021-07-23;0;1;41;crucecita;635;26;;;1873;asbruzzi
 eas-374-2019-01;1;2019-06-20;0;1;66;"la plata";22;1360;;;1900;mstefano
 eas-925-2019-00;3;2019-06-03;1;3;4;glew;san_mariano;818;;;1856;agraziano
 eaz-623-2018-00;5;2018-07-04;0;1;82;merlo;"corvalan ";476;;;1722;slugo
+eba-293-2023-00;4;2023-04-30;0;1;135;"villa 21-24";;;;;1437;tsouto
 EBB-958-2023-00;5;2023-06-28;0;1;85;Moreno;"Nestor kirschner";1651;;;1744;mnieves
 ebc-461-2018-00;1;2018-08-28;0;1;66;"melchor romero";516;;184;185;1903;mstefano
 ebc-461-2019-01;1;2019-05-03;0;1;66;"melchor romero";516;;184;185;1903;mstefano
@@ -2870,6 +2930,8 @@ eea-283-2022-00;1;2022-09-17;0;1;66;"los hornos";52;0;149;;1900;mstefano
 eeb-056-2022-00;5;2022-05-27;0;1;85;satelite;ecuador;6831;;;1744;cgroppo
 eeb-074-2018-00;5;2018-06-19;0;1;62;ituzaingo;del_gato;189;;;1714;slugo
 eeb-120-2022-00;5;2022-11-02;0;1;63;"Jose c paz";Chacabuco;2800;;;1665;mnieves
+eeb-171-2022-00;1;2022-10-02;0;1;66;"los hornos";150;0;/2;;1900;mstefano
+eeb-171-2022-01;1;2022-10-20;0;1;66;"los hornos";180;;82;;1900;mstefano
 eec-937-2019-00;4;2019-11-19;0;1;74;"villa fiorito";mario_bravo;2903;;;1831;gsanluis
 eec-937-2019-01;4;2019-11-25;0;1;74;"villa fiorito";mario_bravo;2903;;;1831;gsanluis
 eec-942-2022-00;1;2022-09-06;0;1;66;"villa elvira";"118 bis";3439;;;1900;mstefano
@@ -2886,6 +2948,7 @@ eep-776-2018-00;1;2018-11-09;0;1;14;berisso;125;1762;;;1923;mstefano
 eep-863-2018-00;4;2018-05-26;0;1;135;caba;luna;1545;;;1437;gsanluis
 eep-863-2018-01;4;2018-07-02;0;1;135;caba;luna;1545;;;1437;gsanluis
 eeq-803-2022-00;5;2022-06-11;0;1;85;"paso del rey";Senarin;1259;;;1742;cgroppo
+eer-172-2023-00;4;2023-06-13;0;1;67;monte_chingolo;pichincha;261;;;1824;fossorio
 eer-225-2019-00;1;2019-06-06;0;1;66;"melchor romero";155;;516;517;1903;mstefano
 eer-790-2018-01;1;2018-05-01;0;1;14;berisso;29;4425;165;166;1923;mstefano
 eer-949-2022-00;4;2022-05-10;0;1;6;"dock sud";canalejas;2995;;;1870;asbruzzi
@@ -2899,6 +2962,7 @@ eev-850-2018-00;5;2018-06-11;0;1;61;"villa tesei";levenson;3679;;;1688;slugo
 eev-949-2018-00;5;2018-09-03;0;1;85;trujui;vedia_y_mitre;1311;;;1744;slugo
 eez-078-2018-00;4;2018-07-02;0;1;41;"florencio varela";1429;1847;;;1888;gsanluis
 EFA-814-2023-00;5;2023-06-01;1;1;63;"Jose c paz";"Naciones unidas";2237;;;1665;mnieves
+efa-952-2023-00;4;2023-05-13;1;1;40;"La union";"los padres";126;;;1803;tsouto
 efc-608-2019-00;1;2019-10-29;0;1;66;"los hornos";136;2006;;;1900;mstefano
 efc-608-2019-01;1;2019-11-28;0;1;66;"los hornos";136;2006;;;1900;mstefano
 efc-608-2020-02;1;2020-03-13;0;1;66;"los hornos";136;2006;;;1900;mstefano
@@ -2966,6 +3030,7 @@ ejc-074-2018-00;3;2018-07-31;1;1;41;"florencio varela";v_gomez;400;;;1888;jveslo
 ejc-205-2018-00;3;2018-08-06;1;3;41;"Florencio varela";Avenida_la_plata;1313;;;1888;jveslosada
 ejc-351-2018-00;1;2018-04-03;0;1;66;"villa elvira";1;;92;000;1900;rmerlino
 ejd-702-2018-00;1;2018-05-30;0;1;66;"altos de san lorenzo";23;;"78 bis";;1901;mstefano
+eje-385-2022-00;1;2022-10-13;0;1;66;etcheverry;223;0;47;;1903;mstefano
 EJF-579-2022-00;1;2022-04-11;0;1;13;BERAZATEGUI;126;2470;;;1884;mstefano
 ejg-068-2018-00;5;2018-05-09;1;1;85;trujui;los_olmos;10438;;;1744;slugo
 ejg-068-2018-01;5;2018-08-02;0;1;85;trujui;los_olmos;10438;;;1744;slugo
@@ -3069,6 +3134,7 @@ enf-175-2020-00;3;2020-03-02;1;1;41;"florencio varela";guido_spano;375;;;1888;ag
 ENG-041-2023-00;5;2023-04-02;0;1;85;Moreno;"Seg sombra";1409;"Santa fe";"De ricu";1744;mnieves
 eng-735-2023-00;5;2023-07-16;1;1;85;Moreno;"Frenando abrano";268;;;1744;mnieves
 enl-247-2018-00;1;2018-07-07;0;1;73;lobos;"lsandro de la  torre";260;;;7240;mstefano
+enl-440-2023-00;3;2023-05-03;1;3;13;berazategui;avenida_varela;2963;;;1884;agraziano
 enm-183-2022-00;4;2022-07-15;0;1;98;"presidente peron";san_lorenzo;1553;;;1862;gsanluis
 enm-283-2022-01;4;2022-12-08;0;1;6;"dock sud";montes_de_oca;868;;;1871;gsanluis
 enm-382-2019-00;1;2019-07-13;1;1;66;"los hornos";"80 bis";;143;;1900;mstefano
@@ -3119,6 +3185,7 @@ esc-227-2019-00;1;2019-07-26;0;1;66;"los hornos";155;1950;;;1900;mstefano
 esc-297-2021-00;1;2021-09-02;0;1;66;"san carlos";525;;156;;1901;mstefano
 esc-352-2021-00;4;2021-11-22;0;1;135;caba;remedios_de_escalada_de_san_martin;725;;;1416;asbruzzi
 esc-427-2021-00;5;2021-09-02;0;1;85;moreno;"washington ";4481;;;1744;cgroppo
+esc-963-2022-00;1;2022-10-11;1;1;66;"villa elvira";611;0;1;115;1900;mstefano
 esd-891-2021-00;4;2021-12-06;0;1;101;quilmes;catamarca;525;;;1878;asbruzzi
 ese-550-2021-00;4;2021-10-11;0;1;41;"florencio varela";529_bis;;los_lapachos;los_jacarandaes;1888;asbruzzi
 esf-601-2018-00;3;2018-06-30;1;1;13;berazategui;161;1831;;;1884;jveslosada
@@ -3190,6 +3257,7 @@ exa-827-2022-01;1;2022-04-09;0;1;66;"villa elvira";610;1060;;;1900;mstefano
 exa-827-2022-02;1;2022-06-06;0;1;66;"villa elvira";610;1060;;;1900;mstefano
 exa-827-2022-03;1;2022-09-07;0;1;66;"villa elvira";610;1060;;;1900;mstefano
 exa-827-2022-04;1;2022-09-20;0;1;66;"villa elvira";610;1060;;;1900;mstefano
+exa-827-2022-05;1;2022-10-29;0;1;66;"VILLA ELVIRA";610;1060;;;1900;mstefano
 exa-995-2019-00;5;2019-10-22;1;1;128;caseros;republica;6027;;;1678;galfiero
 exa-995-2021-00;5;2021-06-20;0;1;128;caseros;republica;6027;;;1678;galfiero
 exb-043-2021-00;1;2021-12-05;0;1;17;brandsen;"diag copernico";157;;;1980;mstefano
@@ -3244,8 +3312,9 @@ exg-821-2022-00;1;2022-05-08;1;1;66;"city bell";8;0;479;480;1896;mstefano
 exg-840-2018-00;5;2018-08-14;0;1;86;moron;cucha_cucha;1535;avellaneda;santa_teresa;1708;jgarcia
 exg-925-2021-00;1;2021-08-28;1;1;66;"villa elvira";609;;;;1900;mstefano
 EXG-981-2023-00;5;2023-05-27;0;1;116;"San miguel";"Roque perez";1973;;;1663;mnieves
+exh-491-2023-00;3;2023-05-01;1;3;;;savio;151;;;;agraziano
 EXH-662-2023-00;5;2023-07-01;0;1;61;hurlingham;"Vicente morales";662;;;1686;mnieves
-EXH-662-2023-01;5;2023-08-13;0;1;61;Hurlingahm;"Vicente morales";662;;;1686;mnieves
+EXH-662-2023-01;5;2023-08-13;0;1;61;Hurlingham;"Vicente morales";662;;;1686;mnieves
 exl-077-2022-00;5;2022-09-29;0;1;116;"bella vista";ALDAOZ;4177;;;1661;mnieves
 exl-098-2018-00;5;2018-06-04;0;1;62;ituzaingo;fernandez_de_la_cruz;659;martiniano_chilavert;maranon;1714;jgarcia
 exl-860-2022-00;3;2022-12-03;1;3;101;quilmes;los_ciruelos;1027;;;1878;agraziano
@@ -3295,6 +3364,7 @@ EXT-282-2023-00;5;2023-02-05;0;1;65;"Villa luzuriaga";Thames;351;;;1754;mnieves
 ext-764-2020-00;1;2020-10-01;0;1;66;"melchor romero";520;;155;;1903;mstefano
 ext-802-2018-00;1;2018-07-13;0;1;66;"melchor romero";185;;517;518;1903;mstefano
 ext-802-2019-01;1;2019-08-15;0;1;66;"melchor romero";185;;517;518;1903;mstefano
+exv-014-2022-00;1;2022-09-23;0;1;66;"altos de san lorenzo";136;1878;;;1901;mstefano
 exv-166-2022-00;1;2022-06-15;0;1;66;"san carlos";35;2631;;;1901;mstefano
 exv-295-2019-00;1;2019-09-17;0;1;36;ensenada;126;592;;;1925;mstefano
 exv-305-2019-00;5;2019-10-27;0;1;85;moreno;manuel_galvez;10132;;;1744;slugo
@@ -3438,6 +3508,7 @@ fgs-487-2022-02;1;2022-09-06;;;66;"melchor romero";519;0;"181 bis ";182;1903;mst
 fhb-220-2018-00;4;2018-05-15;0;1;74;"villa fiorito";darwin;244;;;1831;gsanluis
 fhd-327-2018-00;5;2018-06-16;1;1;56;"jose leon suarez";nieves;2996;;;1655;slugo
 fhg-117-2022-00;1;2022-07-01;0;1;41;"florencio varela";1272;315;;;1888;mstefano
+fia-553-2023-00;4;2023-06-18;0;1;101;ezpeleta;evaristo_iglesias;1610;;;1882;fossorio
 fia-647-2018-00;4;2018-06-16;0;1;101;bernal;192;1050;;;1876;gsanluis
 fia-870-2018-00;4;2018-07-21;0;1;41;"florencio varela";sevilla;1145;;;1888;gsanluis
 FIB-125-2022-00;5;2022-07-08;1;1;63;"Jose c paz";Castelli;3471;;;1665;mnieves
@@ -3519,7 +3590,7 @@ fnm-421-2018-00;4;2018-06-18;0;1;67;lanus;blanco_encalada;4751;;;1824;gsanluis
 fnm-909-2018-00;1;2018-08-14;0;1;73;lobos;"independecia ";244;;;7240;mstefano
 fnq-980-2022-00;4;2022-04-18;0;1;41;"florencio varela";los_pinos;372;;;1888;asbruzzi
 fnr-067-2019-00;1;2019-08-01;0;1;66;gonnet;481;4200;136;137;1903;mstefano
-fns-659-2023-00;3;2023-01-10;1;;101;"san francisco solano";810;1788;;;1881;agraziano
+fns-659-2023-00;3;2023-01-10;1;3;101;"san francisco solano";810;1788;;;1881;agraziano
 fns-774-2021-00;1;2021-07-15;0;1;66;"la plata";;;;;;mstefano
 fnt-143-2018-00;1;2018-11-18;0;1;66;"los hornos";139;1219;;;1900;mstefano
 fnt-143-2019-01;1;2019-03-21;0;1;66;"los hornos";139;1219;;;1900;mstefano
@@ -3527,7 +3598,7 @@ fnv-947-2021-00;5;2021-08-19;0;1;85;"la reja";azteca;1606;;;1738;galfiero
 fnv-947-2021-01;5;2021-10-06;0;1;85;"la reja";azteca;1606;;;1738;galfiero
 foc-846-2018-00;1;2018-07-02;0;1;66;"altos de san lorenzo";28;2685;;;1901;mstefano
 for-157-2020-00;4;2020-01-17;0;1;38;"monte grande";sarmiento;2246;;;1842;gsanluis
-FOR-830-2023-00;5;2023-05-20;0;1;65;"gonzales catan";"Puerto argentino";6754;;;1759;mnieves
+FOR-830-2023-00;5;2023-05-20;0;1;65;"gonzalez catan";"Puerto argentino";6754;;;1759;mnieves
 fpa-456-2018-00;1;2018-07-30;0;1;66;"villa elisa";"25 bis";;;430;1894;mstefano
 fpd-469-2023-00;3;2023-04-01;1;1;101;"san francisco solano";832;2167;;;1846;agraziano
 fra-392-2022-00;5;2022-09-21;0;1;82;merlo;CUCHA-CUCHA;390;;;1722;mnieves
@@ -3544,6 +3615,7 @@ fsp-232-2022-00;1;2022-08-05;0;1;66;"la plata";17;1678;49;;1900;mstefano
 fsq-174-2021-00;4;2021-08-06;0;1;101;"san francisco solano";880;3883;;;1881;asbruzzi
 fss-054-2022-00;4;2022-07-24;0;1;4;burzaco;roldan;2028;;;1852;gsanluis
 fss-195-2022-00;1;2022-06-15;0;1;66;abasto;"ruta 2 km";45;;;1903;mstefano
+fss-195-2022-01;1;2022-09-08;0;1;66;"l aplata";ruta3;45;;;1900;mstefano
 FSS-576-2021-00;5;2021-09-24;0;1;62;ituzaingo;"Alcalde Loza";1693;;;1714;fcohen
 fsz-549-2021-00;1;2021-04-20;0;1;66;"villa elvira";613;;117;118;1900;mstefano
 ftf-000-2021-00;4;2021-07-22;0;1;135;caba;gregorio_araoz_de_lamadrid;1110;;;1285;asbruzzi
@@ -3568,6 +3640,7 @@ fvs-286-2022-00;5;2022-08-28;0;1;85;moreno;benjamin_franklin;1164;;;1742;cgroppo
 fxa-198-2019-00;1;2019-07-13;1;1;66;"la plata";25;711;;;1900;mstefano
 fxa-300-2021-00;1;2021-10-15;0;1;66;"san carlos";150;;522;523;1901;mstefano
 fxa-300-2021-01;1;2021-11-28;0;1;66;"san carlos";150;;522;523;1901;mstefano
+fxa-300-2022-00;1;2022-10-05;0;1;13;"el pato";619;455;;;1884;mstefano
 FXA-516-2022-00;1;2022-02-25;0;1;66;"VILLA ELVIRA";124;3679;;;1900;mstefano
 FXA-516-2022-01;1;2022-04-24;0;1;66;"villa elvira";124;3679;;;1900;mstefano
 fxa-518-2021-00;1;2021-11-19;0;1;66;"melchor romero";"525 bis";5;;;1903;mstefano
@@ -3621,16 +3694,18 @@ fxg-442-2022-00;5;2022-06-03;0;1;85;"paso del rey";benjamin_franklin;15;;;1742;c
 fxg-442-2022-01;5;2022-07-01;0;1;85;"paso del rey";benjamin_franklin;15;;;1742;cgroppo
 fxg-461-2018-00;5;2018-06-12;0;1;128;caseros;alzaga;2755;;;1678;slugo
 fxg-461-2018-01;5;2018-08-27;0;1;128;caseros;alzaga;2755;;;1678;slugo
+fxg-589-2019-00;5;2019-07-09;0;1;85;moreno;"shakespeare ";900;;;1744;cgroppo
 fxg-613-2018-00;1;2018-06-25;0;1;66;"altos de san lorenzo";23;2445;81;82;1901;mstefano
 fxg-781-2021-00;5;2021-01-03;0;1;61;hurlingham;mayo;3229;;;1686;cgroppo
 fxg-944-2018-00;4;2018-07-16;0;1;41;"florencio varela";barzi;4031;;;1888;gsanluis
 fxg-xxx-2021-00;1;2021-07-20;0;1;66;"los hornos";149;1865;;;1900;mstefano
 fxh-719-2019-00;1;2019-09-12;0;1;66;"melchor romero";526;;166;;1903;mstefano
 fxh-719-2019-01;1;2019-11-03;0;1;66;"melchor romero";526;;166;;1903;mstefano
+fxi-162-2022-00;1;2022-10-05;0;1;66;"arturo segui";413;0;155;156;1903;mstefano
 fxj-649-2023-00;5;2023-06-21;0;1;62;ituzaingo;del_gato;928;;;1714;cgroppo
 fxl-310-2019-00;4;2019-09-11;0;1;40;ca?uelas;paraguay;77;;;1814;gsanluis
 fxl-350-2021-00;1;2021-09-21;0;1;66;"melchor romero";525;3842;;;1903;mstefano
-fxl-566-2023-00;5;2023-05-31;0;1;85;"Cuartel v";"Richeri castro";01;"00 sn ";;1744;mnieves
+fxl-566-2023-00;5;2023-05-31;0;1;85;"Cuartel quinto";"Richeri castro";01;"00 sn ";;1744;mnieves
 fxl-678-2022-00;3;2022-10-04;1;1;108;saladillo;almafuerte;1832;;;7260;agraziano
 fxl-708-2020-00;1;2020-12-22;0;1;66;"altos de san lorenzo";90;;23;"23 bis";1901;mstefano
 fxl-979-2022-00;5;2022-08-31;0;1;61;"villa tesei";maestro_vergara;1887;;;1688;cgroppo
@@ -3671,6 +3746,7 @@ fxt-623-2022-00;1;2022-06-06;0;1;66;"villa elvira";630;0;122;;1900;mstefano
 fxv-001-2019-00;1;2019-05-05;0;1;66;"la plata";27;;40;41;1900;mstefano
 fxv-016-2022-00;1;2022-05-18;0;1;66;"melchor romero";527;0;162;163;1903;mstefano
 fxv-016-2022-01;1;2022-06-24;0;1;66;"melchor romero";527;0;162;163;1903;mstefano
+fxv-123-2022-00;1;;0;1;66;"los hornos";155;0;68;;1900;mstefano
 fxz-382-2019-00;4;2019-09-21;0;1;67;lanus;magallanes;2791;;;1824;gsanluis
 fxz-403-2019-00;1;2019-10-22;0;1;101;ezpeleta;"pasaje carregal";2570;;;1878;mstefano
 fyg-350-2018-00;4;2018-06-23;1;1;101;bernal;196;898;;;1876;gsanluis
@@ -3735,6 +3811,7 @@ gbf-715-2022-00;4;2022-02-18;0;1;38;"monte grande";chiriguano;2220;;;1842;asbruz
 GBG-916-2022-00;1;2022-08-02;0;1;66;"villa elvira";125;0;605;607;1900;mstefano
 gbm-104-2018-00;3;2018-10-24;1;1;74;"lomas de zamora";facundo_quiroga;1293;;;1832;jveslosada
 gbn-486-2020-00;1;2020-02-01;0;1;66;"melchor romero";528;;158;;1903;mstefano
+gbr-357-2019-00;5;2019-07-01;0;1;61;"hurlingham ";adrian_luna;3180;;;1686;cgroppo
 gbs-321-2019-00;1;2019-06-11;0;1;66;arana;17;;633;634;1900;mstefano
 gbv-795-2019-00;1;2019-09-01;0;1;66;"altos de san lorenzo";"23 bis";3071;;;1901;mstefano
 gcd-154-2021-00;4;2021-08-17;0;1;135;caba;pedro_de_lujan;2363;;;1294;asbruzzi
@@ -3832,7 +3909,9 @@ gmv-006-2019-00;5;2019-07-04;0;1;56;"jose leon suarez";ibarborou;4138;;;1655;slu
 gmv-006-2020-00;5;2020-04-19;0;1;56;"jose leon suarez";Ibarborou;4138;;;1655;slugo
 gmv-248-2018-00;5;2018-07-17;0;1;82;"mariano acosta";"diamante ";3206;;;1723;slugo
 gnc-169-2022-00;1;2022-07-06;0;1;66;"villa elvira";90;679;;;1900;mstefano
+gnc-295-2023-00;3;2023-04-23;0;1;13;berazategui;24;3353;;;1880;agraziano
 gnc-968-2022-00;1;;;;66;"altos de san lorenzo";23;0;88;90;1900;mstefano
+gnc-968-2022-01;1;2022-10-08;0;1;66;"altos de san lorenzo";23;0;89;90;1901;mstefano
 gnf-311-2021-00;4;2021-10-02;0;1;101;"san francisco solano";887;5260;;;1881;asbruzzi
 gng-785-2021-00;4;2021-09-22;0;1;41;"florencio varela";la_zamba;77;;;1888;asbruzzi
 GNL-389-2022-00;1;2022-08-01;1;1;66;"ARTURO SEGUI";421;5317;;;1903;mstefano
@@ -3857,7 +3936,7 @@ grf-592-2023-00;5;2023-03-28;1;1;85;moreno;echeverria;7042;;;1743;galfiero
 grm-448-2022-00;1;2022-07-27;0;1;66;"los hornos";65;2938;;;1900;mstefano
 gro-074-2021-00;1;2021-11-11;0;1;66;"melchor romero";529;5526;;;1903;mstefano
 grs-145-2022-00;4;2022-07-22;0;1;135;caba;valle_iberlucea;814;;;1160;gsanluis
-gsa-767-2022-00;1;2022-09-15;0;1;66;"l aplata";0;0;0;;1900;mstefano
+gsa-767-2022-00;1;2022-09-15;0;1;66;"la plata";0;0;0;;1900;mstefano
 gsb-614-2021-00;1;2021-10-05;0;1;66;tolosa;527;;132;;1900;mstefano
 gsb-614-2022-01;1;2022-05-09;0;1;66;"san carlos";137;0;529;510;1901;mstefano
 gsc-902-2022-00;1;2022-07-18;0;1;66;"los hornos";155;1072;;;1900;mstefano
@@ -3910,6 +3989,7 @@ gxb-093-2022-00;1;2022-09-17;0;1;17;brandsen;"ifantan isabel";1160;;;0;mstefano
 gxb-129-2022-00;1;2022-05-30;;;;;;;;;;mstefano
 gxb-158-2019-00;1;2019-09-07;0;1;66;"city bell";16;1781;;;1902;mstefano
 gxb-406-2022-00;1;2022-07-20;1;1;119;"alejandro korn";"bon plan";637;;;1864;mstefano
+gxb-679-2022-00;1;2022-10-06;1;1;66;"altos de san lorenzo";0;0;0;0;1901;mstefano
 GXC-523-2022-00;1;2022-05-09;0;1;66;"SAN CARLOS";"45 BIS ";0;;;1901;mstefano
 gxc-598-2019-00;1;2019-07-23;0;1;66;"melchor romero";183;;515;;1903;mstefano
 gxc-638-2021-00;3;2021-10-07;1;3;4;"san francisco solano";470_bis;2975;;;1881;agraziano
@@ -3966,6 +4046,7 @@ gxt-708-2022-00;5;2022-09-28;1;1;85;Trujui;"Calderon de la barca";10431;;;1744;m
 gxv-351-2019-00;4;2019-11-16;0;1;135;caba;santiago_del_estero;1449;;;1136;gsanluis
 gxv-459-2019-00;1;2019-07-21;0;1;66;"lisandro olmos";46;4356;;;1903;mstefano
 GXV-506-2022-00;5;2022-07-27;0;1;65;"Gonzalez Catan";"Carcarañá ";2597;;;1759;fcohen
+gxv-539-2022-00;1;;0;1;108;saladillo;posada;2042;;;0;mstefano
 gxv-912-2022-00;5;2022-08-06;0;1;82;pontevedra;paso;1235;;;1722;cgroppo
 gxz-858-2019-00;3;2019-04-13;1;4;41;"florencio varela";lote_10;;;;1888;agraziano
 gyg-723-2022-00;4;2022-05-11;0;1;135;"villa 21 24";luna;1717;;;1437;asbruzzi
@@ -3979,6 +4060,7 @@ haf-366-2018-00;5;2018-06-24;0;1;85;moreno;diaz_velez;1884;;;1744;slugo
 hal-173-2022-00;4;2022-11-05;0;1;135;caba;esteban_bonorino;1900;;;1406;gsanluis
 hao-511-2018-00;1;2018-07-03;0;1;66;tolosa;526;3273;;;1900;mstefano
 hao-511-2018-01;1;2018-07-17;0;1;66;tolosa;526;3828;;;1900;mstefano
+har-014-2023-00;4;2023-05-11;0;1;135;caba;pilar;950;;;1408;tsouto
 HAS-564-2021-00;1;2021-09-30;0;1;66;"los hornos";56;1155;;;1900;mstefano
 hcp-016-2018-00;4;2018-07-31;0;1;4;"jose marmol";bouchard;3547;;;1846;gsanluis
 hcp-016-2020-00;4;2020-03-15;0;1;4;"jose marmol";"bouchard ";3547;;;1846;gsanluis
@@ -4015,6 +4097,7 @@ huc-766-2018-00;1;2018-04-10;0;1;66;"Melchor romero";170;;516;517;1903;rmerlino
 hvb-395-2021-00;1;2021-10-04;0;1;66;"la plata";4;1730;;;1900;mstefano
 hvm-819-2022-00;4;2022-08-27;0;1;135;caba;santo_domingo;3500;;;1437;gsanluis
 HXA-044-2021-00;1;2021-08-17;0;1;66;"melchor romero";161;;526;527;1903;mstefano
+hxa-044-2022-02;1;2022-10-21;0;1;66;"melcor romero";521;0;126;127;1903;mstefano
 HXA-143-2022-00;1;2022-05-27;0;1;66;"LOS HORNOS";58;2427;;;1900;mstefano
 hxb-220-2022-00;1;2022-07-18;0;1;66;"la plata";16;1524;;;1900;mstefano
 hxd-830-2020-00;1;2020-03-11;0;1;66;"city bell";"461 b";1852;;;1902;mstefano
@@ -4036,6 +4119,7 @@ iaf-972-2018-00;4;2018-07-08;0;1;98;guernica;41;3;;;1862;gsanluis
 iaf-972-2020-00;4;2020-02-18;0;1;98;guernica;41;3;;;1862;gsanluis
 iag-514-2018-00;4;2018-05-03;0;1;4;"almirante brown";canale;6196;;;1846;gsanluis
 iag-649-2018-00;3;2018-05-30;1;3;41;"florencio varela";casa_27;27;"manzana 27";;1888;jveslosada
+iaj-162-2023-00;4;2023-05-10;0;1;4;claypole;Lila;6156;;;1843;tsouto
 iak-298-2019-00;5;2019-07-14;0;1;82;merlo;riobamba;1599;;;1722;cgroppo
 ial-114-2019-00;1;2019-05-28;0;1;66;"villa elvira";602;;118;;1900;mstefano
 ial-344-2018-01;1;2018-07-11;0;1;66;"altos de san lorenzo";82;;20;21;1901;mstefano
@@ -4072,7 +4156,7 @@ ibm-363-2021-00;4;2021-07-31;0;1;135;"villa riachuelo";cañada_de_gomez;4639;;;1
 ibm-748-2018-00;4;2018-07-05;0;1;135;caba;jose_alico;487;;;;gsanluis
 ibq-438-2022-00;5;2022-07-10;0;1;85;moreno;martin_luther_king;2060;;;1744;cgroppo
 ibr-013-2022-00;5;2022-01-04;0;1;85;Moreno;"Alfonsina storni";126;;;1744;mnieves
-ibs-245-2023-00;3;2023-04-09;1;;41;bosques;las_rosas;934;;;1888;agraziano
+ibs-245-2023-00;3;2023-04-09;1;1;41;bosques;las_rosas;934;;;1888;agraziano
 ibt-057-2019-00;1;2019-07-15;0;1;66;"melchor romero";522;;153;154;1903;mstefano
 ibu-253-2018-00;1;2018-04-04;0;1;66;"LOS HORNOS";70;3172;"178 BIS";179;1900;rmerlino
 ibv-652-2018-00;1;2018-08-06;0;1;66;"la plata";27;1605;;;1900;mstefano
@@ -4086,6 +4170,7 @@ icm-955-2022-00;4;2022-12-17;0;1;85;moreno;tapiales;1525;;;1744;gsanluis
 idb-968-2018-00;5;2018-06-30;0;1;65;"rafael castillo";garcia_merou;36;;;1755;slugo
 idb-968-2019-00;5;2019-05-22;1;1;65;"rafael castillo";garcia_merou;36;;;1755;slugo
 idc-221-2018-00;1;2018-04-10;0;1;66;"villa elvira";605;;15;00;1900;rmerlino
+idc-489-2023-00;4;2023-05-09;1;1;101;quilmes;"Intendente oliveri";4135;;;1878;tsouto
 idc-871-2023-00;5;2023-02-13;1;1;86;"el palomar";formosa;702;;;1685;cgroppo
 idr-598-2018-00;1;2018-09-28;0;1;41;"barrio parque";1215;4648;;;1888;mstefano
 ids-847-2019-01;4;2019-09-27;0;2;135;caba;pedro_baliña;4085;;;1437;gsanluis
@@ -4099,6 +4184,7 @@ iec-335-2021-00;1;2021-11-06;0;1;66;"los hornos";58;2945;154;;1900;mstefano
 iec-335-2021-02;1;2021-12-14;0;1;66;"los hornos";58;2945;;;1900;mstefano
 iec-335-2022-03;1;2022-05-12;0;1;66;"los hornos";58;2945;;;1900;mstefano
 iec-335-2022-04;1;2022-06-13;0;1;66;"los hornos";58;2945;;;1900;mstefano
+iec-335-2022-05;1;2022-10-08;0;1;66;"los hornos";58;0;154;155;1900;mstefano
 iec-791-2022-00;4;2022-09-01;0;1;135;caba;sarmiento;3565;;;1425;gsanluis
 ied-280-2019-00;1;2019-12-15;0;1;66;"los hornos";79;4;140;;1900;mstefano
 ied-280-2021-02;1;2021-10-07;0;1;66;"los hornos";79;;140;;1900;mstefano
@@ -4137,6 +4223,7 @@ igv-915-2018-00;4;2018-07-02;0;1;4;glew;mansilla;973;;;1856;gsanluis
 igz-641-2021-00;4;2021-07-19;0;1;98;guernica;parraviccini;4825;;;1862;asbruzzi
 igz-777-2022-00;1;2022-06-01;0;1;66;"san carlos";47;3229;;;1901;mstefano
 igz-777-2022-01;1;2022-08-20;0;1;66;"SAN CARLOS";47;3229;;;1901;mstefano
+ihe-349-2023-00;4;2023-05-11;0;1;98;guernica;"La pampa";1005;;;1858;tsouto
 ihv-255-2018-00;5;2018-06-08;0;1;82;merlo;helvecia;1510;;;1722;slugo
 iib-319-2021-00;4;2021-04-07;0;1;135;"barrio 20";casa_17;17;;;0;asbruzzi
 iip-254-2018-00;3;2018-06-02;1;3;4;burzaco;timbo;777;;;1852;jveslosada
@@ -4150,6 +4237,7 @@ ija-387-2019-00;1;2019-07-18;0;1;66;"el peligro";"223 bis";;424;425;1903;mstefan
 ija-615-2021-00;4;2021-07-04;0;1;135;caba;luna;1300;;;1437;asbruzzi
 ija-832-2022-00;3;2022-10-14;1;3;74;temperley;el_trebol;;;;1834;agraziano
 IJB-342-2023-00;5;2023-06-03;0;1;65;Laferrere;Fournier;2955;;;1757;mnieves
+ijc-855-2019-00;5;2019-07-07;0;1;56;general_san_martin;brasil;236;;;1650;cgroppo
 ijd-672-2022-00;4;2022-07-15;0;1;41;"estanislao zeballos";mariano_boedo;62811;;;1888;gsanluis
 IJD-890-2023-00;5;2023-06-16;1;1;85;Moreno;Toledo;3601;;;1744;mnieves
 ijf-969-2019-00;5;2019-07-18;0;1;62;ituzaingo;maximo_herrera;2579;;;1714;cgroppo
@@ -4239,6 +4327,7 @@ inv-406-2018-00;5;2018-07-06;0;1;86;"el palomar";dolores_prats;833;;;1708;slugo
 iod-884-2018-00;1;2018-01-22;0;1;66;"villa elvira";602;;122;;1900;rmerlino
 iom-811-2019-05;4;2019-12-20;0;1;38;"el jaguel";nogales;67;;;1805;gsanluis
 ipf-143-2022-00;1;2022-07-27;0;1;66;"villa elvira";89;0;6;;1900;mstefano
+iqc-615-2022-00;1;2022-10-31;0;1;66;"los hornos";136;2051;63;;1900;mstefano
 ira-376-2018-00;1;2018-07-20;0;1;66;"city bell";448;;"28 bis";29;1896;mstefano
 irj-318-2018-00;5;2018-06-04;0;1;86;moron;domingo_french;845;;;1708;slugo
 irj-318-2019-00;5;2019-08-11;0;1;86;moron;domingo_french;845;;;1708;slugo
@@ -4290,11 +4379,13 @@ ixa-189-2019-00;1;2019-05-31;0;1;17;brandsen;pintos;3721;;;1980;mstefano
 ixa-299-2020-00;3;2020-02-02;1;1;4;burzaco;carlos_morel;1753;;;1852;agraziano
 ixa-582-2022-01;5;2022-08-12;0;1;80;"marcos paz";el_mate;2551;;;1781;cgroppo
 ixb-115-2021-00;4;2021-12-29;0;1;41;"florencio varela";1308;1910;;;1888;asbruzzi
+ixb-150-2023-00;4;2023-05-05;0;1;6;gerli;1;41;;;1870;tsouto
 ixb-353-2022-00;5;2022-05-11;0;1;62;ituzaingo;perez_quintana;1838;;;1714;cgroppo
 ixb-370-2021-00;4;2021-06-17;0;1;135;caba;velez_sarsfield;744;;;1768;asbruzzi
 IXB-520-2023-00;5;2023-06-20;1;1;80;"Marcos paz";Pietro;1116;;;1727;mnieves
 ixb-666-2019-00;1;2019-07-22;0;1;66;"lisandro olmos";206;;46;;1903;mstefano
 ixb-691-2021-00;3;2021-06-09;1;3;4;"jose marmol";timargal;580;;;1846;agraziano
+ixc-169-2022-00;1;2022-10-21;1;1;66;"san carlos";34;2162;;;1901;mstefano
 ixc-201-2018-00;1;2018-06-28;0;1;66;"melchor romero";"512 bis";;27;;1903;mstefano
 ixc-254-2022-00;1;2022-03-12;0;1;14;berisso;"isla paulina";0;;;1923;mstefano
 IXC-433-2023-00;5;2023-06-03;0;1;61;hurlingham;Rolan;1265;;;1686;mnieves
@@ -4307,6 +4398,7 @@ ixd-173-2018-00;3;2018-07-22;1;3;4;"rafael calzada";san_juan;1726;;;1847;jveslos
 ixd-194-2022-00;1;2022-06-17;0;1;66;tolosa;28;934;;;1900;mstefano
 ixd-194-2022-01;1;2022-07-21;0;1;66;tolosa;28;934;;;1900;mstefano
 ixd-194-2022-02;1;2022-08-25;1;1;66;tolosa;18;934;;;1900;mstefano
+ixd-194-2022-03;1;2022-10-14;0;1;66;"la plata";28;934;;;1900;mstefano
 IXD-245-2023-00;5;2023-06-05;0;1;86;"El palomar";Neuquen;1524;;;1685;mnieves
 ixd-566-2019-01;4;2019-12-19;1;2;67;"lanus este";villa_lujan;922;;;1820;gsanluis
 IXD-787-2022-00;1;2022-05-19;0;1;66;"VILLA ELVIRA";7;0;630;;1900;mstefano
@@ -4323,6 +4415,7 @@ ixg-162-2020-00;5;2020-02-04;0;1;116;"san miguel";cruz_del_sur;3321;;;1708;slugo
 ixg-294-2022-00;5;2022-10-03;0;1;61;HURLINGHAM;LANGARA;852;;;1686;mnieves
 IXG-340-2019-00;1;2019-02-18;0;1;66;"VILLA ELVIRA";602;171;;;1900;mstefano
 ixg-516-2021-00;4;2021-12-16;1;1;38;"monte grande";carmen_deareco;501;;;1842;asbruzzi
+ixg-642-2023-00;3;2023-05-03;1;1;41;florencio_varela;647;280;;;1888;agraziano
 ixg-691-2023-00;5;2023-04-27;0;1;82;"mariano acosta";ensenada;2300;;;1723;galfiero
 ixg-695-2020-00;1;2020-03-06;0;1;66;"villa elvira";95;1693;;;1901;mstefano
 ixg-723-2018-00;4;2018-07-09;0;1;6;avellaneda;irala;2110;;;1870;gsanluis
@@ -4368,6 +4461,7 @@ ixs-080-2019-00;1;2019-06-07;0;1;66;"los hornos";52;5152;;;1900;mstefano
 ixs-080-2019-01;1;2019-07-15;0;1;66;"los hornos";52;5152;;;1900;mstefano
 ixs-616-2020-00;4;2020-01-06;0;1;101;bernal;levalle;1148;;;1876;gsanluis
 ixs-630-2019-00;1;2019-01-08;0;1;14;berisso;153;;17;18;1923;mstefano
+ixs-804-2022-00;1;2022-09-14;1;1;66;"l aplata";21;1339;;;1900;mstefano
 ixs-965-2018-00;1;2018-06-29;0;1;66;"altos de san lorenzo";17;;;78;1901;mstefano
 ixt-081-2021-00;1;2021-10-17;1;1;14;berisso;25;;155;156;1923;mstefano
 ixt-204-2023-00;5;2023-06-08;1;1;128;caseros;linares;5300;;;1678;cgroppo
@@ -4398,6 +4492,7 @@ jab-977-2020-00;3;2020-10-11;1;3;41;"florencio varela";san_geronimo;714;;;1888;a
 jab-977-2020-01;3;2020-11-04;1;1;41;"florencio varela";san_geronimo;714;;;1888;agraziano
 jab-977-2021-00;3;2021-04-05;1;1;41;"florencio varela";san_geronimo;714;;;1888;agraziano
 jab-977-2021-01;3;2021-05-19;1;1;41;"florencio varela";san_geronimo;714;;;1888;agraziano
+jac-275-2022-00;1;2022-10-08;0;1;66;"los hornos";163;0;61;62;1900;mstefano
 jac-420-2022-00;1;2022-03-24;0;1;41;"florencio varela";511;3838;;;1888;mstefano
 jac-679-2021-00;5;2021-11-16;0;1;61;hurlingham;rosa_castillo;1453;;;1686;galfiero
 jac-679-2022-00;5;2022-03-05;0;1;61;"villa tesei";sargento_rosa_castillo;1453;;;1688;galfiero
@@ -4446,6 +4541,7 @@ jav-252-2022-01;1;2022-05-01;0;1;66;"altos de san lorenzo";90;0;;;1900;mstefano
 jav-557-2022-00;3;2022-05-30;1;1;4;"almirante brown";el_tordo;2384;;;1849;jveslosada
 jav-646-2018-00;1;2018-10-02;0;1;66;"san carlos";141;;525;;1901;mstefano
 jav-778-2018-00;5;2018-06-18;0;1;61;hurlingham;amberes;1909;;;1686;slugo
+jav-973-2019-00;5;2019-07-01;1;1;82;merlo;luis_maria_drago;2880;;;1722;cgroppo
 jba-149-2019-00;1;2019-08-20;0;1;66;abasto;523;;209;210;1903;mstefano
 jba-281-2022-00;5;2022-06-28;0;1;82;merlo;misiones;1066;;;1722;cgroppo
 jbb-310-2022-00;5;2022-08-12;1;1;85;moreno;tupac_amaru;6250;;;1685;cgroppo
@@ -4456,6 +4552,7 @@ jbc-553-2018-00;5;2018-06-24;0;1;56;"villa lynch";"san_martin ";1300;;;1416;slug
 jbc-569-2018-00;5;2018-06-11;0;1;116;"bella vista";gualeguay_&_jujuy;2535;;;1663;slugo
 jbc-569-2018-01;5;2018-08-31;0;1;116;"bella vista";gualeguay_&_jujuy;2535;;;1663;slugo
 jbc-569-2018-02;5;2018-11-24;0;1;116;"bella vista";gualeguay_&_jujuy;2535;;;1663;slugo
+jbe-435-2022-00;1;2022-10-06;0;1;66;"san carlos";36;0;150;151;1901;mstefano
 jbg-427-2019-00;1;2019-05-21;0;1;14;berisso;92;250;;;1923;mstefano
 jbh-841-2021-00;5;2021-07-11;1;1;63;"jose clemente paz";laprida;2341;;;1660;galfiero
 jbm-819-2018-00;4;2018-08-10;0;1;135;caba;pergamino;3172;;;1437;gsanluis
@@ -4485,6 +4582,7 @@ jda-815-2018-00;1;2018-06-17;1;1;13;"el pato";510;;623;;1884;mstefano
 jda-815-2018-01;1;2018-07-14;0;1;13;"el pato";510;;623;;1893;mstefano
 jdb-996-2018-00;4;2018-05-17;0;1;135;caba;santiago_del_estero;1424;;;1136;gsanluis
 jde-034-2022-00;4;2022-07-07;0;1;6;avellaneda;ingeniero_huergo;1454;;;1870;gsanluis
+jdf-022-2023-00;4;2023-06-24;0;1;135;barracas;barrio_21_24_manzana_21;60;;;1437;fossorio
 jdf-685-2018-00;5;2018-07-02;0;1;63;"jose c paz";tomas_guido;1;;;1660;slugo
 jdg-125-2018-00;1;2018-05-28;0;1;66;"villa elvira";613;;122;"122 bis";1900;mstefano
 jdg-125-2019-01;1;2019-07-16;0;1;66;"villa elvira";613;;122;"122 bis";1900;mstefano
@@ -4538,6 +4636,7 @@ jep-215-2019-00;1;2018-12-29;0;1;66;"los hornos";71;;140;;1900;mstefano
 jep-312-2018-00;5;2018-06-29;0;1;75;lujan;mendoza;1936;;;6702;slugo
 jer-208-2022-00;4;2022-09-19;0;1;135;caba;araujo;2232;;;1440;gsanluis
 jer-697-2018-00;5;2018-05-24;0;1;128;ciudadela;madero;1936;;;1678;slugo
+jes-220-2022-00;1;2022-09-12;0;1;66;"la plata";137;0;;;1900;mstefano
 jes-516-2019-00;1;2019-04-06;0;1;66;"villa elvira";2;;90;91;1900;mstefano
 jes-988-2023-00;5;2023-02-10;0;1;82;"parque san martin";schiaffino;377;;;1721;galfiero
 jfa-503-2021-00;1;2021-09-17;0;1;66;etcheverry;212;525;;;1903;mstefano
@@ -4643,6 +4742,7 @@ jmb-705-2020-00;4;2020-01-07;0;1;63;"jose c paz";santa_maria;;;;;gsanluis
 jmb-925-2018-00;4;2018-08-22;0;1;101;quilmes;urquiza;596;;;1878;gsanluis
 jmc-250-2022-00;4;2022-07-18;0;1;13;"villa centenario";ginebra;845;;;1884;gsanluis
 jmc-616-2021-00;4;2021-11-22;0;1;74;"lomas de zamora";chivilcoy;862;;;1832;asbruzzi
+jmc-796-2022-00;1;2022-10-04;1;1;66;"melchor romero";520;0;152;;1900;mstefano
 jmd-037-2019-00;1;2019-06-10;0;1;66;"san carlos";164;201;;;1901;mstefano
 jmd-037-2019-01;1;2019-06-23;0;1;66;"san carlos";164;201;;;1901;mstefano
 jmd-219-2018-00;1;2018-05-30;1;1;66;"melchor romero";516;;156;;1901;mstefano
@@ -4664,6 +4764,7 @@ jml-787-2019-00;3;2019-03-23;1;3;101;quilmes;882;3390;;;1878;agraziano
 JML-893-2023-00;5;2023-05-02;0;1;65;Laferrere;Lacar;6338;;;1757;mnieves
 jmm-090-2018-00;4;2018-06-06;0;1;65;"la union";los_cedros;127;;;1757;gsanluis
 jmm-583-2018-00;1;2018-08-03;0;1;66;"altos de san lorenzo";88;1891;;;1901;mstefano
+jmm-718-2023-00;4;2023-06-25;0;1;135;barracas;"avenida_regimiento_de _los_patricios";1636;;;1266;fossorio
 jmo-119-2018-00;5;2018-06-04;0;1;61;hurlingham;rio_santo;2574;;;1686;slugo
 jmo-128-2018-00;1;2018-04-25;0;1;66;abasto;515;;;;1903;mstefano
 jmo-264-2022-00;4;2022-09-16;0;1;74;"barrio santa marta";;6;;;1832;gsanluis
@@ -4689,6 +4790,7 @@ jna-501-2022-00;5;2022-05-02;0;1;128;caseros;cerro;3264;;;1678;cgroppo
 jnb-121-2021-00;5;2021-08-22;1;1;82;merlo;jose_ingenieros;1677;;;1722;cgroppo
 jnc-415-2018-00;1;2018-08-29;0;1;66;"villa elvira";90;;115;;1900;mstefano
 jnc-440-2019-00;1;2019-09-29;0;1;14;berisso;"76 bis";;124;125;1923;mstefano
+jnc-880-2019-00;5;2019-07-12;1;1;67;lanus;charroarin;2539;;;1824;cgroppo
 jnc-923-2021-00;4;2021-03-12;0;1;65;"virrey del pino";"cirilo_correa ";1133;;;1763;asbruzzi
 jnd-784-2022-00;1;2022-05-31;0;1;119;"san vicente";chifone;820;;;1864;mstefano
 jnd-907-2021-00;1;2021-12-19;0;1;66;"villa elisa";417;;;;1902;mstefano
@@ -4716,6 +4818,7 @@ JNR-465-2023-00;5;2023-05-27;1;1;85;Moreno;Centenario;537;;;1744;mnieves
 JNR-487-2019-00;1;2019-02-10;0;1;66;"villa elvira";91;;115;;1900;mstefano
 jns-774-2022-00;1;2022-07-07;;;66;;;;;;;mstefano
 jnt-700-2018-00;5;2018-06-26;0;1;63;"jose c paz";colonia;4478;;;1666;slugo
+jnt-820-2023-00;4;2023-05-11;0;1;74;"lomas de zamora";45;0;Saladillo;Espronceda;1832;tsouto
 JOC-022-2023-00;5;2023-05-17;0;1;85;"loma verdes";"13 de diciembre";0;;;1744;mnieves
 jpa-083-2022-00;4;2022-08-25;0;1;101;"quilmes oeste";386;;;;1878;gsanluis
 jpb-165-2018-00;5;2018-07-28;0;1;65;"Villa luzuriaga";Lisboa;806;;;1754;jgarcia
@@ -4756,6 +4859,7 @@ JTB-508-2023-00;5;2023-04-27;0;2;82;Merlo;"Carlos gardel";833;;;1722;mnieves
 JTB-508-2023-01;5;2023-05-19;0;1;82;Merlo;"Carlos gardeñ";833;;;1722;mnieves
 jtc-447-2019-00;1;2019-05-15;0;1;66;"villa elvira";95;32;;;1900;mstefano
 jtd-723-2018-00;5;2018-06-20;1;1;82;libertad;julian_castro;1934;;;1722;slugo
+jtd-879-2022-00;1;2022-10-08;0;1;66;"altos de san lorenzo";77;1172;;;1901;mstefano
 jtf-711-2021-00;5;2021-07-23;0;1;96;pilar;francisco_lauria;2270;;;1629;galfiero
 jtg-649-2018-02;1;2018-06-07;0;1;119;"alejandro korn";pueyrredon;1375;;;1864;mstefano
 jtg-649-2018-03;1;2018-07-29;0;1;119;"alejandro korn";pueyrredon;1375;;;1864;mstefano
@@ -4829,6 +4933,7 @@ jxf-377-2021-00;1;2021-07-31;1;1;40;ezeiza;rosario;279;;;1802;mstefano
 JXF-410-2019-00;5;2019-05-13;0;1;63;"Jose c paz";"Rodrigo de triana";5797;;;1665;mnieves
 jxf-433-2018-00;1;2018-07-07;0;1;19;ca?uelas;"camino las eras";123;;;1814;mstefano
 jxf-620-2018-00;4;2018-06-25;0;1;13;berazategui;38;5386;;;1884;gsanluis
+jxg-021-2023-00;4;2023-04-28;0;1;4;"rafael calzada";lopez_de_gomara;6299;;;1847;tsouto
 jxg-212-2018-00;1;2018-07-24;0;1;14;berisso;157;;26;27;1923;mstefano
 JXG-252-2023-00;5;2023-05-17;0;1;116;"Bella vista";"Carlos duran";1092;;;1661;mnieves
 jxg-450-2018-00;1;2018-07-14;1;1;66;"arturo segui";429;139;139;140;1902;mstefano
@@ -4839,6 +4944,7 @@ jxi-741-2019-00;1;2019-05-09;0;1;14;berisso;126;1970;;;1923;mstefano
 jxl-157-2018-00;1;2018-07-06;0;1;17;brandsen;"junta ";210;;oss;1980;mstefano
 jxl-237-2021-00;3;2021-03-28;1;3;41;"florencio varela";rio_salado;1867;;;1888;agraziano
 jxl-429-2022-00;4;2022-12-24;1;2;119;alejandro_korn;segui;1098;;;1864;gsanluis
+JXL-730-2022-00;1;2022-10-17;0;1;118;"RIO TALA";"LA VALLE ";96;;;2944;mstefano
 jxl-850-2022-00;1;2022-05-02;0;1;66;"los hornos";149;1865;;;1900;mstefano
 jxl-850-2022-01;1;2022-08-10;0;1;66;"LOS HORNOS UNIDAD 33";0;0;;;1900;mstefano
 jxl-996-2019-00;1;2019-05-09;0;1;66;"altos de san lorenzo";74;2446;;;1901;mstefano
@@ -4852,6 +4958,7 @@ jxm-489-2021-01;5;2021-11-10;0;1;82;merlo;subiria;3041;;;1722;cgroppo
 jxm-743-2021-00;1;2021-09-10;0;1;66;"villa elvira";"89 bis";1152;;;1900;mstefano
 jxm-781-2021-00;4;2021-08-02;0;1;101;quilmes;rodolfo_lopez;2347;;;1878;asbruzzi
 jxo-245-2022-00;5;2022-11-21;0;1;61;hurlingham;bolivar;1802;;;1686;cgroppo
+jxo-397-2019-00;5;2019-07-04;0;1;116;san_miguel;olegario_andrade;1760;;;1663;cgroppo
 jxo-913-2020-00;5;2020-07-28;1;1;128;"loma hermosa";rio_negro;9923;;;1678;cgroppo
 jxp-082-2022-00;3;2022-10-10;1;3;38;"9 de abril";san_juan;2024;;;1776;agraziano
 jxp-239-2022-00;5;2022-07-29;1;1;61;"villa tesei";morales;763;;;1763;cgroppo
@@ -4926,11 +5033,13 @@ kdo-870-2019-01;4;2019-08-29;0;1;101;quilmes;misiones;589;;;;gsanluis
 kdo-870-2019-02;4;2019-11-07;0;1;101;quilmes;misiones;589;;;1878;gsanluis
 kdo-870-2019-03;4;2019-11-30;1;2;101;quilmes;misiones;589;;;1878;gsanluis
 kdp-338-2022-00;3;2022-05-07;1;3;4;"jose marmol";lavalle;537;;;1846;agraziano
+kdv-086-2022-00;4;2022-12-19;0;1;74;lomas_de_zamora;campana;181;;;1832;gsanluis
 kef-419-2022-00;4;2022-11-23;0;1;6;avellaneda;hipolito_irigoyen;304;;;1870;gsanluis
 kem-669-2018-00;5;2018-06-30;1;1;85;moreno;lobos;2933;;;1744;slugo
 kem-739-2021-00;5;2021-07-26;0;1;116;"san miguel";defensa;285;;;1686;galfiero
 ken-669-2018-00;5;2018-06-30;1;1;85;moreno;lobos;2933;;;1744;slugo
 kep-166-2018-00;5;2018-06-22;0;1;61;"villa tesei";watsman;132;;;1688;slugo
+kep-867-2022-00;1;2022-10-14;0;1;66;"la plata";0;0;0;0;1900;mstefano
 ket-151-2021-00;4;2021-08-23;0;1;67;lanus;mauri_salcedo;334;;;1824;asbruzzi
 kfb-508-2022-01;4;2022-09-15;0;1;67;"lanus oeste";manuela_pedrsa;4318;;;1824;gsanluis
 kfc-725-2018-00;1;2018-06-03;0;1;66;"la plata";72;;15;16;1900;mstefano
@@ -5039,6 +5148,7 @@ LAB-778-2022-00;1;2022-08-18;0;1;104;AMERICA;"ISOLA ";7;;;6237;mstefano
 LAC-158-2022-00;1;2022-08-29;0;1;66;ARANA;600;0;131;;1907;mstefano
 lac-237-2019-03;4;2019-12-12;0;1;41;"florencio varela";"leandro n alem";1623;;;1888;gsanluis
 lac-296-2022-00;4;2022-09-13;0;1;135;caba;vieytes;1176;;;1275;gsanluis
+lac-433-2022-00;1;2022-10-18;0;1;66;"los hornos";144;1210;;;1900;mstefano
 lac-457-2018-00;5;2018-06-28;0;1;62;ituzaingo;el_rancho;5296;;;1714;slugo
 lac-457-2019-00;5;2019-10-05;0;1;62;ituzaingo;el_rancho;5296;;;1714;slugo
 lac-697-2018-00;4;2018-07-09;0;1;41;"florencio varela";552;1033;;;1888;gsanluis
@@ -5072,6 +5182,7 @@ LAL-430-2022-00;5;2022-05-18;0;1;128;Ciudadela;"Fray cayetano rodriguez";1800;;;
 lal-622-2019-01;1;2019-07-11;0;1;66;"los hornos";82;;133;134;1900;mstefano
 lal-622-2019-02;1;2019-07-24;0;1;66;"los hornos";82;;133;134;1900;mstefano
 lal-622-2020-03;1;2020-06-12;0;1;66;"altos de san lorenzo";82;1931;;;1901;mstefano
+lal-648-2022-00;4;2022-12-06;0;1;6;wilde;pino;6073;;;1875;gsanluis
 lal-725-2022-00;4;2022-05-03;0;1;135;barracas;san_antonio;725;;;1293;asbruzzi
 lal-812-2022-00;1;2022-06-19;0;1;66;etcheverry;229;0;67;;1903;mstefano
 lal-815-2019-00;4;2019-12-02;0;1;101;quilmes;889;1431;;;1878;gsanluis
@@ -5139,6 +5250,7 @@ lbm-182-2019-00;5;2019-04-06;0;1;62;ituzaingo;glutter;2470;;;1714;slugo
 LBN-270-2022-00;1;2022-07-31;0;1;66;OLMOS;32;183;;;1903;mstefano
 LBP-729-2023-00;5;2023-05-24;1;1;116;"San miguel";"Tomas guido";4854;;;1663;mnieves
 lbr-682-2018-00;3;2018-06-27;1;3;13;berazategui;125;49;;;1884;jveslosada
+lbr-753-2019-00;5;2019-07-01;0;1;116;bella_vista;"jujuy ";3427;;;1661;cgroppo
 lbr-858-2022-00;4;2022-10-02;0;1;6;"villa dominico";washinton;402;;;1874;gsanluis
 lbr-877-2018-00;5;2018-07-19;0;1;85;moreno;san_luis;3212;;;1744;slugo
 lbr-943-2021-00;1;2021-12-02;0;1;66;"villa elvira";122;0;114;;1900;mstefano
@@ -5214,6 +5326,7 @@ leb-786-2019-01;5;2019-12-10;0;1;85;moreno;tupac_amaru;790;;;1744;slugo
 leb-786-2019-02;5;2019-12-31;0;1;85;moreno;"tupac_amaru ";790;;;1744;slugo
 leb-987-2021-00;4;2021-06-02;0;1;135;"villa 21 24";manzana_6_casa_5;5;;;1437;asbruzzi
 leb-987-2021-01;4;2021-11-19;0;1;135;"barrio 21 24";manzana_6;6;;;1437;asbruzzi
+lec-029-2023-00;4;2023-05-10;0;1;119;"alejandro korn";"Floro Lavalle ";1624;;;1864;tsouto
 lec-231-2019-00;1;2019-05-15;0;1;66;"altos de san lorenzo";76;1541;26;;1901;mstefano
 lec-345-2022-00;5;2022-08-31;0;1;65;"la matanza";fray_correa;2914;;;1755;cgroppo
 lec-407-2021-00;5;2021-08-31;0;1;82;merlo;samuel_morse;3130;;;1721;galfiero
@@ -5239,6 +5352,7 @@ LEL-908-2022-00;1;2022-06-01;0;1;66;"LOS HORNOS";167;0;59;;1900;mstefano
 lem-071-2018-00;5;2018-05-03;0;1;65;"isidro casanova";pujol;2515;;;1765;slugo
 lem-138-2019-00;1;2019-08-01;0;1;13;"el pato";517;;603;604;1884;mstefano
 lem-450-2021-00;1;2021-12-14;0;1;66;"san carlos";155;;32;;1900;mstefano
+lem-637-2022-00;4;2022-11-09;0;1;13;berazategui;28;3042;;;1884;gsanluis
 lem-648-2018-00;1;2018-08-23;0;1;66;abasto;232;;38;;1903;mstefano
 lem-817-2018-00;1;2018-07-15;0;1;66;"villa elvira";99;436;;;1900;mstefano
 lem-946-2018-00;1;2018-07-24;0;1;66;"villa elvira";91;526;;;1900;mstefano
@@ -5292,6 +5406,7 @@ lga-595-2021-00;4;2021-01-22;0;1;101;"san francisco solano";"818 ";2231;;;1881;a
 lga-595-2021-01;4;2021-08-03;0;1;101;"san francisco solano";818;2231;;;1881;asbruzzi
 lga-599-2021-00;4;2021-10-29;0;1;101;quilmes;rodriguez_peña;2131;;;1878;asbruzzi
 lga-691-2018-00;1;2018-12-10;0;1;66;"los hornos";70;;143;144;1900;mstefano
+lga-699-2022-00;1;2022-10-07;0;1;66;"la plata";31;0;44;;1900;mstefano
 lgb-987-2022-00;5;2022-11-08;0;3;128;Caseros;Azcuenaga;4460;;;1678;mnieves
 lgc-206-2018-00;1;2018-06-20;0;1;66;"los hornos";145;1571;;;1900;mstefano
 lgc-249-2022-00;1;2022-07-28;0;1;66;tolosa;527;0;;;1900;mstefano
@@ -5315,7 +5430,10 @@ lgr-019-2021-00;1;2021-08-25;1;1;66;"los hornos";52;;162;163;1900;mstefano
 lgr-416-2021-00;5;2021-08-13;0;1;85;trujui;teodoro_fels;7445;;;1736;galfiero
 lgr-529-2019-00;1;2019-08-27;0;1;21;"carlos casares";"rio negro";628;;;6530;mstefano
 lgs-070-2018-00;1;2018-05-14;0;1;66;"lisandro olmos";54;5075;196;197;1903;mstefano
+lgs-103-2023-00;4;2023-05-10;0;1;40;"la union ";"los ceibos";593;;;1803;tsouto
+lgv-171-2023-00;4;2023-05-08;0;1;4;Glew;"Presidente Castillo ";2460;;;1856;tsouto
 LGV-259-2023-00;5;2023-05-18;0;1;61;"William morris";Ennciso;2554;;;1688;mnieves
+lhb-286-2022-00;1;2022-10-11;0;1;66;"city bell";4;0;475;476;1896;mstefano
 LHF-499-2022-00;5;2022-04-19;0;1;65;"Ramos mejia";Bolivar;2177;;;1704;mnieves
 lhh-079-2018-00;3;2018-08-14;1;1;67;"monte chingolo";las_piedras;5358;;;1825;jveslosada
 lhh-079-2018-01;3;2018-09-12;0;1;67;"monte chingolo";las_piedras;5358;;;1825;jveslosada
@@ -5351,6 +5469,7 @@ ljb-939-2021-00;1;2021-12-16;0;1;66;tolosa;7;;506;;1900;mstefano
 ljc-579-2019-00;1;2019-05-11;0;1;41;"ingeniero juan allan";1155;2847;;;1888;mstefano
 ljc-799-2018-00;4;2018-07-06;0;1;101;quilmes;libano;2362;;;1878;gsanluis
 ljc-825-2022-00;4;2022-03-20;1;1;41;"florencio varela";27;731;;;1888;asbruzzi
+ljd-710-2023-00;4;2023-05-10;0;1;98;guernica;126;1684;;;1862;tsouto
 ljf-852-2018-00;1;2018-05-29;0;1;66;abasto;214;;520;;1903;mstefano
 ljg-273-2018-00;5;2018-07-04;0;1;82;merlo;anderson;6461;;;1722;slugo
 ljg-273-2018-01;5;2018-07-20;0;1;82;merlo;anderson;6461;;;1722;slugo
@@ -5389,6 +5508,7 @@ LKV-819-2022-00;1;2022-08-25;0;1;66;"VILLA ELVIRA";115;2976;;;1900;mstefano
 lla-660-2018-01;1;2018-06-07;0;1;66;"la plata";122;;98;99;1900;mstefano
 lla-724-2018-00;1;2018-04-08;0;1;66;abasto;212;;525;000;1903;rmerlino
 llc-338-2019-00;1;2019-08-28;0;1;66;"villa elvira";118;613;613;614;1900;mstefano
+llc-338-2022-02;1;2022-10-04;0;1;66;"villa elvira";118;0;613;614;1900;mstefano
 LLC-598-2020-00;1;2020-06-21;0;1;66;"SAN CARLOS";36;2598;;;1901;mstefano
 llf-458-2021-00;1;2021-09-02;0;1;66;"villa elvira";124;2940;;;1900;mstefano
 llg-370-2022-00;3;2022-04-23;1;1;74;"lomas de zamora";presidente_peron;4263;;;1832;agraziano
@@ -5401,6 +5521,7 @@ llp-765-2021-00;1;2021-09-19;0;1;66;"los hornos";139;2026;;;1900;mstefano
 llt-611-2022-00;4;2022-04-26;0;1;98;guernica;20;256;;;1862;asbruzzi
 llv-228-2019-00;5;2019-09-18;0;1;85;moreno;casacuberta;45;;;1744;slugo
 llv-400-2019-00;1;2019-11-16;0;1;66;"villa elvira";"121 bis";3074;;;1900;mstefano
+lma-114-2022-00;1;2022-10-14;0;1;66;"villa elvira";76;61;118;119;1900;mstefano
 lma-316-2022-00;3;2022-11-16;1;1;13;berazategui;118;3108;;;1884;agraziano
 lma-455-2021-00;1;2021-03-25;0;1;66;"san carlos";151;526;;;1901;mstefano
 lma-582-2019-00;1;2019-04-29;0;1;66;"altos de san lorenzo";157;;57;58;1901;mstefano
@@ -5417,6 +5538,7 @@ lmc-553-2022-00;5;2022-06-08;1;1;128;caseros;glinares;5269;;;1678;cgroppo
 LMC-553-2023-00;5;2023-05-19;0;1;128;Caseros;"Gabriel linares";5269;;;1678;mnieves
 lmc-724-2019-00;1;2019-06-02;0;1;14;berisso;128;;88;;1923;mstefano
 lmc-783-2018-00;1;2018-05-14;0;1;66;"altos de san lorenzo";83;1363;23;"23 bis";1901;mstefano
+lme-430-2022-00;4;2022-12-09;0;1;98;guernica;moreno;455;;;1862;gsanluis
 lme-736-2022-00;4;2022-04-20;0;1;38;"monte grande";rojas;79;;;1842;asbruzzi
 lmf-930-2022-01;4;2022-10-16;0;1;135;caba;pi_y_margall;1142;;;1165;gsanluis
 lmg-724-2019-00;1;2019-11-05;0;1;66;"los hornos";75;;140;141;1900;mstefano
@@ -5432,6 +5554,7 @@ lmm-352-2019-00;4;2019-11-04;0;1;38;"monte grande";ingeniero_huergo;2590;;;1842;
 lmm-492-2022-00;5;2022-07-15;0;1;82;merlo;riobamba;1600;;;1722;cgroppo
 lmm-492-2022-01;5;2022-11-11;0;1;82;merlo;riobamba;1600;;;1722;cgroppo
 lmm-577-2018-00;4;2018-05-15;0;1;135;"villa 21 24";mza_25;;;;;gsanluis
+lmn-887-2022-00;4;2022-11-21;0;1;4;rafael_calzada;santa_cruz;2324;;;1847;gsanluis
 lmn-890-2021-00;4;2021-11-26;1;1;135;"villa 1 11 14";pedernera;838;;;1437;asbruzzi
 lmo-426-2018-00;1;2018-08-21;0;1;66;"altos de san lorenzo";27;2466;;;1901;mstefano
 lmo-807-2021-00;5;2021-10-23;0;1;65;"la matanza";loyola;240;;;1763;cgroppo
@@ -5485,6 +5608,7 @@ LNJ-340-2023-00;5;2023-01-16;0;1;63;"Jose c paz";"Huachi 336";336;;;1665;mnieves
 lnl-070-2021-00;4;2021-08-08;0;1;41;"florencio varela";oliver;3291;;;1888;asbruzzi
 lnm-873-2019-00;1;2019-06-15;0;1;13;berazategui;135;2984;;;1864;mstefano
 lnr-208-2021-01;1;2021-09-09;0;1;66;"city bell";479;;7;8;1892;mstefano
+lnr-211-2022-00;1;2022-09-03;1;1;36;"punta lara";5;0;4;4bis;1925;mstefano
 lns-250-2021-00;4;2021-08-01;0;1;38;"luis guillon";alma_fuerte;227;;;1838;asbruzzi
 lns-901-2018-00;4;2018-06-24;0;1;101;ezpeleta;namuncura;976;;;1882;gsanluis
 LNT-703-2023-00;5;2023-08-15;0;1;62;Ituzaingo;"San martin";4420;;;1714;mnieves
@@ -5511,8 +5635,10 @@ lrb-356-2022-00;5;2022-07-07;1;1;61;hurlingham;Alsina;2252;;;1686;mnieves
 lrb-356-2022-01;5;2022-09-25;0;1;61;HURLINGHAM;ALSINA;2252;;;1686;mnieves
 lrb-356-2022-02;5;2022-11-22;0;1;61;hurlingham;Alsina;2252;;;1686;mnieves
 lrb-750-2021-00;3;2021-08-12;1;1;4;burzaco;san_francisco_de_asis;280;;;1852;agraziano
+lrc-049-2022-00;1;2022-10-08;0;1;66;"melchor romero";153;961;;;1903;mstefano
 lrc-560-2022-00;4;2022-05-06;0;1;101;ezpeleta;condarco;5560;;;1882;asbruzzi
 lrc-901-2019-00;1;2019-09-10;0;1;17;brandsen;"venado tuerto";;dorrego;;2070;mstefano
+lrg-372-2022-00;1;2022-10-25;0;1;66;"los hornos";175;0;75;76;1900;mstefano
 lrj-586-2021-00;3;2021-11-09;1;3;98;guernica;filiberto;4131;;;1862;agraziano
 lrm-725-2022-00;1;2022-07-10;0;1;66;"villa elvira";6;3097;;;1900;mstefano
 lrm-784-2022-00;1;2022-07-13;0;1;14;berisso;"126 n ";2385;;;1923;mstefano
@@ -5522,6 +5648,7 @@ lrr-862-2021-00;5;2021-11-12;0;1;62;ituzaingo;antofagasta;2193;;;1714;cgroppo
 lrs-416-2022-00;4;2022-12-27;0;1;65;rafael_calzada;lanza;3434;;;1755;gsanluis
 LRV-983-2023-00;5;2023-07-03;0;1;85;Trujui;Argerich;10100;;;1664;mnieves
 lsa-587-2019-00;1;2019-02-20;0;1;66;"la plata";36;411;;;1900;mstefano
+lsb-177-2022-00;1;2022-10-15;0;1;119;"san vicente";"a. del valle";16;;;0;mstefano
 lsb-184-2019-00;1;2019-02-06;0;1;66;"melchor romero";"164 bis";283;;;1903;mstefano
 lsb-764-2018-00;1;2018-05-27;0;1;66;"villa elvira";1;2428;;;1900;mstefano
 lsb-764-2019-01;1;2019-04-16;1;1;66;"villa elvira";1;2428;"80 bis";81;1900;mstefano
@@ -5566,6 +5693,7 @@ lts-264-2021-00;3;2021-10-17;1;1;4;adrogue;dequi;61;;;1846;agraziano
 ltv-416-2021-00;4;2021-07-17;0;1;135;"villa 21 24";manzana_3_casa_21;21;;;1437;asbruzzi
 ltz-792-2018-00;4;2018-07-16;0;1;101;quilmes;el_valle;1120;;;1878;gsanluis
 lub-283-2018-00;3;2018-04-22;1;3;40;ezeiza;pravaz;1260;;;1804;jveslosada
+lud-319-2023-00;4;2023-06-21;0;1;4;Glew;fleming;2897;;;1856;fossorio
 luv-432-2018-00;1;2018-12-22;0;1;14;berisso;33;938;129;130;1923;mstefano
 luv-432-2019-01;1;2019-09-11;0;1;14;berisso;33;938;;;1923;mstefano
 lva-470-2021-00;1;2021-09-14;0;1;;;;;;;1900;mstefano
@@ -5585,6 +5713,8 @@ lvm-151-2022-00;1;2022-09-26;0;1;66;"la plata";69;624;;;1900;mstefano
 lvn-570-2021-00;1;2021-09-23;0;1;66;"altos de san lorenzo";69;;137;;1901;mstefano
 lvr-286-2021-00;4;2021-07-19;0;1;38;"el jaguel";coronel_saavedra;1745;;;2707;asbruzzi
 lvs-217-2019-00;1;2019-02-03;1;3;66;"la plata";8;1662;67;;1900;mstefano
+lvs-265-2019-00;5;2019-07-03;1;1;82;merlo;jose_ingenieros;;larreta;supparo;1723;cgroppo
+lvs-265-2019-01;5;2019-08-19;0;1;82;merlo;jose_ingenieros;;larreta;supparo;1723;cgroppo
 lvs-553-2018-00;3;2018-06-12;1;3;13;sourigues;262;1551;;;1886;jveslosada
 lvs-678-2022-00;5;2022-02-01;0;1;65;"Isidro casanova";deseado;5988;;;1765;cgroppo
 lvs-678-2022-01;5;2022-07-03;1;1;65;"isidro casanova";deseado;5988;;;1765;cgroppo
@@ -5655,7 +5785,7 @@ lxf-935-2018-00;4;2018-06-03;0;1;4;burzaco;paiva;796;;;1852;gsanluis
 lxg-137-2019-00;5;2019-07-28;0;1;85;moreno;belisario_roldan;6101;;;1744;cgroppo
 lxg-178-2018-00;1;2018-04-30;0;1;66;"altos de san lorenzo";87;1634;;;1901;mstefano
 lxg-178-2022-00;1;2022-07-17;0;1;66;"villa elvira";;;;;1900;mstefano
-LXG-246-2023-00;5;2023-07-31;1;;4;"Al brown";Saavedra;495;;;1846;mnieves
+LXG-246-2023-00;5;2023-07-31;1;;4;"Almirante brown";Saavedra;495;;;1846;mnieves
 lxg-391-2019-00;1;2019-05-23;0;1;66;"los hornos";58;2821;;;1900;mstefano
 lxg-443-2021-00;4;2020-12-06;1;4;135;caba;manzana_7_a_casa;16;;;1434;asbruzzi
 LXG-569-2021-00;1;2021-08-02;0;1;66;"altos de san lorenzo";70;2414;;;1901;mstefano
@@ -5673,6 +5803,7 @@ lxi-234-2021-00;3;2021-07-01;1;1;;;;;;;;agraziano
 lxj-026-2018-00;1;2018-10-15;0;1;66;"san carlos";41;;168;;1901;mstefano
 LXL-129-2022-00;1;2022-08-11;0;1;66;"LOS HORNOS";141;0;81;"81 BIS";1900;mstefano
 LXL-721-2022-00;1;2022-08-21;0;1;66;ROMERO;36;0;;;1903;mstefano
+LXL-981-2022-00;1;2022-10-06;0;1;66;"LA PLATA";117;0;;;1900;mstefano
 lxl-992-2022-00;1;2022-06-02;1;1;66;"san carlos";"50 bis ";2772;;;1901;mstefano
 lxm-008-2022-00;1;2022-04-27;0;1;66;"los hornos";162;1680;;;1900;mstefano
 lxm-255-2018-00;5;2018-08-05;0;1;128;Ciudadela;Elizalde;2117;;;1701;jgarcia
@@ -5739,7 +5870,7 @@ lxs-302-2018-00;5;2018-07-31;0;1;85;Moreno;Salguero;2204;;;1738;jgarcia
 lxs-302-2019-00;5;2019-04-07;0;1;85;Moreno;Salguero;2204;;;1738;jgarcia
 lxs-320-2023-00;3;2023-02-11;1;1;;;;;;;;agraziano
 lxs-332-2021-00;1;2021-09-04;0;1;66;"villa elvira";3;2325;;;1900;mstefano
-LXS-353-2023-00;5;2023-05-26;0;1;61;Hurlingh;Dante;3270;;;1686;mnieves
+LXS-353-2023-00;5;2023-05-26;0;1;61;Hurlingham;Dante;3270;;;1686;mnieves
 lxs-737-2019-01;1;2019-05-04;0;1;66;"altos de san lorenzo";19;1570;;;1901;mstefano
 lxs-861-2022-00;3;2022-10-18;0;3;38;"monte grande";echeverria;1668;;;1842;agraziano
 lxs-962-2022-00;1;2022-06-15;0;1;66;"los hornos";21;8927;;;1900;mstefano
@@ -5814,6 +5945,7 @@ mac-474-2022-00;4;2022-12-23;0;1;67;lanus;los_ceibos;4;;;1824;gsanluis
 mac-498-2019-00;1;2019-09-14;0;1;66;"altos de san lorenzo";90;;28;;1901;mstefano
 mac-742-2018-00;4;2018-07-17;0;1;41;"florencio varela";iglesias;878;;;1888;gsanluis
 mac-761-2019-01;1;2019-07-11;0;1;66;"los hornos";133;1634;;;1900;mstefano
+mac-766-2022-00;1;2022-10-19;0;1;66;tolosa;528;1362;;;1900;mstefano
 mac-788-2020-02;1;2020-09-09;0;1;66;"villa elvira";117;2390;;;1900;mstefano
 mac-801-2019-00;5;2019-08-29;1;1;128;"pablo podesta";el_parque;10058;;;1683;slugo
 mac-801-2020-00;5;2020-02-04;0;1;128;"pablo podesta";el_parque;10058;;;1683;slugo
@@ -5946,6 +6078,7 @@ mbg-149-2019-00;3;2019-06-05;1;3;4;"rafael calzada";santa_ana;2572;;;1847;agrazi
 mbg-157-2022-00;1;2022-07-22;1;1;66;"villa elvira";604;102;;;1900;mstefano
 mbg-157-2022-01;1;2022-09-01;0;1;66;"villa elvira";604;602;;;1900;mstefano
 mbg-157-2022-02;1;2022-09-26;0;1;66;"villa elvira";604;602;;;1900;mstefano
+mbg-157-2022-03;1;2022-10-03;0;1;66;"villa elvira";604;0;112;;1900;mstefano
 mbg-586-2018-00;3;2018-05-25;1;3;66;"arturo segui";;;;;1895;jveslosada
 mbg-586-2018-01;1;2018-08-29;0;1;66;"villa elisa";414;211;;;1902;mstefano
 MBG-933-2022-00;1;2022-08-23;1;1;14;BERISSO;"BARRIO OBRERO ";229;;;1923;mstefano
@@ -6009,6 +6142,7 @@ mdm-521-2019-01;1;2019-09-22;0;1;66;"san carlos";39;;151;;1901;mstefano
 mdm-879-2019-01;4;2019-09-13;0;1;67;"barrio los ceibos";"centenario uruguayo";2800;;;1824;gsanluis
 mdm-977-2021-00;1;2021-11-15;0;1;76;bavio;"mitre ";;"25 de mayo";;1907;mstefano
 mdm-977-2021-01;1;2021-11-26;1;1;76;bavio;"mitre ";;"25 de mato";;1907;mstefano
+mdo-061-2022-00;1;2022-10-15;0;1;66;"el retiro";165;2018;52;;1901;mstefano
 mdo-490-2019-00;1;2019-09-12;0;1;13;berazategui;49;3649;;;1884;mstefano
 mdo-895-2022-00;3;2022-12-06;1;1;41;"florencio varela";bergna;645;;;1888;agraziano
 mdr-489-2023-00;5;2023-07-16;0;1;65;"rafael castillo";eduardo_voguel;1799;;;1755;cgroppo
@@ -6075,6 +6209,7 @@ mev-134-2022-00;1;2022-07-28;0;1;66;"villa elvira";"121 bis ";3074;;;1900;mstefa
 mev-274-2019-00;1;2019-06-28;0;1;66;"villa elvira";602;;"128 bis";;1900;mstefano
 mev-279-2022-00;5;2022-09-13;0;1;116;"san miguel";conesa;4506;;;1663;cgroppo
 mev-304-2019-00;1;2019-06-02;0;1;66;"villa elvira";81;483;;;1900;mstefano
+mev-925-2022-00;1;2022-08-21;0;1;66;"city bell";"19 bis";972;;;1896;mstefano
 mev-999-2021-00;5;2021-09-30;0;1;82;merlo;maestro_ferreira;4359;;;1722;cgroppo
 mez-725-2022-00;4;2022-04-22;0;1;41;"florencio varela";trenque_lauquen;;;;1888;asbruzzi
 mfa-394-2018-00;1;2018-06-28;0;1;41;"florencio varela";mayorca;26;;;1888;mstefano
@@ -6103,6 +6238,7 @@ mfp-176-2018-01;5;2018-08-06;0;1;82;Merlo;Dessy;28;;;1722;jgarcia
 mfp-176-2018-02;5;2018-10-11;0;1;82;Merlo;Dessy;28;;;1722;jgarcia
 mfp-628-2018-00;1;2018-07-12;0;1;66;"melchor romero";185;;529;530;1903;mstefano
 MFR-462-2023-00;5;2023-05-18;0;1;85;"Paso del rey";Edison;102;;;1742;mnieves
+mfr-716-2023-00;4;2023-05-04;0;1;101;quilmes;Florida;1514;;;1878;tsouto
 mfr-863-2022-04;4;2022-09-19;0;1;4;claypole;joaquin_v_gonzalez;3226;;;1849;gsanluis
 mft-875-2018-00;1;2018-10-01;0;1;41;"florencio varela";503;2196;;;1888;mstefano
 mfv-121-2018-00;1;2018-07-12;0;1;41;"barrio santa rosa";"dinamarca ";480;;;1888;mstefano
@@ -6132,6 +6268,7 @@ mgl-606-2018-00;4;2018-07-07;0;1;101;bernal;misiones;576;;;1876;gsanluis
 mgl-760-2022-00;1;2022-07-07;0;1;66;"la plata";68;1034;;;1900;mstefano
 mgm-095-2019-00;1;2019-10-04;1;1;66;"villa elvira";600;;116;117;1900;mstefano
 mgm-153-2019-00;1;2019-06-14;1;1;75;lujan;"la paz";3721;;;6700;mstefano
+mgm-801-2023-01;4;2023-07-05;0;1;13;hudson;58;4940;;;1885;fossorio
 mgp-233-2022-00;3;2022-05-16;1;3;101;quilmes;costa_rica;;;;1878;agraziano
 MGP-378-2022-00;1;2022-08-04;1;1;98;GUERNICA;ALMAFUERTE;555;;;0;mstefano
 mgp-753-2019-00;1;2019-09-12;0;1;66;"el peligro";206;;425;427;1903;mstefano
@@ -6160,6 +6297,7 @@ mhp-724-2022-00;4;2022-07-30;0;1;65;"aldo bonzi";defensa;1056;;;1770;gsanluis
 MHR-441-2023-00;5;2023-05-24;0;1;65;"San justo";Malabia;4171;;;1754;mnieves
 mhv-775-2022-00;3;2022-07-26;1;1;;;;;;;;jveslosada
 mhy-288-2022-00;4;2022-09-18;0;1;4;adrogue;soto_acebal;525;;;1846;gsanluis
+mia-963-2022-00;1;2022-10-06;0;1;66;"san carlos";522;0;153;;1903;mstefano
 MIB-699-2021-00;1;2021-07-29;0;1;66;"LA PLATA";529;;182;"182 BIS";1900;mstefano
 mib-963-2022-01;1;2022-03-19;0;1;66;"melchor romero";519;0;182;"182 bis";1903;mstefano
 mic-122-2022-00;4;2022-08-15;0;1;101;quilmes;neuquen;430;;;1878;gsanluis
@@ -6169,6 +6307,7 @@ mic-367-2018-01;5;2018-07-05;0;1;85;moreno;beltran;2020;;;1744;slugo
 mid-425-2019-00;1;2019-10-10;0;1;66;"la plata";115;39;;;1900;mstefano
 mif-179-2019-00;1;2019-07-19;0;1;66;"melchor romero";528;;155;156;1903;mstefano
 mif-216-2018-00;4;2018-08-04;0;1;101;solano;827;2130;;;1881;gsanluis
+mif-261-2019-00;5;2019-07-10;0;1;80;marcos_paz;scalabrini_ortiz;565;;;1727;cgroppo
 mig-070-2022-00;1;2022-05-29;0;1;66;"melchor romero";"36 ";0;;;1903;mstefano
 mig-314-2018-00;4;2018-07-04;0;1;74;"lomas de zamora";falucho;251;;;1832;gsanluis
 MIG-696-2020-00;5;2020-09-22;0;1;86;"el palomar";villegas;21;;;1684;fcohen
@@ -6278,6 +6417,7 @@ mlr-035-2018-00;4;2018-05-14;0;1;135;caba;barrio_21_24-mza13;92;;;;gsanluis
 mlr-035-2018-01;4;2018-07-16;0;1;135;"barrio 21 24";13;92;;;;gsanluis
 mlr-826-2019-00;3;2019-11-23;1;1;41;bosques;"la esmeralda";780;;;1888;agraziano
 mls-053-2022-00;3;2022-10-23;1;1;74;"lomas de zamora";ohiggins;1393;;;1832;agraziano
+mls-053-2023-00;3;2023-05-09;1;1;74;lomas_de_zamora;ohhiggins;1393;;;1832;agraziano
 mls-917-2019-00;5;2019-05-26;1;1;63;"jose c paz";uspallata;1702;;;1660;slugo
 mls-917-2019-01;5;2019-10-29;0;1;63;"jose c paz";uspallata;1702;;;1660;slugo
 mlt-291-2018-00;5;2018-06-23;0;1;85;moreno;avenida_roca;2932;;;1744;slugo
@@ -6352,6 +6492,7 @@ mmm-689-2018-00;1;2018-07-12;0;1;66;"los hornos";70;2231;;;1900;mstefano
 mmm-706-2022-00;5;2022-07-27;1;1;55;"general rodriguez";los_tobas;2442;;;1748;cgroppo
 mmn-952-2022-00;5;2022-08-22;0;1;82;merlo;beltran_rusell;2861;;;1722;cgroppo
 MMN-952-2023-00;5;2023-05-13;0;;82;Merlo;"Beltran russel";2861;;;1722;mnieves
+mmo-064-2023-00;4;2023-05-10;0;1;4;claypole;17;0;;;1849;tsouto
 mmo-133-2018-00;1;2018-06-13;0;1;66;"villa elvira";122;;97;98;1900;mstefano
 mmo-133-2018-01;1;2018-08-02;0;1;66;"villa elvira";122;;97;98;1900;mstefano
 mmo-133-2022-02;1;2022-05-06;0;1;66;"villa elvira";122;0;97;98;1900;mstefano
@@ -6460,6 +6601,8 @@ mob-725-2019-03;1;2020-11-19;0;1;66;"villa elvira";"ruta 11";;611;;1900;mstefano
 MOC-124-2023-00;5;2023-05-08;0;1;85;Moreno;Monteagudo;1190;;;1744;mnieves
 mot-689-2018-00;4;2018-04-28;1;1;41;"florencio varela";jujuy;3120;;;1888;gsanluis
 mou-380-2021-00;3;2021-08-31;1;1;41;"florencio varela";evaristo_carriego;2640;;;1888;agraziano
+mpa-369-2019-00;5;2019-07-06;0;1;85;"moreno ";pedro_echague;1502;;;1744;cgroppo
+mpb-796-2022-00;1;2022-10-13;0;1;36;ensenada;37;609;;;1925;mstefano
 mpb-980-2019-00;4;2019-12-14;0;1;101;"don bosco";ayacucho;219;;;1878;gsanluis
 mpc-299-2018-00;1;2018-08-12;0;1;66;gonnet;4;;494;495;1902;mstefano
 mpm-505-2018-00;5;2018-06-06;0;1;62;ituzaingo;haiti;3662;;;1714;slugo
@@ -6510,6 +6653,7 @@ msg-551-2019-00;1;2019-08-29;0;1;14;berisso;28;2323;;;1923;mstefano
 msg-780-2022-00;5;2022-03-22;0;1;85;moreno;madariaga;2114;;;1744;cgroppo
 msg-830-2020-00;1;2020-03-18;0;1;66;"la plata";72;;190;;1900;mstefano
 msg-927-2018-00;1;2018-02-15;0;1;66;"melchor romero";520;;162;;1900;rmerlino
+msg-961-2019-00;5;2019-07-06;0;1;82;merlo;coronda;2095;;;1722;cgroppo
 msi-384-2019-01;4;2019-09-25;1;1;101;quilmes;8500;1250;;;1878;gsanluis
 msi-384-2019-02;4;2019-12-14;0;1;101;quilmes;8500;1250;;;1878;gsanluis
 MSL-260-2022-00;1;2022-08-15;0;1;66;ROMERO;518;0;157;;1903;mstefano
@@ -6584,8 +6728,10 @@ mva-513-2020-03;1;2020-08-08;0;1;66;"la plata";7;;71;;1900;mstefano
 mva-513-2021-04;1;2021-03-16;0;1;66;"la plata";7;1951;71;;1900;mstefano
 mva-756-2021-00;4;2021-08-21;0;1;67;lanus;purita;3536;;;1824;asbruzzi
 mva-756-2022-00;4;2022-03-09;0;1;67;lanus;purita;3536;;;1824;asbruzzi
+mvb-589-2023-00;4;2023-05-09;0;1;41;"florencio varela";Martinez;890;;;1888;tsouto
 MVB-674-2023-00;5;2023-06-12;0;1;85;Trujui;Pericles;9520;;;1744;mnieves
 mvb-875-2021-00;1;2021-10-17;0;1;14;berisso;"maz 18 bis";710;;;1923;mstefano
+mvb-890-2023-00;4;2023-05-04;0;1;4;burzaco;"La rosa";1920;;;1852;tsouto
 mvc-374-2021-00;1;2021-08-27;1;1;40;ezeiza;guatemala;222;;;1812;mstefano
 MVC-568-2022-00;5;2022-12-17;0;1;82;Merlo;"Marcos sastre";953;;;1722;mnieves
 MVC-572-2023-00;5;2023-06-25;0;1;85;Trujui;Barker;2220;;;1744;mnieves
@@ -6621,6 +6767,7 @@ MXA-122-2023-00;5;2023-05-24;0;1;116;"San miguel";Blois;1938;;;1663;mnieves
 mxa-144-2021-00;5;2021-04-20;0;1;85;moreno;el_salvador;6837;;;1744;cgroppo
 mxa-166-2018-00;1;2018-11-21;0;1;66;"villa elvira";93;;115;;1900;mstefano
 mxa-174-2018-00;4;2018-08-04;0;1;13;berazategui;156;5614;35;;1884;gsanluis
+mxa-209-2019-00;5;2019-07-09;0;1;80;marcos_paz;jose_ingenieros;1798;;;1727;cgroppo
 mxa-222-2019-00;1;2019-08-18;0;1;66;"melchor romero";518;;163;164;1903;mstefano
 mxa-243-2018-00;1;2018-03-14;0;1;14;berisso;32;471;000;000;1923;rmerlino
 mxa-269-2020-00;1;2020-01-07;0;1;66;"villa elvira";"6 bis";4258;;;1900;mstefano
@@ -6647,6 +6794,7 @@ mxb-073-2019-01;1;2019-11-19;0;1;14;berisso;15;;150;151;1923;mstefano
 mxb-124-2021-00;5;2021-09-04;0;1;85;moreno;labarden;5425;;;1738;cgroppo
 mxb-124-2022-00;5;2022-08-14;0;1;85;moreno;labarden;5425;;;1744;cgroppo
 mxb-168-2020-00;1;2020-03-16;0;1;66;"altos de san lorenzo";21;564;71;;1900;mstefano
+mxb-172-2022-00;1;2022-10-12;0;1;66;"los hornos";150;0;82;;1900;mstefano
 mxb-233-2019-00;1;2019-12-02;0;1;36;ensenada;"barrio 5 de mayo escalara";41;;;1925;mstefano
 mxb-264-2021-00;5;2021-07-30;1;1;65;"virrey del pino";miguel_planes;7300;;;1763;cgroppo
 mxb-326-2018-00;1;2018-07-19;0;1;66;"los hornos";148;;52;54;1900;mstefano
@@ -6664,6 +6812,7 @@ mxb-651-2022-00;5;2022-09-06;0;1;65;"gonzalez catan";uriarte;9004;;;1759;cgroppo
 MXB-671-2019-00;5;2019-07-22;0;1;85;Moreno;"Hernan cortes y quikmes";;Sn;;1744;mnieves
 mxb-681-2021-00;4;2021-08-03;0;1;41;"florencio varela";17;2924;;;1888;asbruzzi
 mxb-736-2022-00;5;2022-06-13;1;1;85;moreno;bermejo;2611;;;1744;cgroppo
+mxb-809-2019-00;5;2019-07-06;0;1;116;san_miguel;rodriguez_peña;2735;;;1663;cgroppo
 mxb-825-2022-00;1;2022-07-11;0;1;66;"san carlos";131;0;;;1901;mstefano
 mxb-865-2021-00;1;2021-09-25;0;1;66;"san carlos";32;3126;;;1901;mstefano
 mxb-952-2020-00;1;2020-07-27;1;1;66;"villa elisa";"431 bis";;;;1902;mstefano
@@ -6846,8 +6995,9 @@ mxs-750-2021-00;5;2021-04-24;0;1;65;"virrey del pino";espejo;1670;;;1763;cgroppo
 MXS-815-2023-00;5;2023-05-02;0;1;85;Moreno;"Martinez melo";1878;;;1744;mnieves
 mxs-875-2019-00;5;2019-07-15;0;1;82;merlo;emilio_lamarca;2312;;;1722;cgroppo
 mxs-922-2018-00;1;2018-05-21;0;1;66;"san carlos";50;;144;155;1901;mstefano
+mxs-945-2019-00;5;2019-07-03;0;1;116;bella_vista;rafael;707;;;1663;cgroppo
 mxs-xxx-2021-00;3;2021-08-03;1;1;101;bernal;163_bis;2180;;;1879;agraziano
-mxt-067-2021-00;5;2021-01-30;0;1;56;"general  san martin";la_crujia;3833;;;1650;cgroppo
+mxt-067-2021-00;5;2021-01-30;0;1;56;"general san martin";la_crujia;3833;;;1650;cgroppo
 mxt-247-2019-00;1;2019-05-25;0;1;4;burzaco;pino;2939;;;1852;mstefano
 mxt-383-2020-00;1;2020-07-27;0;1;119;"san vicente";"saen peña";888;;;1864;mstefano
 mxt-531-2022-00;4;2022-07-07;0;1;74;"lomas de zamora";chivilcoy;855;;;1832;gsanluis
@@ -6886,6 +7036,7 @@ naa-574-2019-00;1;2019-06-03;0;1;66;etcheverry;198;;52;;1903;mstefano
 NAA-704-2023-00;5;2023-06-01;1;1;63;"jose c paz";Islandia;3375;;;1665;mnieves
 naa-711-2022-00;5;2022-08-22;0;1;62;"parque leloir";santos_vega;1201;;;1715;cgroppo
 nab-249-2021-00;1;;0;1;66;"la plata";30;1370;;;1900;mstefano
+nab-676-2022-00;1;2022-10-04;0;1;4;burzaco;"25 mayo";1170;;;1852;mstefano
 nab-681-2018-00;4;2018-05-14;0;1;38;"monte grande";ramos;55;;;1842;gsanluis
 nab-965-2019-02;4;2019-09-24;0;1;41;"florencio varela";el_atalaya;11996;;;1888;gsanluis
 nac-231-2022-00;1;2022-06-08;1;1;13;berazategui;127;5955;;;1884;mstefano
@@ -6917,6 +7068,7 @@ nar-519-2019-00;1;2019-07-10;0;1;;;;;;;;mstefano
 nar-708-2021-00;1;2021-09-18;0;1;66;abasto;"515 bis";11493;;;1903;mstefano
 nar-708-2022-00;1;2022-05-29;0;1;41;bosques;"115 bis";11443;;;1888;mstefano
 nas-125-2019-00;4;2019-12-29;0;1;128;"remedios de escalada de san martin";timote;3517;;;1657;gsanluis
+nas-138-2023-00;4;2023-06-19;0;1;4;rafael_calzada;tierra_del_fuego;1902;;;1846;fossorio
 nas-534-2022-00;5;2022-08-16;0;1;116;"san miguel";rodrigo;2948;;;1663;cgroppo
 nas-580-2018-00;1;2018-06-26;0;1;66;"melchor romero";526;6367;158;159;1903;mstefano
 nas-801-2019-01;4;2019-09-13;0;1;40;"carlos spegazzini";estados_unidos;657;;;1806;gsanluis
@@ -6942,6 +7094,7 @@ NBC-598-2022-00;5;2022-11-29;0;1;65;"Rafael castillo";Estrada;1126;;;1755;mnieve
 NBC-598-2022-01;5;2022-12-13;1;1;65;"Rafael castillo";Estrada;1126;;;1755;mnieves
 nbc-603-2019-00;5;2019-09-17;0;1;86;moron;castro_combon;350;;;1708;cgroppo
 nbg-660-2021-00;4;2021-10-31;0;1;101;quilmes;teniente_carlos_brussa;1737;;;1878;asbruzzi
+nbg-951-2023-00;4;2023-06-27;0;1;135;constitucion;san_juan;1217;;;1148;fossorio
 NBL-310-2022-00;1;2022-06-05;0;1;66;ABASTO;484;234;;;1903;mstefano
 NBL-310-2022-01;1;2022-07-20;0;1;66;abasto;424;0;234;;1903;mstefano
 nbl-418-2022-00;1;;0;1;66;"san carlos";;;;;1900;mstefano
@@ -6959,6 +7112,7 @@ nbr-216-2019-04;4;2019-09-30;0;1;41;"florencio varela";rio_gualeguay;1217;;;1888
 nbs-364-2022-00;5;2022-09-14;0;1;63;"jose clemente paz";puerto_principe;4761;;;1665;cgroppo
 nbs-896-2022-00;3;2022-06-15;1;1;41;"florencio varela";nuestras_malvinas;485;;;1888;agraziano
 nbv-418-2018-00;4;2018-08-02;0;1;85;moreno;fleming;3074;;;1744;gsanluis
+nbv-869-2022-00;4;2022-12-25;0;1;41;florencio_varela;larotonda;868;;;1888;gsanluis
 nca-088-2022-00;3;2022-12-15;0;3;101;"san francisco solano";891;4635;;;1881;agraziano
 ncb-998-2022-00;5;2022-06-03;1;1;65;"rafael castillo";estrada;1126;;;1755;galfiero
 ncb-998-2022-01;5;2022-09-05;0;1;65;"rafael castillo";estrada;1126;;;1755;galfiero
@@ -6970,6 +7124,7 @@ nda-182-2018-00;3;2018-06-19;1;3;4;claypole;rawson;593;;;1849;jveslosada
 NDA-311-2023-00;5;2023-06-29;1;1;61;hurlingham;"Guardia vieja";1131;;;1686;mnieves
 nda-318-2018-00;5;2018-06-11;0;1;85;trujui;barker;1927;;;1736;slugo
 ndb-362-2018-00;1;2018-07-22;0;1;66;"villa elvira";602;164;;;1900;mstefano
+ndc-223-2022-00;1;;0;1;66;"melchor roemro";161;0;32;;1903;mstefano
 ndc-867-2022-00;1;2022-06-11;0;1;66;"la plata";49;0;;;1900;mstefano
 ndd-557-2022-00;1;2022-09-10;1;1;66;"altos de san lorenzo";610;1060;16;17;1901;mstefano
 ndg-269-2018-00;1;2018-08-06;0;1;66;ringuelet;517;31;116;117;1901;mstefano
@@ -7057,6 +7212,7 @@ ngg-231-2018-01;5;2018-11-08;0;1;61;hurlingham;caraguata;146;;;1686;slugo
 ngg-231-2019-00;5;2019-03-29;0;1;61;hurlingham;caraguata;146;;;1686;slugo
 ngg-231-2019-01;5;2019-05-25;0;1;61;hurlingham;caraguata;146;;;1686;slugo
 ngg-231-2022-00;5;2022-02-18;0;1;61;hurlingham;caraguata;146;;;1686;slugo
+ngg-590-2022-00;1;2022-10-29;0;1;66;"los hornos";132;0;;;1900;mstefano
 ngg-823-2022-00;4;2022-11-15;1;1;6;wilde;larralde;6475;;;1875;gsanluis
 ngg-958-2019-00;3;2019-06-26;1;1;98;guernica;santa_elena;1354;;;1862;agraziano
 ngm-711-2022-00;4;2022-07-01;0;1;6;avellaneda;mancilla;21;limay;;1870;gsanluis
@@ -7070,6 +7226,7 @@ nib-262-2018-00;1;2018-07-25;0;1;66;"san carlos";"523 bis";;142;;1901;mstefano
 NIM-745-2019-00;5;2019-06-20;1;1;128;Ciudadela;Paso;728;;;1702;mnieves
 NIM-745-2019-01;5;2019-12-16;0;1;128;Ciudadela;Paso;728;;;1702;mnieves
 nip-270-2021-00;1;2021-10-27;0;1;13;berazategui;"camino real ";423;"esq 2114";;1884;mstefano
+nir-2123-2022-00;1;2022-09-03;1;1;36;ensenada;5;0;4;"4 bis";1925;mstefano
 nis-978-2018-00;1;2018-08-04;0;1;66;"san carlos";49;3267;160;161;1901;mstefano
 nis-978-2018-01;1;2018-12-24;0;1;66;"san carlos";49;3267;;;1901;mstefano
 NJA-010-2023-00;5;2023-05-22;1;2;128;Ciudadela;"Fuerte apache";01;;;1702;mnieves
@@ -7173,6 +7330,7 @@ nmg-763-2019-00;1;2019-01-21;1;1;37;garin;laroca;2340;;;1623;mstefano
 nmg-971-2019-00;1;2019-08-01;0;1;66;"san carlos";522;407;135;136;1901;mstefano
 NMK-864-2022-00;1;2022-08-10;0;1;66;"CITY BELL";144;0;;;1896;mstefano
 nml-798-2022-00;1;2022-09-19;0;1;13;berazategui;143;2454;;;1884;mstefano
+nml-798-2022-01;1;2022-10-20;0;1;13;BERAZATEGUI;143;2454;;;1884;mstefano
 nmm-305-2022-00;5;2022-05-08;0;1;116;"bella vista";florentino_ameghino;1428;;;1661;cgroppo
 nmm-305-2022-01;5;2022-08-18;0;1;116;"bella vista";florentino_ameghino;1428;;;1661;cgroppo
 NMM-379-2021-00;5;2021-09-25;0;1;55;rodriguez;"martin coronado";3661;;;1748;fcohen
@@ -7201,6 +7359,8 @@ nmv-495-2018-03;1;2018-08-04;0;1;66;"la plata";6;1845;;;1900;mstefano
 nmv-495-2018-04;1;2018-09-24;0;1;66;"la plata";6;1855;;;1900;mstefano
 nmv-496-2018-00;1;2018-08-15;0;1;66;"villa elvira";614;7;;;1900;mstefano
 nna-839-2019-00;1;2019-04-30;1;1;66;"villa elvira";116;;94;95;1900;mstefano
+nna-970-2023-00;3;2023-04-24;1;1;101;quilmes;850;1704;;;1878;agraziano
+nnb-816-2022-00;1;2022-10-15;1;1;66;"villa elvira";117;3415;;;1900;mstefano
 nnc-275-2021-00;1;2021-04-03;0;1;96;"presidente derqui";"rio III";570;;;1629;mstefano
 nnd-187-2018-00;1;2018-01-17;0;1;66;"los hornos";151bis;1925;71;72;1900;rmerlino
 nnd-859-2018-00;5;2018-06-27;0;1;61;"villa tesei";benbenuto_celini;94;;;1688;slugo
@@ -7230,6 +7390,7 @@ nnz-616-2021-01;1;2021-11-03;0;1;66;abasto;524;;213;"213 bis";1903;mstefano
 nnz-616-2022-03;1;2022-03-27;0;1;66;abasto;524;0;213;"213 bis";1903;mstefano
 nnz-616-2022-04;1;2022-04-06;0;1;66;abasto;524;0;213;"213 bis";1903;mstefano
 nnz-616-2022-05;1;2022-05-24;0;1;66;abasto;524;0;213;"213 bis";1903;mstefano
+nnz-616-2022-06;1;2022-09-26;0;1;66;abasto;529;0;213;"213 bis";1903;mstefano
 noc-131-2019-00;1;2019-09-13;0;1;66;"lisandro olmos";224;225;;;1903;mstefano
 nor-211-2022-00;5;2022-09-18;0;1;62;ituzaingo;santiago_firpo;137;;;1714;cgroppo
 nor-289-2022-00;4;2022-09-22;0;1;74;"lomas de zamora";lisandro_de_la_torre;2630;;;1832;gsanluis
@@ -7244,6 +7405,7 @@ nrm-375-2018-00;1;2018-07-26;0;1;66;"lisandro olmos";66;;181;;1901;mstefano
 nrm-437-2022-00;1;2022-05-20;0;1;66;"altos de san lorenzo";30;0;92;93;1901;mstefano
 NRO-037-2021-00;5;2021-08-29;0;1;85;"Paso del rey";"URUGUAY ";4412;;;1742;fcohen
 nrp-739-2018-01;1;2018-04-24;0;1;14;berisso;123;2230;77;79;1923;mstefano
+nsd-263-2023-00;4;2023-05-31;0;1;41;florencio_varela;carrillo;2365;;;1888;fossorio
 NSF-828-2022-00;1;2022-02-26;0;1;66;"LOS HORNOS";72;2343;;;1900;mstefano
 nsm-260-2019-00;1;2019-03-11;0;1;119;"alejandro korn";"ruta 210 km";48;;;1865;mstefano
 nsq-934-2022-01;4;2022-10-08;0;1;101;quilmes;cevallos;0;;;1878;gsanluis
@@ -7278,6 +7440,7 @@ nvc-414-2018-00;1;2018-02-10;0;1;66;"villa elvira";98;;120;121;1900;rmerlino
 nvc-414-2018-01;1;2018-04-05;0;1;66;"villa elvira";98;;120;121;1900;rmerlino
 nvc-531-2021-00;5;2021-08-06;0;1;82;"mariano acosta";la_niña;271;;;1723;galfiero
 nvc-935-2018-00;1;2018-07-20;1;1;66;"lisandro olmos";208;;528;;1903;mstefano
+nvf-842-2022-00;1;2022-10-14;0;1;41;"florencio varela";zara;1050;;;1888;mstefano
 nvg-935-2022-00;4;2022-12-06;0;1;98;guernica;144;444;;;1862;gsanluis
 NVH-745-2023-00;5;2023-06-07;0;1;55;"general rodriguez";" Maipu y san martin";157;;;1748;mnieves
 nvl-343-2021-00;4;2021-07-31;0;1;74;"lomas de zamora";canada;1465;;;1832;asbruzzi
@@ -7318,6 +7481,7 @@ nxb-528-2021-00;1;2021-04-17;0;1;14;berisso;24;4950;;;1923;mstefano
 nxb-703-2021-00;4;2021-08-30;0;1;41;"florencio varela";1323;1475;;;1888;asbruzzi
 nxc-139-2022-00;1;2022-07-04;0;1;14;berisso;174;426;;;1923;mstefano
 nxc-283-2021-00;1;2021-11-18;0;1;66;"villa elvira";"2 bis";2521;83;;1900;mstefano
+nxc-414-2022-00;1;2022-10-26;0;1;14;berisso;27;24;;;1923;mstefano
 nxc-567-2019-00;4;2019-09-20;0;1;4;glew;morilla;370;;;1856;gsanluis
 nxc-804-2018-00;1;2018-08-07;0;1;66;ringuelet;515;;8;9;1902;mstefano
 nxc-804-2022-01;1;2022-04-08;0;1;66;RINGUELET;515;0;8;9;1900;mstefano
@@ -7340,6 +7504,7 @@ nxd-747-2021-01;1;2021-11-17;0;1;66;"altos de san lorenzo";25;;90;;1901;mstefano
 nxd-978-2019-00;4;2019-09-03;0;1;74;"ingeniero budge";105;440;;;1532;gsanluis
 nxf-156-2022-00;1;2022-08-21;0;1;66;"altos de san lorenzo";76;0;;;1901;mstefano
 nxf-414-2019-00;5;2019-08-03;0;1;128;"tres de febrero";madrid;1641;;;1678;cgroppo
+nxf-635-2022-00;1;2022-10-28;0;1;66;"san carlos";133;257;;;1901;mstefano
 nxf-747-2022-00;5;2022-05-10;0;1;85;"paso del rey";corrientes;2976;;;1744;cgroppo
 nxf-747-2022-01;5;2022-09-09;0;1;85;"paso del rey";"corrientes ";2976;;;1744;cgroppo
 nxf-756-2018-01;4;2018-08-19;0;1;101;bernal;agustin_pedemonte;2534;;;1876;gsanluis
@@ -7366,6 +7531,7 @@ nxl-283-2021-00;1;2021-05-16;0;1;66;"los hornos";67;;143;;1900;mstefano
 nxl-283-2021-01;1;2021-09-15;0;1;66;"los hornos";67;;143;;1900;mstefano
 nxl-283-2021-02;1;2021-11-01;1;1;66;"los hornos";67;;143;;1900;mstefano
 nxl-283-2022-03;1;2022-05-26;0;1;66;"los hornos";67;0;143;;1900;mstefano
+NXL-761-2022-00;1;2022-10-18;0;1;13;BERAZATEGUI;514;1402;615;;1884;mstefano
 nxm-129-2018-00;1;2018-06-06;0;1;66;"los hornos";148;1783;;;1900;mstefano
 nxm-209-2022-00;4;2022-06-30;0;1;101;quilmes;chaco;612;;;1878;gsanluis
 nxm-293-2022-00;1;2022-07-24;0;1;14;berisso;81;420;;;1923;mstefano
@@ -7589,6 +7755,7 @@ oxt-447-2021-00;3;2021-08-30;1;3;4;"rafael calzada";sanchez;5825;;;1847;agrazian
 oxt-626-2021-00;4;2021-11-05;0;1;41;bosques;cachimaya;110;;;1889;asbruzzi
 oxt-898-2019-00;1;2019-08-07;0;1;66;"los hornos";148;1973;;;1900;mstefano
 oxt-898-2019-01;1;2019-12-06;0;1;66;"los hornos";148;1973;;;1900;mstefano
+oxv-460-2023-00;4;2023-06-19;1;1;101;ezpeleta;calle_401_bis;746;;;1882;fossorio
 oxz-548-2022-00;1;2022-07-06;0;1;66;"los hornos";61;0;163;;1900;mstefano
 oyp-031-2019-00;1;2019-10-21;0;1;119;"alejandro korn";rosario;842;;;1865;mstefano
 paa-236-2018-00;4;2018-08-18;0;1;41;"florencio varela";564;939;;;1888;gsanluis
@@ -7631,6 +7798,7 @@ pcr-690-2022-01;1;2022-09-18;0;1;66;"san carlos";38;2028;;;1901;mstefano
 pcr-836-2022-00;3;2022-02-28;1;1;41;"florencio varela";rodriguez_peña;73;;;1888;agraziano
 pdb-366-2021-00;1;2021-10-07;0;1;66;"melchor romero";526;273;;;1903;mstefano
 pec-749-2019-00;1;2019-08-30;0;1;66;"villa elvira";127;524;;;1900;mstefano
+peg-642-2022-00;1;2022-10-27;1;1;14;berisso;134;0;10;11;1923;mstefano
 pel-894-2018-00;5;2018-06-26;0;1;82;libertad;primera_junta;4091;;;1722;slugo
 pel-894-2018-01;5;2018-07-09;0;1;82;libertad;primera_junta;4091;;;1722;slugo
 pel-894-2019-00;5;2019-10-09;0;1;82;libertad;"primera_junta ";4091;;;1722;slugo
@@ -7664,6 +7832,7 @@ pjl-474-2018-00;1;2018-04-25;0;1;66;"melchor romero";162;;525;;1903;mstefano
 pjm-268-2019-00;1;2019-05-05;0;1;66;"melchor romero";42;3248;;;1903;mstefano
 pjr-574-2018-00;3;2018-08-18;1;3;4;claypole;felix_lora;1289;;;1849;jveslosada
 pko-493-2018-00;1;2018-05-31;0;1;66;"altos de san lorenzo";81;1647;"27 bis";28;1901;mstefano
+pkv-129-2022-00;1;2022-09-05;0;1;66;abasto;214;0;;;1903;mstefano
 plb-699-2019-00;1;2019-06-01;0;1;24;castelli;uruguay;51;;;3705;mstefano
 PLC-403-2023-00;5;2023-05-15;0;1;63;"Jose c paz";"Combate de los pozos";3431;;;1665;mnieves
 PLG-870-2022-00;5;2022-08-30;0;1;61;hurlingham;palermo;3529;;;1686;cgroppo
@@ -7679,6 +7848,7 @@ pms-487-2018-01;1;2018-11-28;0;1;66;"villa elisa";58;1156;;;1894;mstefano
 pmv-461-2019-00;4;2019-09-02;0;1;101;"san francisco solano";849;1725;;;;gsanluis
 pmv-461-2020-01;4;2020-02-18;0;1;101;solano;849;1725;;;1881;gsanluis
 pnc-985-2019-00;1;2019-05-09;0;1;;;;;;;;mstefano
+pnr-357-2022-00;1;2022-09-30;0;1;66;"la plata";"diag 74";0;79;;1900;mstefano
 pnv-937-2021-00;5;2021-07-02;1;1;116;"san miguel";pedro_rivera;3825;;;1663;cgroppo
 pnv-937-2022-00;5;2022-04-14;0;1;116;"san miguel";pedro_rivera;3825;;;1663;cgroppo
 pnv-937-2022-01;5;2022-05-12;0;1;116;"san miguel";pedro_rivera;3825;;;1663;cgroppo
@@ -7692,6 +7862,7 @@ PSG-473-2023-00;5;2023-05-15;0;1;85;Moreno;Ituzaingo;493;;;1744;mnieves
 ptb-653-2018-00;4;2018-06-04;0;1;65;"villa madero";la_paternal;591;;;1768;gsanluis
 pvc-632-2022-00;5;2022-11-20;1;1;74;"Lomas de zamora";"Av mercuri";166;;;1832;mnieves
 pvg-256-2022-02;1;2022-05-01;0;1;13;"el pato";"634 b ";3154;;;1884;mstefano
+pvg-256-2022-03;1;2022-10-13;0;1;13;"el pato";"634 b";5134;;;1884;mstefano
 pvv-023-2019-00;1;2019-08-03;0;1;66;abasto;225;;723;424;1903;mstefano
 pxa-426-2021-00;1;2021-08-19;0;1;66;"city bell";473;1664;;;1896;mstefano
 pxa-490-2019-00;5;2019-08-05;0;1;85;moreno;davaine;1214;;;1744;cgroppo
@@ -7723,6 +7894,7 @@ pxr-491-2021-00;1;2021-10-04;0;1;17;jeppener;"belo sequensa";;;;1986;mstefano
 pxr-555-2019-00;1;2019-09-24;0;1;14;berisso;"berrio soiradidad maz 5 ";48;;;1923;mstefano
 pxr-974-2019-00;1;2019-01-02;0;1;66;"la plata";167;;524;525;1923;mstefano
 pxs-323-2019-00;1;2019-09-29;0;1;66;"villa elisa";141;;437;438;1902;mstefano
+pxs-430-2022-00;1;2022-09-06;0;1;66;"altos de san lorenzo";31;3032;73;q74;1901;mstefano
 pxs-644-2018-00;1;2018-03-23;0;1;66;"los hornos";82;1923;133;134;1900;rmerlino
 pxv-099-2021-00;5;2021-07-13;1;1;116;"san miguel";marcos_sastre;4816;;;1663;galfiero
 pxv-101-2018-00;1;2018-07-30;0;1;13;berazategui;461;2095;;;1884;mstefano
@@ -7732,6 +7904,7 @@ pya-088-2019-00;5;2019-05-28;0;1;62;ituzaingo;bermejo;4487;;;1714;slugo
 pyc-627-2022-00;1;2022-01-20;1;1;13;berazategui;461;545;;;1884;mstefano
 pyc-627-2022-01;1;2022-06-30;0;1;13;berazategui;461;561;;;1884;mstefano
 pyc-627-2022-02;1;2022-07-22;0;1;13;berazategui;461;545;;;1884;mstefano
+pyc-627-2022-03;1;2022-10-06;0;1;13;berazategui;461;545;;;1884;mstefano
 qaa-269-2022-00;4;2022-01-01;0;1;67;lanus;arturo_llia;1554;;;1824;asbruzzi
 qaf-436-2018-00;3;2018-07-01;1;3;74;"lomas de zamora";felipe_castro;2692;;;1832;jveslosada
 qlp-346-2018-00;5;2018-07-10;1;1;96;"presidente derqui";las_azucenas;3045;;;1635;slugo
@@ -7743,6 +7916,7 @@ RAA-159-2022-01;1;2022-05-09;0;1;66;TOLOSA;17;518;;;1900;mstefano
 RAA-159-2022-02;1;2022-05-24;0;1;66;TOLOSA;17;0;518;;1900;mstefano
 RAA-159-2022-03;1;2022-06-14;0;1;66;tolosa;monoblock;24;;;1900;mstefano
 raa-159-2022-04;1;2022-07-21;0;1;66;tolosa;17;0;528;;1900;mstefano
+raa-159-2022-05;1;2022-10-23;0;1;66;TOLOSA;"17 2pA";24;518;;1900;mstefano
 raa-444-2018-00;5;2018-06-22;0;1;82;pontevedra;constancio_vigil;2558;;;1761;slugo
 raa-538-2019-00;1;2019-11-09;0;1;66;"villa elvira";99;454;;;1900;mstefano
 raa-806-2019-00;3;2019-06-21;1;1;41;bosques;lisandro_de_la_torre;1490;;;1888;agraziano
@@ -7756,6 +7930,7 @@ rab-495-2022-00;5;2022-10-09;0;1;128;caseros;"trenque lauquen";5370;;;1678;mniev
 RAB-495-2023-00;5;2023-03-12;0;1;128;Caseros;"Trenque lauquen";5370;;;1678;mnieves
 rac-524-2021-00;1;2021-04-18;0;1;66;"melchor romero";156;;527;528;1903;mstefano
 rac-524-2022-01;1;2022-05-14;0;1;66;"melchor romero";156;0;527;528;1903;mstefano
+rad-300-2022-00;1;2022-10-06;1;1;66;"los hornos";"141 bis";78;;;1900;mstefano
 RAD-350-2023-00;5;2023-06-19;1;1;82;Merlo;"Jose marmol";2581;;;1722;mnieves
 rad-914-2019-00;1;2019-02-12;1;1;66;"los hornos";149;;74;;1900;mstefano
 rad-914-2019-01;1;2019-06-30;0;1;66;"los hornos";149;;74;;1900;mstefano
@@ -7774,6 +7949,7 @@ rar-237-2019-00;1;2019-09-25;0;1;66;abasto;"ruta 36 km";42;;;1903;mstefano
 rar-892-2018-00;1;2018-07-11;0;1;108;saladillo;ibarbia;2148;;;7260;mstefano
 rar-896-2018-00;5;2018-06-14;0;1;61;hurlingham;vigo;3771;;;1686;slugo
 rar-927-2021-00;5;2021-11-09;0;1;85;moreno;zarate;100;;;1744;cgroppo
+ras-708-2022-00;1;2022-09-12;0;1;66;"los hornos";66;0;170;;1900;mstefano
 rav-816-2018-00;1;2018-04-04;0;1;66;"los hornos";52;;159;;1900;rmerlino
 rba-289-2018-00;1;2018-11-15;0;1;66;"villa elvira";124;3679;;;1900;mstefano
 rbd-579-2018-00;5;2018-05-10;0;1;61;"villa tesei";floresta;4324;;;1688;slugo
@@ -7837,11 +8013,13 @@ rgp-143-2022-00;1;2022-05-13;1;1;14;berisso;11;12;;;1923;mstefano
 rgp-143-2022-01;1;2022-06-14;0;1;14;berisso;11;12;;;1923;mstefano
 RGP-329-2022-00;1;2022-05-17;0;1;66;"VILLA ELVIRA";86;0;122;;1900;mstefano
 rgr-186-2022-00;1;2022-06-25;0;1;66;"san carlos";32;2699;149;;1901;mstefano
+rgr-380-2022-00;4;2022-11-29;0;1;101;solano;888;4752;;;1881;gsanluis
 RHO-386-2021-00;5;2021-09-17;0;1;85;MORENO;PERU;5070;;;1743;fcohen
 RIC-083-2021-00;5;2021-09-14;0;1;86;Ituzaingo;"SANDINO ";2232;;;1714;fcohen
 ric-334-2019-01;1;2019-08-07;1;1;13;berazategui;503;1865;;;1884;mstefano
 RIC-931-2022-00;1;2022-09-14;0;1;66;"VILLA ELVIRA";99;44;;;1900;mstefano
 rii-372-2022-00;1;2022-07-22;;;66;gorina;138;0;481;;1903;mstefano
+ril-279-2023-00;4;2023-06-26;0;1;119;alejandro_korn;7;1243;;;1864;fossorio
 rim-372-2019-00;3;2019-06-24;1;3;41;"santa rosa";rumania;1786;;;1888;agraziano
 ris-435-2021-00;3;2021-12-03;1;1;101;"san francisco solano";842;1757;;;1881;agraziano
 ris-984-2019-00;1;2019-05-16;0;1;66;"city bell";14c;84;;;1902;mstefano
@@ -7849,6 +8027,7 @@ rit-960-2022-00;3;2022-09-16;1;1;41;"florencio varela";los_olmos;2286;;;1888;jve
 rja-542-2019-00;5;2019-06-29;0;1;62;ituzaingo;lisandro_de_la_torre;3421;;;1714;cgroppo
 rjf-134-2019-00;4;2019-07-20;1;2;98;guernica;dolores;1986;;;1862;gsanluis
 rjf-730-2021-01;1;2021-03-11;0;1;36;"punta lara";7;;;;1925;mstefano
+rjg-257-2023-00;4;2023-05-04;0;1;74;"lomas de zamora";"manzana 6";2930;;;1832;tsouto
 rjl-114-2020-00;1;2020-02-04;0;1;66;"altos de san lorenzo";"23 bis ";;90;;1901;mstefano
 rjm-035-2022-00;4;2022-05-07;0;1;135;"barrio 21 24";casa;4;;;1437;asbruzzi
 rjs-728-2019-00;1;2019-06-10;1;1;66;tolosa;26;;524;525;1900;mstefano
@@ -7857,6 +8036,7 @@ rjv-318-2022-00;3;2022-05-29;1;1;41;"florencio varela";argerich;3450;;;1888;agra
 rla-329-2018-00;1;2018-06-18;1;1;66;poblet;"ruta 36";71;;;1903;mstefano
 rla-329-2019-01;1;2019-06-20;1;1;66;poblet;"ruta 36";43;;;1903;mstefano
 rla-823-2022-00;5;2022-06-26;0;1;86;"el palomar";neuquen;1550;;;1685;cgroppo
+rlb-077-2022-00;1;2022-10-12;0;1;66;"altos de san lorenzo";17;2300;79;;1901;mstefano
 rlb-160-2022-00;1;2022-08-02;0;1;66;"villa elvira";118;150;;;1900;mstefano
 RLD-272-2023-00;5;2023-07-14;0;1;82;Merlo;Piedrabuena;1640;;;1722;mnieves
 rld-474-2018-00;1;2018-12-09;0;1;66;"los hornos";54;2962;;;1900;mstefano
@@ -7895,6 +8075,10 @@ rng-153-2019-00;5;2019-10-23;0;1;116;"san miguel";maedtro_eduardo_ferreyra;1056;
 rnl-429-2021-00;4;2021-07-29;0;1;101;bernal;comandante_franco;2530;;;1876;asbruzzi
 rnm-089-2022-00;4;2022-11-24;0;1;6;sarandi;cucha_cucha;700;;;1870;gsanluis
 rnp-943-2019-00;1;2019-05-28;0;1;66;arana;657;;;;1900;mstefano
+rnv-231-2018-00;5;2018-09-28;0;1;85;moreno;alberdi;602;;;1744;cgroppo
+rnv-231-2018-01;5;2018-10-18;0;1;85;"moreno ";alberdi;602;;;1744;cgroppo
+rnv-231-2019-00;5;2019-07-03;0;1;85;"moreno ";alberdi;602;;;1744;cgroppo
+rnv-231-2019-01;5;2019-08-11;0;1;85;moreno;"alberdi ";602;;;1744;cgroppo
 rnw-501-2022-00;1;2022-06-09;0;1;66;"villa elvira";85;720;;;1900;mstefano
 rpd-174-2022-00;3;2022-05-14;1;3;41;"florencio varela";calingasta;2432;;;1888;agraziano
 rpg-749-2018-00;1;2018-09-11;0;1;66;"los hornos";141;2135;;;1900;mstefano
@@ -8023,6 +8207,7 @@ SAA-941-2022-00;1;2022-05-26;0;1;66;"lisandro olmos";"RUTA 36";708;;;1903;mstefa
 sac-030-2018-00;1;2018-10-03;0;1;;;;;;;;mstefano
 sac-574-2018-00;1;2018-07-12;0;1;13;pereyra;"paque pereyra quinta";84;;;1894;mstefano
 sac-574-2022-01;1;2022-06-14;0;1;13;pereyra;"quinta ";94;;;1896;mstefano
+sac-926-2023-00;4;2023-04-30;0;1;74;temperley;"Dr C. Colivadino ";457;;;1834;tsouto
 SAC-928-2022-00;1;2022-05-23;0;1;66;"LOS HORNOS";151;1759;;;1900;mstefano
 SAC-928-2022-01;1;2022-06-20;0;1;66;"los hornos";151;1959;;;1900;mstefano
 sac-928-2022-02;1;2022-06-29;0;1;66;"los hornos";151;1959;;;1900;mstefano
@@ -8033,6 +8218,7 @@ sac-937-2021-03;1;2021-07-30;0;1;65;"la matanza";"felipe pereyra";5835;;;1704;ms
 sac-937-2021-04;1;2021-11-30;0;1;65;"la matanza";"felipe pereyra";5835;;;1424;mstefano
 SAC-937-2022-05;1;2022-04-16;0;1;41;FLORENCIA;"FELIPE PEREIRA";5835;;;18888;mstefano
 SAC-937-2022-06;1;2022-08-05;1;1;65;"la matanza";"felipe  pereyra";5835;;;1754;mstefano
+SAC-937-2022-07;1;2022-10-25;0;1;65;"la matanza";"f. pereyra";5835;;;0;mstefano
 sad-034-2020-00;4;2020-02-17;0;1;4;"rafael calzada";balboa;2348;;;1847;gsanluis
 sae-172-2019-02;4;2019-09-22;0;1;41;"florencio varela";posadas;1319;;;1887;gsanluis
 sae-838-2021-00;1;2021-12-05;0;1;66;"los hornos";156;0;52;;1900;mstefano
@@ -8061,7 +8247,7 @@ sar-171-2022-00;1;2022-05-21;0;1;66;"lisandro olmos";184;84;;;1903;mstefano
 sar-499-2021-00;1;2021-06-28;0;1;66;"altos de san lorenzo";29;;90;91;1901;mstefano
 sar-499-2022-03;1;2022-07-16;0;1;66;"altos de san lorenzo";26;0;90;91;1901;mstefano
 SAR-652-2019-00;5;2019-10-28;0;1;82;Merlo;Perri;1016;;;1722;mnieves
-SAS-035-2022-00;1;2022-08-20;1;1;66;"ALTOS DE SNA LORENZO";87;1276;;;1901;mstefano
+SAS-035-2022-00;1;2022-08-20;1;1;66;"ALTOS DE SAN LORENZO";87;1276;;;1901;mstefano
 sas-452-2019-00;1;2019-10-16;0;1;66;"lisandro olmos";"ruta 36";;448;;1903;mstefano
 SAS-926-2019-00;5;2019-08-27;1;1;65;"San justo";Lartigau;3084;;;1754;mnieves
 sat-284-2022-00;5;2022-09-01;0;1;82;merlo;florida;3080;;;1722;cgroppo
@@ -8249,6 +8435,7 @@ sma-730-2021-00;5;2021-12-04;0;1;61;hurlingham;tigre;647;;;1686;cgroppo
 sma-730-2022-00;5;2022-05-10;0;1;61;hurlingham;tigre;647;;;1686;cgroppo
 sma-730-2022-01;5;2022-07-18;0;1;61;hurlingham;tigre;647;;;1686;cgroppo
 smb-366-2018-00;1;2018-06-02;0;1;66;"los hornos";56;1155;136;;1900;mstefano
+smc-616-2023-00;4;2023-06-18;0;1;61;hurlingham;fernandez_de_enciso;2314;;;1686;fossorio
 smd-089-2019-01;4;2019-10-08;0;1;74;"lomas de zamora";emiliano_zapata;26;;;1836;gsanluis
 SMG-082-2021-00;5;2021-07-11;1;1;61;hurlingham;garnica;1196;;;1686;fcohen
 smg-084-2018-01;4;2018-05-18;0;1;101;bernal;montevideo;167;;;1876;gsanluis
@@ -8364,10 +8551,11 @@ SXA-485-2021-00;5;2021-09-24;0;1;86;MORON;COCHABAMBA;811;;;1708;fcohen
 sxa-607-2018-00;1;2018-02-06;0;1;41;bosques;Groussat;1730;0;0;1889;rmerlino
 sxa-636-2021-00;5;2021-10-07;0;1;85;moreno;atuel;2367;;;1744;cgroppo
 sxa-715-2019-00;1;2019-05-07;1;1;66;"villa elvira";609;;116;;1900;mstefano
-sxa-755-2018-00;5;2018-08-03;0;1;65;Catan;Larranaga;7488;;;1758;jgarcia
+sxa-755-2018-00;5;2018-08-03;0;1;65;"gonzales Catan";Larranaga;7488;;;1758;jgarcia
 sxa-901-2019-00;1;2019-05-01;0;1;66;"la plata";40;171;121;;1900;mstefano
 SXA-903-2023-00;5;2023-05-26;0;1;85;Moreno;Galarza;5921;;;1744;mnieves
 sxb-168-2022-00;5;2022-12-10;0;1;85;moreno;jacobo_watt;10676;;;1744;cgroppo
+sxb-180-2022-00;1;2022-10-04;0;1;13;hudson;49;3051;;;1884;mstefano
 sxb-292-2021-00;1;2021-07-01;0;1;66;"san carlos";155;;56;;1901;mstefano
 sxb-326-2023-00;5;2023-04-29;1;1;61;"william morris";granada;2307;;;1736;galfiero
 sxb-599-2021-00;5;2021-10-07;0;1;86;"el palomar";carlos_gardel;402;;;1685;cgroppo
@@ -8458,7 +8646,9 @@ sxs-949-2020-00;5;2020-01-25;0;1;65;"villa luzuriaga";rincon;45;;;1753;slugo
 sxs-xxx-2018-00;1;2018-07-11;0;1;66;gonnet;423;;14;14bis;1896;mstefano
 SXT-100-2023-00;5;2023-06-11;0;1;62;Ituzaingo;"Benito lynch";4887;;;1714;mnieves
 SXT-100-2023-01;5;2023-07-02;0;1;62;ituzaingo;"Benito lynch";4887;;;1714;mnieves
+sxt-897-2023-00;4;2023-05-11;0;1;67;"Monte chingolo ";burelas;4869;;;1825;tsouto
 SXV-481-2023-00;5;2023-06-17;0;1;61;hurlingham;"Pedro de mendoza";633;;;1686;mnieves
+sxv-719-2023-00;4;2023-06-06;0;1;6;dock_sud;campana;1189;;;1871;fossorio
 sxv-819-2018-00;4;2018-07-09;1;2;6;wilde;caviglia;365;;;1875;gsanluis
 SXV-927-2022-00;5;2022-10-26;1;1;73;Lobos;Luzuriaga;130;;;7240;mnieves
 sxz-188-2018-00;1;2018-05-14;0;1;36;"el dique";38;;127;128;1925;mstefano
@@ -8508,9 +8698,10 @@ tap-052-2018-01;1;2018-09-10;0;1;66;"san carlos";528;3903;134;;1901;mstefano
 tap-924-2019-00;5;2019-06-01;0;1;61;hurlingham;gutemberg;2666;;;1686;slugo
 tap-924-2019-01;5;2019-06-16;0;1;61;hurlingham;"gutemberg ";2666;;;1686;slugo
 TAR-155-2023-00;5;2023-05-26;1;;128;Ciudadela;Ohigins;608;;;1702;mnieves
-tar-163-2021-00;5;2021-10-12;0;1;4;"almirante  brown";angel_gallardo;918;;;1846;cgroppo
+tar-163-2021-00;5;2021-10-12;0;1;4;"almirante brown";angel_gallardo;918;;;1846;cgroppo
 tar-984-2018-00;4;2018-05-10;0;1;119;"alejandro korn";jujuy;650;;;1864;gsanluis
 tas-722-2018-00;5;2018-04-12;1;1;65;"rafael castillo";lanza;2059;;;1755;slugo
+tat-654-2022-00;1;2022-09-28;0;1;66;"melchor romero";162;0;;;1903;mstefano
 tav-331-2018-00;5;2018-06-05;0;1;128;caseros;puan;5506;;;1678;slugo
 tav-904-2019-00;1;2019-07-25;0;1;66;"lisandro olmos";238;;74;;1903;mstefano
 tay-346-2022-00;5;2022-09-28;0;1;65;"villa luzuriaga";AMERICA;4014;;;1754;mnieves
@@ -8535,6 +8726,7 @@ tbn-615-2019-00;1;2019-03-23;0;1;66;"villa elvira";3;2556;;;1900;mstefano
 tbp-053-2018-00;1;2018-07-24;0;1;66;"melchor romero";530;;;179;1903;mstefano
 TBP-587-2019-00;5;2019-08-23;0;1;85;Moreno;Bouchard;2540;;;1744;mnieves
 tbp-814-2021-00;4;2021-08-16;0;1;41;bosques;las_rosas;268;;;1889;asbruzzi
+tbq-388-2023-00;4;2023-05-11;0;1;13;berazategui;9;2673;;;1884;tsouto
 tbr-247-2019-00;3;2019-06-14;1;3;101;ezpeleta;venezuela;1412;;;1882;agraziano
 tbr-574-2018-00;1;2018-07-08;0;1;66;"san carlos";138;;32;33;1901;mstefano
 tbr-711-2018-00;1;2018-07-25;0;1;119;"san vicente";colombres;656;;;1865;mstefano
@@ -8546,6 +8738,7 @@ tbv-807-2018-00;4;2018-07-09;0;1;41;"florencio varela";el_tordillo;548;;;1888;gs
 tbz-777-2019-00;1;2019-06-25;0;1;14;berisso;14;;146;147;1923;mstefano
 tcb-810-2019-00;1;2019-04-01;0;1;14;berisso;"122 bis";1659;;;1923;mstefano
 tcc-892-2021-00;1;2021-08-05;0;1;66;"san carlos";152;156;;;1901;mstefano
+tcc-930-2022-00;1;2022-10-29;0;1;66;"los hornos";149;1825;;;1900;mstefano
 tcd-560-2022-00;5;2022-09-27;1;2;37;Escobar;Ballester;11;;;1625;mnieves
 tcd-704-2018-00;1;2018-07-12;0;1;66;"villa elvira";90;316;;;1900;mstefano
 tcm-385-2018-00;1;2018-09-04;0;1;66;"villa elvira";122;;613;614;1900;mstefano
@@ -8579,8 +8772,10 @@ tel-614-2021-00;1;2021-08-11;0;1;101;bernal;pampa;3771;;;;mstefano
 tem-954-2021-00;1;2021-10-26;0;1;66;tolosa;133;2159;;;1900;mstefano
 ten-601-2021-00;3;2021-07-29;1;3;4;claypole;receda;779;;;1849;agraziano
 teo-416-2019-00;1;2019-04-05;0;1;14;berisso;38;2135;;;1923;mstefano
+teo-780-2023-00;4;2023-06-08;0;1;38;monte_grande;seneca;2008;;;1841;fossorio
 TEP-345-2023-00;5;2023-02-16;0;1;61;Hurlingham;Alzaga;735;;;1686;mnieves
 tep-xxx-2021-00;1;2021-10-01;0;1;66;"melchor romero";516;;160;;1903;mstefano
+ter-184-2022-00;1;2022-09-02;0;1;66;romero;511;0;165;166;1903;mstefano
 ter-383-2019-00;1;2019-07-09;0;1;66;"villa elvira";122;3551;;;1900;mstefano
 ter-477-2020-07;4;2020-03-14;0;1;13;berazategui;12;6252;;;1884;gsanluis
 tes-017-2021-00;4;2021-08-06;1;1;13;berazategui;149;4904;;;1884;asbruzzi
@@ -8605,6 +8800,10 @@ tgd-852-2019-02;4;2019-09-03;0;1;74;"santa catalina";misiones_y_roca;35;;;;gsanl
 tge-430-2019-00;1;2019-07-26;1;1;66;"los hornos";53;;197;198;1900;mstefano
 tge-430-2020-01;1;2020-01-29;0;1;66;"melchor romero";53;;197;198;1903;mstefano
 tge-625-2021-00;4;2021-07-30;0;1;41;"florencio varela";511;2174;;;1888;asbruzzi
+tgf-564-2019-00;5;2019-03-20;0;1;85;"moreno ";dean_funes;5020;;;1744;cgroppo
+tgf-564-2019-01;5;2019-06-03;0;1;85;moreno;dean_funes;5020;;;1744;cgroppo
+tgf-564-2019-02;5;2019-06-19;0;1;85;moreno;dean_funes;5020;;;1744;cgroppo
+tgf-564-2019-03;5;2019-07-08;0;1;85;moreno;dean_funes;5020;;;1744;cgroppo
 TGF-719-2018-00;5;2018-08-22;0;1;82;Merlo;Laplace;456;;;1722;mnieves
 TGF-719-2019-00;5;2019-06-22;1;1;82;Merlo;Laplace;456;;;1722;mnieves
 TGF-719-2019-01;5;2019-08-26;1;1;82;Merlo;Laplace;456;;;1722;mnieves
@@ -8709,6 +8908,7 @@ tmr-276-2018-00;5;2018-06-08;0;1;55;"general rodriguez";rivadavia;245;;;1748;slu
 tmr-332-2021-00;3;2021-03-16;1;3;6;avellaneda;edison;3466;;;1870;agraziano
 tmr-415-2019-00;1;2019-09-09;0;1;66;"melchor romero";167;;527;;1903;mstefano
 tmr-677-2022-00;5;2022-06-29;0;1;86;"el palomar";Neuquen;1100;;;1685;cgroppo
+tmr-748-2023-00;4;2023-04-29;0;1;74;"lomas de zamora";Rosedal;280;;;1832;tsouto
 tmr-989-2018-00;1;2018-05-28;0;1;66;"melchor romero";160;1330;;;1903;mstefano
 tmr-989-2018-01;1;2018-10-07;0;1;66;"melchor romero";160;1330;;;1903;mstefano
 tmv-076-2018-00;3;2018-06-19;1;3;101;quilmes;ortiz_de_campo;1250;;;1878;jveslosada
@@ -8732,6 +8932,7 @@ tng-201-2021-00;5;2021-09-02;0;1;86;moron;avelino_palacios;3250;;;1708;cgroppo
 tng-373-2022-00;3;2022-06-07;1;3;41;"florencio varela";1548;2319;;;1888;agraziano
 tng-880-2019-00;1;2019-09-12;0;1;66;"villa elvira";92;103;;;1900;mstefano
 TNG-985-2020-00;1;2020-06-14;0;1;66;"ALTOS DE SAN LORENZO";19;1213;;;1901;mstefano
+TNG-985-2022-03;1;2022-10-18;;;66;"altos de san lorenzo";19;1213;;;1901;mstefano
 tnj-954-2018-00;1;2018-06-03;0;1;66;"altos de san lorenzo";136;2105;75;;1901;mstefano
 tnm-631-2022-01;1;2022-02-05;0;1;66;"los hornos";54;2580;;;1900;mstefano
 tno-350-2022-00;4;2022-02-24;0;1;4;glew;lamas;3115;;;1856;asbruzzi
@@ -8790,6 +8991,7 @@ ttn-389-2022-00;1;2022-05-30;1;1;66;"los hornos";52;15;;;1900;mstefano
 tto-454-2018-00;5;2018-07-02;0;1;61;"william morris";granado;2250;;;1681;slugo
 ttp-572-2019-00;1;2019-05-21;0;1;66;"villa elvira";74;;121;122;1900;mstefano
 tts-646-2018-00;5;2018-06-04;0;1;86;moron;angel_pache;243;;;1708;slugo
+tuc-772-2022-00;1;2022-10-21;0;1;66;"villa elvira";97;220;116;;1900;mstefano
 tuc-992-2021-00;5;2021-08-06;0;1;82;merlo;chopin;860;;;1721;galfiero
 tul-460-2019-00;5;2019-07-22;0;1;82;merlo;boyaca;3316;;;1722;slugo
 tum-105-2018-00;4;2018-06-27;1;2;98;guernica;almirante_brown;312;;;1862;gsanluis
@@ -8804,13 +9006,15 @@ tvf-841-2021-00;1;2021-01-27;0;1;66;"villa elvira";654;43;;;1900;mstefano
 tvg-061-2022-00;3;2022-09-20;1;3;4;claypole;namuncura;1080;;;1849;agraziano
 tvg-354-2018-01;1;2018-03-14;0;1;66;abasto;522;;212;;1903;rmerlino
 tvi-809-2021-00;4;2021-09-04;0;1;101;"san francisco solano";835;1763;;;1881;asbruzzi
-TVO-090-2023-00;5;2023-08-15;0;1;55;"Gral rod";Valparaiso;554;;;1748;mnieves
+tvm-157-2023-00;4;2023-06-23;0;1;6;sarandi;"estanislao zeballos ";2550;;;1872;fossorio
+TVO-090-2023-00;5;2023-08-15;0;1;55;"General rodriguez";Valparaiso;554;;;1748;mnieves
 tvp-515-2021-00;4;2021-08-20;0;1;41;"florencio varela";846;1028;;;1888;asbruzzi
 TVP-992-2023-00;5;2023-05-28;1;1;65;"Rammos mejia";Garibaldi;01;Sn;;1704;mnieves
 tvr-567-2022-00;1;2022-06-22;0;1;14;berisso;8;1820;;;1923;mstefano
 tvt-793-2018-00;1;2018-06-07;0;1;66;"melchor romero";158;;518;519;1903;mstefano
 tvt-793-2018-01;1;2018-10-21;0;1;66;"melchor romero";158;;528;529;1901;mstefano
 tvv-321-2018-00;4;2018-06-01;0;1;101;bernal;179;980;;;1876;gsanluis
+TXA-081-2022-00;1;2022-10-27;0;1;66;ABASTO;213;0;526;527;1903;mstefano
 txa-314-2021-00;1;2021-08-28;0;1;66;"altos de san lorenzo";83;1238;;;1901;mstefano
 txa-442-2018-00;1;2018-07-01;0;1;66;"san carlos";"37 bis";;151;152;1901;mstefano
 txa-499-2021-00;1;2021-10-21;0;1;66;"melchor romero";32;4033;;;1903;mstefano
@@ -8888,6 +9092,7 @@ txr-936-2021-00;1;2021-08-14;0;1;41;"florencio varela";"olovo ";2215;;;1888;mste
 txr-xxx-2019-00;1;2019-02-24;0;1;66;"san carlos";154;;524;;1901;mstefano
 TXS-389-2022-00;1;2022-08-15;0;1;66;"LOS HORNOS";155;2012;;;1900;mstefano
 txs-618-2021-00;1;2021-11-15;0;1;66;"la plata";67;;;;1900;mstefano
+txs-863-2022-00;;2022-09-28;0;1;;;;;;;;mstefano
 txs-982-2018-00;1;2018-08-20;0;1;66;"altos de san lorenzo";21;2359;;;1901;mstefano
 txs-xxx-2019-00;1;2019-09-17;1;4;41;"florencio varela";falucho;2765;;;1888;mstefano
 txt-465-2018-00;1;2018-08-07;0;1;66;"lisandro olmos";40;;183;184;1903;mstefano
@@ -8973,6 +9178,12 @@ ujm-835-2019-00;3;2019-09-01;1;3;4;burzaco;cuitiño;103;;;1852;agraziano
 ujp-208-2019-00;1;2019-06-20;0;1;26;chascomus;french;;intuzaingo;suipache;7130;mstefano
 ull-905-2018-00;1;2018-09-05;0;1;13;gutierrez;454;;418;;1884;mstefano
 ulr-384-2019-00;5;2019-09-13;0;1;85;moreno;san_jaime;2683;;;1744;cgroppo
+ulr-865-2018-00;5;2018-06-22;0;1;61;"hurlingham ";argibel;865;;;1686;cgroppo
+ulr-865-2018-01;5;2018-11-08;0;1;61;"hurlingham ";"argibel ";865;;;1686;cgroppo
+ulr-865-2019-00;5;2019-07-02;0;1;61;"hurlingham ";argibel;3548;;;1686;cgroppo
+ulr-865-2019-01;5;2019-09-20;0;1;61;"hurlingham ";argibel;3548;;;1686;cgroppo
+ulr-865-2019-02;5;2019-11-09;0;1;61;"hurlingham ";"argibel ";3548;;;1686;cgroppo
+ulr-865-2022-00;5;2022-07-12;0;1;61;"hurlingham ";"argibel ";3548;;;1686;cgroppo
 umb-409-2021-00;4;2021-08-06;0;1;135;caba;avenida_olazabal;5150;;;1431;asbruzzi
 umc-098-2022-00;3;2022-07-20;1;3;4;"rafael calzada";borondin;1880;;;1847;agraziano
 umc-209-2019-00;5;2019-07-01;0;1;85;moreno;"joaquin_v_gonzalez ";4916;;;1744;slugo
@@ -9008,6 +9219,7 @@ UXC-144-2023-00;5;2023-06-17;0;;85;Moreno;Araucano;750;;;1744;mnieves
 uxc-395-2022-00;5;2022-05-01;0;1;61;hurlingham;roman_rolland;265;;;1686;cgroppo
 uxe-559-2021-00;3;2021-08-20;1;3;41;"barrio san nicolas";;;;;1888;agraziano
 UXF-435-2022-00;1;2022-05-27;0;1;66;"SAN CARLOS";135;215;;;1901;mstefano
+uxg-442-2022-00;1;2022-10-10;0;1;66;"villa elvira";670;0;14;"14 bis";1900;mstefano
 uxi-387-2021-00;1;2021-09-06;0;1;66;"la plata";13;;61;;1900;mstefano
 uxi-387-2022-01;1;2022-07-05;0;1;66;"la plata";"plaza maximo paz";0;60;;1900;mstefano
 UXI-387-2022-02;1;2022-08-02;0;1;66;"HOGAR ANDREA BAYETO";13;0;60;;1900;mstefano
@@ -9057,6 +9269,7 @@ vea-086-2019-00;1;2019-05-01;1;1;66;abasto;"ruta 2 km 44";44;;;1903;mstefano
 vea-086-2019-01;1;2019-07-04;0;1;66;"lisandro olmos";"ruta 2 ";;205;206;1903;mstefano
 veb-931-2022-00;5;2022-09-13;0;1;65;"la matanza";uriarte;8729;;;1763;cgroppo
 vec-223-2019-00;1;2019-07-05;0;1;66;"los hornos";"146 bis";;71;;1900;mstefano
+vec-885-2022-00;1;2022-10-26;0;1;66;"villa elvira";89;85;;;1900;mstefano
 vef-667-2022-00;5;2022-04-24;0;1;85;Moreno;Quilmes;3247;;;1744;mnieves
 vef-667-2022-02;5;2022-07-13;0;1;85;Moreno;"Quilmes ";3247;;;1744;mnieves
 vef-667-2022-03;5;2022-07-31;0;1;85;Moreno;Quilmes;3247;;;1744;mnieves
@@ -9114,7 +9327,7 @@ vlr-xxx-2019-00;1;2019-04-25;0;1;66;"san carlos";135;209;;;1901;mstefano
 VMA-855-2023-00;5;2023-05-19;0;1;116;"San miguel";"Vigil ";1210;;;1663;mnieves
 VMD-001-2023-00;5;2023-05-30;0;1;62;"Ituzaingo centro";Colonia;1672;;;1714;mnieves
 vmd-139-2022-00;5;2022-06-19;0;1;63;"jose clemente paz";bragado;4402;;;1665;cgroppo
-VMD-139-2023-00;5;2023-05-19;0;1;63;"Joze c paz";Bragado;0;Sn;;1665;mnieves
+VMD-139-2023-00;5;2023-05-19;0;1;63;"Jose c paz";Bragado;0;Sn;;1665;mnieves
 vmf-101-2018-00;5;2018-04-30;1;1;86;"el palomar";guerrieri;780;;;1684;slugo
 vmf-101-2018-01;5;2018-07-13;0;1;86;"el palomar";guerrieri;780;;;1684;slugo
 vmf-101-2019-00;5;2019-05-17;1;1;86;"el palomar";"guerrieri ";780;;;1684;slugo
@@ -9148,6 +9361,7 @@ vsa-212-2019-01;4;2019-09-10;0;1;41;"ingeniero juan allan";1282;732;;;;gsanluis
 vsb-300-2022-00;5;2022-03-28;0;1;55;"general rodriguez";quijote;4081;;;1748;cgroppo
 vsc-428-2019-00;1;2019-05-11;0;1;41;"florencio varela";cataluña;2847;;;1888;mstefano
 vsc-625-2018-00;1;2018-06-11;0;1;66;"lisandro olmos";28;;224;225;1903;mstefano
+vsh-243-2022-00;1;2022-10-29;1;1;14;berisso;76;413;;;1923;mstefano
 vsr-791-2021-00;4;2021-09-07;0;1;101;quilmes;878;3334;;;1878;asbruzzi
 vsr-887-2021-00;5;2021-09-25;0;1;61;hurlingham;madame_curie;811;;;1686;cgroppo
 vtd-969-2022-00;1;2022-06-08;0;1;119;"san vicente";french;503;;;1854;mstefano
@@ -9177,6 +9391,7 @@ vxc-167-2018-00;1;2018-07-22;0;1;26;chascomus;costarica;224;;;7130;mstefano
 vxc-173-2022-00;5;2022-08-11;0;1;82;merlo;pitagoras;762;;;1744;cgroppo
 vxc-244-2019-00;4;2019-09-24;0;1;135;caba;saenz_peña;1734;;;1135;gsanluis
 vxc-517-2021-00;1;2021-09-15;0;1;66;"altos de san lorenzo";90;;;;1901;mstefano
+vxc-517-2022-01;1;2022-10-28;1;1;66;"altos de san lorenzo";90;0;;;1901;mstefano
 VXC-610-2022-00;1;2022-04-03;0;1;66;"lisandro olmos";197;0;70;;1903;mstefano
 VXC-610-2022-01;1;2022-08-22;0;1;66;OLMOS;197;0;70;;1903;mstefano
 vxc-690-2018-00;1;2018-07-09;0;1;66;"el peligro";229;;;420;1903;mstefano
@@ -9258,6 +9473,7 @@ wjr-384-2018-00;3;2018-08-26;1;3;41;"florencio varela";1132;3012;;;1888;jveslosa
 wjv-150-2018-00;1;2018-05-17;0;1;66;"los hornos";54;;144;145;1900;mstefano
 wkn-650-2019-00;1;2019-11-20;0;1;14;berisso;23;130;129;;1923;mstefano
 wkn-650-2020-01;1;2020-02-11;0;1;14;berisso;23;130;;;1923;mstefano
+wlc-882-2022-01;4;2022-12-02;0;1;135;caba;valle;2868;;;1437;gsanluis
 wmp-013-2021-00;1;2021-11-26;0;1;66;"la plata";16;1314;;;1900;mstefano
 wns-900-2018-00;5;2018-08-01;1;2;82;merlo;belen;3194;;;1722;slugo
 wta-549-2019-00;1;2019-05-27;0;1;14;berisso;30;3706;;;1923;mstefano
@@ -9301,6 +9517,7 @@ xmc-498-2021-00;4;2021-10-13;0;1;101;"san francisco solano";27_de_noviembre;1961
 xmf-601-2021-00;5;2021-09-01;0;1;85;trujui;azopardo;2020;;;1736;galfiero
 XMG-200-2023-00;5;2023-06-13;1;1;116;"San miguel";Victoria;5679;;;1663;mnieves
 xmp-822-2022-00;1;;0;1;73;lobos;123;0;"independecia ";areco;0;mstefano
+xmr-773-2023-00;4;2023-06-20;0;1;98;guernica;belgrano;930;;;1862;fossorio
 xmt-208-2019-00;1;2019-06-24;0;1;119;"san vicente";bolivar;2242;;;1864;mstefano
 xmt-208-2019-01;1;2019-12-15;0;1;119;"san vicente";bolivar;2242;;;1864;mstefano
 xna-878-2022-00;3;2022-06-07;1;3;67;lanus;ischilca;3457;;;1824;agraziano
@@ -9316,6 +9533,7 @@ xxp-625-2022-00;4;2022-08-11;0;1;74;"lomas de zamora";"murature ";220;;;1832;gsa
 xxs-233-2018-00;1;2018-11-08;1;1;66;tolosa;15;44;;;1900;mstefano
 xxs-942-2018-00;1;2018-07-14;0;1;66;"los hornos";"164 bis ";;63;64;1900;mstefano
 xxv-xxx-2019-00;1;2019-09-06;0;1;66;"la plata";"plaza paso";;60;;1900;mstefano
+xzv-905-2019-00;5;2019-07-02;0;1;65;gonzalez_catan;acassuso;5801;;;1759;cgroppo
 YAB-693-2023-00;5;2023-05-06;0;1;82;"Mariano acosta";"Carlos casares";3348;;;1722;mnieves
 yac-283-2019-02;4;2019-09-08;1;2;41;"florencio varela";"doctor cosme argerich";1335;;;1887;gsanluis
 yag-810-2018-00;1;2018-09-08;0;1;66;"melchor romero";518;;156;;1903;mstefano
@@ -9393,6 +9611,7 @@ yvv-869-2019-00;1;2019-06-25;0;1;66;"villa elvira";126;;604;605;1900;mstefano
 yvv-869-2019-01;1;2019-09-03;0;1;66;"villa elvira";126;;604;605;1900;mstefano
 yvv-869-2020-02;1;2020-11-09;0;1;66;"villa elvira";126;;;;1900;mstefano
 yxa-234-2023-00;5;2023-06-21;0;1;116;"san miguel";juan_domingo_peron;1300;;;1663;cgroppo
+YXA-797-2022-00;1;2022-10-14;0;1;66;"MELCHOR ROMERO";161;1990;;;1903;mstefano
 yxb-788-2021-00;4;2021-08-06;1;1;85;moreno;camoens;1664;;;1744;asbruzzi
 yxb-788-2021-01;4;2021-10-08;1;1;85;moreno;camoens;1664;;;1744;asbruzzi
 yxc-748-2021-00;5;2021-08-05;0;1;86;"villa sarmiento";manuel_rico;890;;;1708;cgroppo
