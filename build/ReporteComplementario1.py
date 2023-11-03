@@ -21,8 +21,9 @@ def write_to_csv(file_path, header, data):
         writer.writerow(header)
         writer.writerows(data)
 
+hospital=1
 # Query 1
-sql = "SELECT record_id,hospital,fecha_in_uti,fecha_eg_uti,@diasuti := (DATEDIFF(fecha_eg_uti, 	fecha_in_uti)),comentarios,formcomplete FROM rsvdinamicas WHERE @diasuti := (DATEDIFF(fecha_eg_uti,fecha_in_uti))<1 or @diasirab := (DATEDIFF(fecha_eg_uti,fecha_in_uti))>180"
+sql = "SELECT record_id,hospital,fecha_in_uti,fecha_eg_uti,@diasuti := (DATEDIFF(fecha_eg_uti, 	fecha_in_uti)),comentarios,formcomplete FROM rsvdinamicas WHERE (@diasuti := (DATEDIFF(fecha_eg_uti,fecha_in_uti))<1 or @diasirab := (DATEDIFF(fecha_eg_uti,fecha_in_uti))>180) and hospital = %s" % hospital
 data = run_query(sql)
 header = ['Record_ID', 'hospital', 'fecha de ingreso uti', 'fecha de alta uti', 'dias uti', 'Comentarios', 'Completado por']
 write_to_csv('informes/DiasUTI.csv', header, data)
