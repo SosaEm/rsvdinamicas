@@ -9,7 +9,7 @@ def AreaProg():
                     passwd=credenciales.get("DATABASE_PASSWORD"),
                     db="rsv dinamicas") as conn:
         cur = conn.cursor()
-        sql = "SELECT record_id,hospital,areaprog FROM rsvdinamicas WHERE areaprog!=1"
+        sql = "SELECT record_id,hospital,areaprog,formcomplete FROM rsvdinamicas WHERE areaprog!=1"
         cur.execute(sql)
         data = cur.fetchall()
         cur.close() #Ver si hace falta cerrar la conexion
@@ -18,7 +18,7 @@ def AreaProg():
     with open('informes/AreaProg.csv', 'w', newline='') as f_handle:
         writer = csv.writer(f_handle)
         # Crear encabezado del csv
-        header = ['Record_ID', 'hospital', 'Area programatica']
+        header = ['Record_ID', 'hospital', 'Area programatica', 'Completado por']
         writer.writerow(header)
         # Copiar `data`  y escribir en el csv
         for row in data:

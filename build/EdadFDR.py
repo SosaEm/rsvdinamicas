@@ -9,7 +9,7 @@ def EdadFDR():
                     passwd=credenciales.get("DATABASE_PASSWORD"),
                     db="rsv dinamicas") as conn:
         cur = conn.cursor()
-        sql = "SELECT record_id,hospital,fecha_ingreso,fecha_de_nacimiento,@edaddias := (DATEDIFF(fecha_ingreso,fecha_de_nacimiento))  FROM rsvdinamicas WHERE @edaddias := (DATEDIFF(fecha_ingreso,fecha_de_nacimiento))>1825 or @edaddias := (DATEDIFF(fecha_ingreso,fecha_de_nacimiento))<0"
+        sql = "SELECT record_id,hospital,fecha_ingreso,fecha_de_nacimiento,@edaddias := (DATEDIFF(fecha_ingreso,fecha_de_nacimiento)),formcomplete  FROM rsvdinamicas WHERE @edaddias := (DATEDIFF(fecha_ingreso,fecha_de_nacimiento))>1825 or @edaddias := (DATEDIFF(fecha_ingreso,fecha_de_nacimiento))<0"
         cur.execute(sql)
         data = cur.fetchall()
         cur.close() #Ver si hace falta cerrar la conexion
@@ -18,7 +18,7 @@ def EdadFDR():
     with open('informes/EdadFDR.csv', 'w', newline='') as f_handle:
         writer = csv.writer(f_handle)
         # Crear encabezado del csv
-        header = ['Record_ID', 'hospital', 'fecha de ingreso', 'fecha de nacimiento', 'edad en dias']
+        header = ['Record_ID', 'hospital', 'fecha de ingreso', 'fecha de nacimiento', 'edad en dias', 'Completado por']
         writer.writerow(header)
         # Copiar `data`  y escribir en el csv
         for row in data:
