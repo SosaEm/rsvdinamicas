@@ -13,7 +13,10 @@ def CompletadoPor():
         cur.execute(sql)
         data = cur.fetchall()
         cur.close() #Ver si hace falta cerrar la conexion
-
+    
+    # Sort `data` based on 'Completado por' column
+    data_sorted = sorted(data, key=lambda x: x[1], reverse=True)
+    
     # Crear csv
     with open('informes/CompletadoPor.csv', 'w', newline='') as f_handle:
         writer = csv.writer(f_handle)
@@ -21,5 +24,5 @@ def CompletadoPor():
         header = ['Completado por', 'Total']
         writer.writerow(header)
         # Copiar `data`  y escribir en el csv
-        for row in data:
+        for row in data_sorted:
             writer.writerow(row)

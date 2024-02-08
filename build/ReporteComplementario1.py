@@ -23,7 +23,8 @@ def write_to_csv(file_path, header, data):
 
 hospital=1
 # Query 1
-sql = "SELECT record_id,hospital,fecha_in_uti,fecha_eg_uti,@diasuti := (DATEDIFF(fecha_eg_uti, 	fecha_in_uti)),comentarios,formcomplete FROM rsvdinamicas WHERE (@diasuti := (DATEDIFF(fecha_eg_uti,fecha_in_uti))<1 or @diasirab := (DATEDIFF(fecha_eg_uti,fecha_in_uti))>180) and hospital = %s" % hospital
+sql = "SELECT record_id,hospital,fecha_in_uti,fecha_eg_uti,@diasuti := (DATEDIFF(fecha_eg_uti, 	fecha_in_uti)),comentarios,formcomplete FROM rsvdinamicas WHERE (@diasuti := (DATEDIFF(fecha_eg_uti,fecha_in_uti))<1 or @diasirab := (DATEDIFF(fecha_eg_uti,fecha_in_uti))>180)"
+# and hospital = %s" % hospital
 data = run_query(sql)
 header = ['Record_ID', 'hospital', 'fecha de ingreso uti', 'fecha de alta uti', 'dias uti', 'Comentarios', 'Completado por']
 write_to_csv('informes/DiasUTI.csv', header, data)
@@ -83,9 +84,9 @@ header = ['Record_ID', 'hospital', 'test_bordetella', 'resultado_bordetella','Co
 write_to_csv('informes/ResBordetella.csv', header, data)
 
 # Query 11
-sql = "select record_id,hospital,test_viro,resultado_viro___0, resultado_viro___1, resultado_viro___2, resultado_viro___3, resultado_viro___4, resultado_viro___5, resultado_viro___6, comentarios,formcomplete from rsvdinamicas where resultado_viro___0=0 AND resultado_viro___1=0 AND resultado_viro___2=0 AND resultado_viro___3=0 AND resultado_viro___4=0 AND resultado_viro___5=0 AND resultado_viro___6=0 AND test_viro =1;"
+sql = "select record_id,hospital,fecha_alta_irab,test_viro,resultado_viro___0, resultado_viro___1, resultado_viro___2, resultado_viro___3, resultado_viro___4, resultado_viro___5, resultado_viro___6, comentarios,formcomplete from rsvdinamicas where resultado_viro___0=0 AND resultado_viro___1=0 AND resultado_viro___2=0 AND resultado_viro___3=0 AND resultado_viro___4=0 AND resultado_viro___5=0 AND resultado_viro___6=0 AND test_viro =1;"
 data = run_query(sql)
-header = ['Record_ID', 'hospital', 'cultivo_pleural', 'resultado_viro___0', 'resultado_viro___1', 'resultado_viro___2', 'resultado_viro___3', 'resultado_viro___4', 'resultado_viro___5', 'resultado_viro___6',  'Comentarios', 'Completado por']
+header = ['Record_ID', 'hospital','fecha_alta_irab', 'cultivo_pleural', 'resultado_viro___0', 'resultado_viro___1', 'resultado_viro___2', 'resultado_viro___3', 'resultado_viro___4', 'resultado_viro___5', 'resultado_viro___6',  'Comentarios', 'Completado por']
 write_to_csv('informes/OtrosVirus.csv', header, data)
 
 # Query 12
@@ -129,3 +130,15 @@ sql = "SELECT record_id,hospital,cobertura,comentarios,formcomplete FROM rsvdina
 data = run_query(sql)
 header = ['Record_ID', 'hospital',  'cobertura' ,  'Comentarios', 'Completado por']
 write_to_csv('informes/Cobertura.csv', header, data)
+
+# Query 19
+sql = "SELECT record_id,hospital,fecha_de_nacimiento,comentarios,formcomplete FROM rsvdinamicas WHERE fecha_de_nacimiento IS NULL;"
+data = run_query(sql)
+header = ['Record_ID', 'hospital',  'fecha_de_nacimiento' ,  'Comentarios', 'Completado por']
+write_to_csv('informes/FechaNacMV.csv', header, data)
+
+# Query 20
+sql = "SELECT record_id,hospital,fecha_ingreso,fecha_alta_irab,comentarios,formcomplete FROM rsvdinamicas WHERE fecha_alta_irab IS NULL;"
+data = run_query(sql)
+header = ['Record_ID', 'hospital',  'fecha_ingreso' ,  'fecha_alta_irab' ,  'Comentarios', 'Completado por']
+write_to_csv('informes/FechaAltaMV.csv', header, data)
